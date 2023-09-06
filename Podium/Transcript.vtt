@@ -1,0 +1,1216 @@
+WEBVTT Kind: captions; Language: en
+
+NOTE There were 3 speakers identified in this transcript. Podium recommends using "Find and Replace" to change the speaker label to the appropriate name. Speaker separation errors can arise when multiple speakers speak simultaneously. 
+
+00:04.946 --> 00:09.851
+<v Speaker 1>I'm Noah and I'm Ben and you're listening to Product Journey.
+
+00:14.520 --> 00:17.209
+<v Speaker 2>Hi folks, today we got Justin Jackson on the podcast.
+
+00:17.380 --> 00:22.391
+<v Speaker 2>He is the co-founder of Transistor, which is a podcasting hosting company.
+
+00:23.600 --> 00:29.592
+<v Speaker 2>He's also the founder of MegaMaker, a community for founders, and, of course, avid podcast lover and listener.
+
+00:29.612 --> 00:30.854
+<v Speaker 2>Hi Justin, hey, how's it going?
+
+00:30.874 --> 00:33.580
+<v Speaker 2>It's nice to be here, thanks for coming on.
+
+00:33.600 --> 00:42.105
+<v Speaker 3>Justin, I listen to the show every week, so it's fun to finally talk to people that you only hear talking to you.
+
+00:42.641 --> 00:43.665
+<v Speaker 3>Yeah, same actually.
+
+00:45.144 --> 00:45.766
+<v Speaker 2>Stuck to have you.
+
+00:47.242 --> 00:51.792
+<v Speaker 1>Yeah, we can kind of finally make this one by one connection.
+
+00:52.420 --> 00:55.909
+<v Speaker 1>Now we can just talk actually together instead of oh you listen, then I listen.
+
+00:57.462 --> 00:59.148
+<v Speaker 3>Yeah, totally, totally.
+
+00:59.701 --> 01:04.453
+<v Speaker 3>It's funny also because I've seen Ben before.
+
+01:04.613 --> 01:12.912
+<v Speaker 3>We've never talked, but I had to come up with a vision in my head of what Noah looked like, and now I can actually see.
+
+01:14.182 --> 01:15.486
+<v Speaker 2>For the rest of the listeners at home.
+
+01:16.027 --> 01:19.104
+<v Speaker 3>they don't know yet, but now I know I'm a part of the secret club.
+
+01:20.880 --> 01:22.465
+<v Speaker 1>Yeah, was it what you expected.
+
+01:24.984 --> 01:30.140
+<v Speaker 3>Well, usually, I've been podcasting since 2012 and usually I'm the disappointment.
+
+01:30.922 --> 01:33.287
+<v Speaker 3>People meet me in person, they go.
+
+01:33.828 --> 01:35.231
+<v Speaker 3>I thought you'd be a lot taller.
+
+01:38.384 --> 01:41.611
+<v Speaker 1>Yeah, I feel like that always happens when you hear someone's voice.
+
+01:42.920 --> 01:51.809
+<v Speaker 1>If it's deeper, you kind of depict a certain kind of person in your mind, or if it's yeah, it just depends on the voice, and then usually it's always ignore what you're thinking.
+
+01:51.849 --> 02:02.708
+<v Speaker 3>Yeah, If I had to guess, I'd guess that Noah is about six feet tall and I'm going to guess Ben is about the same height as me.
+
+02:02.860 --> 02:03.723
+<v Speaker 3>I'm five foot eight.
+
+02:05.160 --> 02:05.481
+<v Speaker 3>How did I?
+
+02:05.501 --> 02:07.441
+<v Speaker 1>do so.
+
+02:07.903 --> 02:08.426
+<v Speaker 1>You're pretty good.
+
+02:08.560 --> 02:10.327
+<v Speaker 1>I'm six foot three, okay.
+
+02:11.020 --> 02:13.607
+<v Speaker 2>And I'm trying to calculate centimeters to foot rent.
+
+02:13.627 --> 02:28.268
+<v Speaker 3>Oh yeah, See, this is the weird Canadian thing is that we use the metric system, but we are so close to the US that we end up doing measurements in inches, so I'm almost exactly six foot tall.
+
+02:28.781 --> 02:30.206
+<v Speaker 3>Oh, you're almost exactly six feet.
+
+02:30.306 --> 02:35.569
+<v Speaker 3>Okay See, now everybody knows, everybody's just adjusted.
+
+02:37.882 --> 02:40.751
+<v Speaker 2>Maybe you should just attach images to the show notes.
+
+02:41.162 --> 02:42.110
+<v Speaker 3>So what is it?
+
+02:42.360 --> 02:51.389
+<v Speaker 3>I think every podcast show notes needs to have stats on people Noah six foot three Ben how many centimeters.
+
+02:51.449 --> 02:54.769
+<v Speaker 2>Is that it's 185 or 186.
+
+02:54.789 --> 02:56.195
+<v Speaker 3>185 centimeters.
+
+02:56.235 --> 03:06.482
+<v Speaker 1>Yeah, give people some stats, that's what they want to hear Blue eyes, dark blondish, pretty blonde hair Form a picture.
+
+03:08.980 --> 03:13.249
+<v Speaker 1>So yeah, so we're glad to have you on the show, Justin.
+
+03:15.640 --> 03:27.033
+<v Speaker 1>Two topics that we're kind of interested in, that I know you talk a decent amount about, is audience building and your market, and starting with a market instead of an idea.
+
+03:27.240 --> 03:35.297
+<v Speaker 1>So we kind of wanted to jump into both those two topics and just kind of dig deeper into that.
+
+03:36.118 --> 03:36.579
+<v Speaker 3>Perfect.
+
+03:37.281 --> 03:39.006
+<v Speaker 3>It's like my favorite thing to talk about right now.
+
+03:40.660 --> 03:45.552
+<v Speaker 3>I think, some people are getting sick of me talking about it, but I just can't stop thinking about it.
+
+03:47.002 --> 03:48.627
+<v Speaker 3>So it's what naturally kind of comes out.
+
+03:49.960 --> 03:54.872
+<v Speaker 1>And actually we had a question about that kind of like with building an audience.
+
+03:55.240 --> 03:56.244
+<v Speaker 1>That was one of the things we're interested in.
+
+03:57.240 --> 03:59.805
+<v Speaker 1>Do you ever feel like you run out of new things to say?
+
+04:05.260 --> 04:24.253
+<v Speaker 3>I mean, one thing that's been helpful for me is that since 2013, we've had this online community with Mega Maker, and so people are interacting and asking questions all the time, and those discussions often inspire my thinking of oh wait a second.
+
+04:24.760 --> 04:39.194
+<v Speaker 3>It's actually like a lot of my tweets come out of conversations that I've had inside of Mega Maker, or things I'm listening to on a podcast, or even things I've read in a book.
+
+04:39.780 --> 04:40.944
+<v Speaker 3>You know I'm reading something.
+
+04:42.360 --> 04:51.071
+<v Speaker 3>It brings up these thoughts, and I treat Twitter kind of like the local comedy club.
+
+04:51.332 --> 04:57.790
+<v Speaker 3>You know where you go and test out material and she's like, ok, I'm going to try this out and see how it lands.
+
+04:59.341 --> 05:03.089
+<v Speaker 3>And it's also just a helpful way for me to process my thinking.
+
+05:04.540 --> 05:07.809
+<v Speaker 3>So, no, I haven't run out of things to talk about yet.
+
+05:08.540 --> 05:33.056
+<v Speaker 3>I do have moments like John and I are doing our podcast now and I think we're ready for the year to be done in some ways, you know, like ready for things to kind of wind down, and so I think there's such thing as fatigue when you're publishing something every week and you eventually need to give your brain space to just explore.
+
+05:33.417 --> 05:39.831
+<v Speaker 3>You know other things and have other ideas, but yeah, not most of the time.
+
+05:39.892 --> 05:49.073
+<v Speaker 3>As long as I'm interacting with people and real life situations and also doing experiments in my own life, I don't have anything to say yet.
+
+05:50.883 --> 06:01.347
+<v Speaker 1>Yeah, I could see the fatigue in that, like you feel like you're you have to have something to say, like at least every week when you have the podcast, like you have to have a new thing that you're thinking about or that you can dive into.
+
+06:04.396 --> 06:05.941
+<v Speaker 1>Yeah, we definitely kind of see that.
+
+06:06.443 --> 06:09.622
+<v Speaker 3>I think this is what that's why breaks are important.
+
+06:11.030 --> 06:19.641
+<v Speaker 3>I Almost get this more with, because podcasting you can just turn on the mics and if you have a rough idea of where you want to go, you can talk it out.
+
+06:20.896 --> 06:42.384
+<v Speaker 3>But writing, I find, is a lot more, takes a lot more of my energy and so, like writing that weekly newsletter that I write is there are definitely weeks where that is time I Not because I don't have an idea, but sometimes to process ideas and actually Write it in a way that makes sense as hard.
+
+06:43.976 --> 06:46.985
+<v Speaker 3>But yeah, the in either case, breaks are good.
+
+06:48.108 --> 06:53.980
+<v Speaker 2>I can't always say I'm receiving that newsletter and you're doing pretty good, I guess I'm enjoying it.
+
+06:56.038 --> 06:56.299
+<v Speaker 3>I don't.
+
+06:56.359 --> 06:59.588
+<v Speaker 3>That almost gives me more pressure, because then I'm like oh, I like it, I got to keep going.
+
+07:00.576 --> 07:02.323
+<v Speaker 2>Yeah, well, and that came down now.
+
+07:04.196 --> 07:05.160
+<v Speaker 2>In that case, I hated it.
+
+07:10.336 --> 07:10.818
+<v Speaker 2>So we got a.
+
+07:10.938 --> 07:15.965
+<v Speaker 2>We got a couple questions about audience and I think I have a pretty interesting one.
+
+07:16.536 --> 07:26.323
+<v Speaker 2>That is what, what makes a good audience, and do you think that you should like, do you think you have to be part of your audience, like do you have to feel comfortable among the people?
+
+07:27.205 --> 07:32.367
+<v Speaker 3>hmm, so I'm I've actually changed my tune a little bit on this.
+
+07:32.955 --> 07:43.768
+<v Speaker 3>Hmm, I think now, if you're starting a business, the market is the most important thing, the market you choose.
+
+07:44.751 --> 07:50.500
+<v Speaker 3>And when I say market, I don't mean market as in just a Identifiable group of people.
+
+07:51.877 --> 07:57.619
+<v Speaker 3>I'm talking about a group of people that buys X.
+
+07:58.262 --> 08:04.461
+<v Speaker 3>So the diamond market Last year was four point five billion or something like that.
+
+08:04.882 --> 08:05.964
+<v Speaker 3>To me, that's a market.
+
+08:06.084 --> 08:22.646
+<v Speaker 3>It's a market where you can see people in motion, preferably buying something, but sometimes it's just people in motion doing something, and and Everything kind of hinges on that which market you are in.
+
+08:24.157 --> 08:33.329
+<v Speaker 3>So, as an example, taylor Ottwell is the founder of Laravel, which is the most popular PHP programming framework in the world.
+
+08:35.476 --> 08:36.440
+<v Speaker 3>He has a huge audience.
+
+08:36.500 --> 08:40.935
+<v Speaker 3>If you look at his audience, quote-unquote on Twitter, he's got I don't know.
+
+08:41.817 --> 08:43.561
+<v Speaker 1>Hundreds of thousands of followers.
+
+08:43.681 --> 08:49.500
+<v Speaker 3>Let's, let's just check, because I don't want people to be so well.
+
+08:51.396 --> 08:57.269
+<v Speaker 3>He has okay, he has 82,000 followers on Twitter, so for a lot of people that would be a big audience.
+
+08:58.376 --> 09:07.624
+<v Speaker 3>Mm-hmm and if you go to Lara Khan, you see he's got 800 people in the audience, right, and he has, you know, tons of people buying his stuff.
+
+09:07.745 --> 09:17.278
+<v Speaker 3>He has millions of people using Laravel, but all of that is in the context of a bigger market there's.
+
+09:18.123 --> 09:26.591
+<v Speaker 3>It's hard to count the number of programmers in the world, but let's just say a reasonable estimate is that there's five million PHP programmers in the world.
+
+09:26.891 --> 09:27.132
+<v Speaker 2>Mm-hmm.
+
+09:29.199 --> 09:34.410
+<v Speaker 2>Would you agree with that, Ben yeah, definitely you know I've actually used Laravel for a couple of projects.
+
+09:35.072 --> 09:44.548
+<v Speaker 3>Okay there you go, and so, and Five million PHP programmers in the world and.
+
+09:45.056 --> 09:54.445
+<v Speaker 3>Let's just say, let's just take one element of that market, not including all the tools they buy, not including, you know, everything else that you need to be a programmer.
+
+09:54.485 --> 09:58.299
+<v Speaker 3>Let's just think about salary, and these are.
+
+09:58.701 --> 10:05.786
+<v Speaker 3>These are just guesses, but let's say, on average, an Average PHP programmer in the world makes twenty five thousand dollars a year.
+
+10:07.656 --> 10:13.640
+<v Speaker 3>Well, twenty five thousand times five million is 125 billion.
+
+10:13.962 --> 10:20.975
+<v Speaker 3>I think that's a hundred and twenty five billion dollars being spent on salaries for PHP developers alone.
+
+10:23.271 --> 10:25.518
+<v Speaker 3>That's a massive Market.
+
+10:25.779 --> 10:44.984
+<v Speaker 3>It's not just a big group of people, but it's also a big group of people who where there's some sort of economic activity being generated, and I think it's why products in the Laravel community often have a magnified Impact compared to other things.
+
+10:45.004 --> 10:48.335
+<v Speaker 3>So you know, I have a course called marketing for developers that did pretty good.
+
+10:49.336 --> 10:53.287
+<v Speaker 3>But that's like if you take all of the developers in the world and then you ask how many?
+
+10:53.709 --> 10:55.073
+<v Speaker 3>of those developers want to learn marketing.
+
+10:58.081 --> 10:59.685
+<v Speaker 3>It's a much smaller slice, right?
+
+10:59.705 --> 11:02.531
+<v Speaker 3>Yeah, how many developers in the world are PHP?
+
+11:02.551 --> 11:04.455
+<v Speaker 3>developers that want to make their jobs better.
+
+11:05.980 --> 11:10.034
+<v Speaker 3>Well, that's probably five million Mm-hmm.
+
+11:12.781 --> 11:17.792
+<v Speaker 3>And so you, you can compare results and you can see that kind of.
+
+11:17.812 --> 11:27.585
+<v Speaker 3>Everything hinges on the market, how big the market is, how big that your audience can be within that market, and then all the multiples all kind of depend on that.
+
+11:27.605 --> 11:34.975
+<v Speaker 3>So how much money is being spent in that market already and how much of that can you carve off for yourself?
+
+11:35.335 --> 11:35.961
+<v Speaker 3>You know Taylor.
+
+11:38.358 --> 11:39.000
+<v Speaker 3>You know Taylor.
+
+11:40.855 --> 11:45.044
+<v Speaker 3>Presumably he's only carved off a little bit of the PHP market.
+
+11:45.244 --> 11:53.764
+<v Speaker 3>Like there's still other frameworks, there's still programmers that don't know or use about Sorry, don't know about or use Laravel.
+
+11:55.056 --> 11:56.944
+<v Speaker 3>So he's still got plenty of room to grow as well.
+
+11:57.957 --> 12:07.959
+<v Speaker 3>But even then, like Taylor, ottwell as a solo person has sold ten million dollars worth of software to PHP developers.
+
+12:09.216 --> 12:11.518
+<v Speaker 3>That's pretty crazy, that's insane.
+
+12:12.140 --> 12:14.186
+<v Speaker 3>And he just recently took on employees.
+
+12:14.306 --> 12:26.931
+<v Speaker 3>So you know, there's funded startups in San Francisco right now that have millions of dollars in funding Staff of a 50 people and they haven't sold ten million dollars worth of software.
+
+12:26.951 --> 12:47.122
+<v Speaker 3>I think the market that you're in determines everything, and when you have what Corey Gwynn calls demonstrated demand, so you can actually see the demand, that's kind of what you're looking for.
+
+12:47.163 --> 12:57.294
+<v Speaker 3>You're looking for people in motion I Large group of people in motion who are where there's economic activity being generated from whatever they're doing.
+
+12:58.777 --> 12:59.078
+<v Speaker 1>So yeah.
+
+12:59.118 --> 13:07.975
+<v Speaker 1>So you would basically say start out with the market, try to find a market you want to work in, and then start building audience and around that.
+
+13:08.236 --> 13:15.901
+<v Speaker 1>Like don't worry as much about do you feel comfortable in that audience, or yeah, those kind of things.
+
+13:16.865 --> 13:18.310
+<v Speaker 3>I mean, this is where it gets tricky.
+
+13:19.354 --> 13:28.486
+<v Speaker 3>This is why business is so hard, because you have to you apply all of these filters to get to where you want to go.
+
+13:28.506 --> 13:31.456
+<v Speaker 3>So it's not enough to just be in a good market.
+
+13:31.998 --> 13:34.063
+<v Speaker 3>You actually have to be interested in that market.
+
+13:35.146 --> 13:38.139
+<v Speaker 3>You have to have good founder market fit.
+
+13:39.762 --> 13:49.345
+<v Speaker 3>You have to then be able to identify some sort of need in that market.
+
+13:51.249 --> 13:59.688
+<v Speaker 3>Then you have to actually execute on some things and make some sort of connection.
+
+13:59.728 --> 14:10.344
+<v Speaker 3>I don't think you have to necessarily build an audience, but you get a lot of leverage from who you know and who knows you.
+
+14:11.767 --> 14:13.857
+<v Speaker 3>Who you know is just making connections.
+
+14:13.997 --> 14:15.762
+<v Speaker 3>We're making connections right now.
+
+14:16.304 --> 14:27.896
+<v Speaker 3>Now the three of us know each other and even the fact that we've been on a phone call makes it a lot easier for me to ask a favor of you in the future or for you to ask a favor of me.
+
+14:28.317 --> 14:29.661
+<v Speaker 3>That's networking.
+
+14:29.721 --> 14:39.885
+<v Speaker 3>That's who you know, who knows you is the audience effect and that could be very helpful.
+
+14:40.746 --> 14:44.983
+<v Speaker 3>But there are people who have built businesses without doing that.
+
+14:46.148 --> 14:56.701
+<v Speaker 3>Ruben Gammes is a good example of someone who's just built a software business almost purely on search engine results and optimizing search engine results.
+
+14:58.265 --> 15:05.194
+<v Speaker 3>I think it's one of the levers you can use Without any sort of human connection.
+
+15:05.254 --> 15:07.640
+<v Speaker 3>It's very difficult.
+
+15:07.800 --> 15:14.219
+<v Speaker 3>You do have to connect with other human beings and this is why it's helpful to be interested in the market you're in.
+
+15:15.842 --> 15:22.940
+<v Speaker 3>Sometimes it can even that can be enough.
+
+15:24.063 --> 15:26.617
+<v Speaker 3>I'm really interested in the Laravel community.
+
+15:27.019 --> 15:31.838
+<v Speaker 3>I'm not really a Laravel developer, but I've spoken at their conference three times.
+
+15:32.199 --> 15:43.492
+<v Speaker 3>I really like the people and I would say I'm part of the community, even though I'm not like a power user of Laravel.
+
+15:49.305 --> 15:51.849
+<v Speaker 3>There has to be something that draws you to that market.
+
+15:52.029 --> 16:01.224
+<v Speaker 3>There has to be something that keeps you there, and you're probably going to need some sort of connection with some key people in that market to make it work.
+
+16:01.245 --> 16:07.381
+<v Speaker 3>How you get there is kind of the individual journey.
+
+16:08.624 --> 16:26.680
+<v Speaker 3>I'm almost 40 now and it's very difficult to say what are the ten steps that brought you to transistor, because it's like layer on layer on layer of my life going back to when I was a kid.
+
+16:27.923 --> 16:42.345
+<v Speaker 3>All of those steps up till now lead me to where I'm at now, I think you can optimize for some of those things like where you point yourself in life has a big determination of where you'll end up.
+
+16:42.445 --> 16:47.641
+<v Speaker 3>I think the connections you make matter a lot.
+
+16:47.885 --> 17:05.304
+<v Speaker 3>I think what you put out into the world matters a lot Podcasting, blogging, public speaking, but even just anything not open source projects.
+
+17:05.404 --> 17:16.165
+<v Speaker 3>Anything you put out into the world can help In terms of adding all those up and going okay, what really matters A lot harder to figure that out.
+
+17:18.092 --> 17:29.065
+<v Speaker 2>Yeah, I think that's a pretty interesting point, because when we started out with a podcast, I think we were both on the track of we should build an audience, and it's kind of like we're shifting away from that a little bit.
+
+17:31.173 --> 17:46.080
+<v Speaker 2>Just recently came across this tweet from Jane Portman and, I think, rob Walling, jane Portman from UserList, who were also talking about that how they didn't really need an audience, and that basically just fits very well to what you just said.
+
+17:46.100 --> 17:58.401
+<v Speaker 2>I guess there's one more thing that I would like to get your opinion on, because you're probably familiar with Derek Reimer and what happened with Level right, do you feel?
+
+17:58.421 --> 17:58.501
+<v Speaker 2>like.
+
+17:58.521 --> 18:06.517
+<v Speaker 2>Having an audience might not always be not necessary, but also maybe lead to false positives.
+
+18:07.459 --> 18:07.940
+<v Speaker 3>Oh, definitely.
+
+18:09.684 --> 18:11.488
+<v Speaker 3>Again, it can be really helpful too.
+
+18:13.239 --> 18:20.437
+<v Speaker 3>To say that my audience didn't help in launching Transistor would be disingenuous.
+
+18:20.617 --> 18:22.440
+<v Speaker 3>It definitely helped, it still helps.
+
+18:25.725 --> 18:35.222
+<v Speaker 3>But there is a risk, because what you're looking for is you're looking for some sort of momentum, right.
+
+18:35.242 --> 18:41.040
+<v Speaker 3>When you launch something, you're trying to gauge what kind of response is this getting.
+
+18:41.723 --> 18:48.902
+<v Speaker 3>When Apple releases the new iPhone, how many people are lined up outside of the Apple Store?
+
+18:52.388 --> 19:01.700
+<v Speaker 3>This Apple actually can fall prey to this, because they've got all these mega fans that are going to line up day one, no matter what.
+
+19:02.122 --> 19:14.087
+<v Speaker 3>You could see these huge lineups and you could go oh wow, the new iPhone is a big success, but unless the rest of the world shows up, then it's not going to be a success, right?
+
+19:15.395 --> 19:16.718
+<v Speaker 2>Yeah, that's a pretty good analogy.
+
+19:17.420 --> 19:19.204
+<v Speaker 3>Lineups on day one.
+
+19:19.224 --> 19:26.688
+<v Speaker 3>They are helpful, but they can also.
+
+19:26.708 --> 19:27.450
+<v Speaker 3>I've launched things.
+
+19:28.413 --> 19:33.564
+<v Speaker 3>I think still to this day, my best launch ever was for this.
+
+19:33.924 --> 19:42.348
+<v Speaker 3>I was doing this online series on product marketing and the first couple weeks, tons of people showed up.
+
+19:44.960 --> 19:48.909
+<v Speaker 3>When I started asking them what are you hoping to achieve out of this?
+
+19:48.975 --> 19:49.657
+<v Speaker 3>What brought you here?
+
+19:50.259 --> 19:53.336
+<v Speaker 3>They said, oh, I'm just a big fan, I just get everything that you put out.
+
+19:55.120 --> 20:01.599
+<v Speaker 3>That's nice, but it became really clear in the coming months that no one else cared.
+
+20:04.946 --> 20:06.736
+<v Speaker 3>That's the disadvantage of having an audience.
+
+20:06.816 --> 20:12.238
+<v Speaker 3>When people are really invested in your journey, they're going to show up, no matter what.
+
+20:12.258 --> 20:15.057
+<v Speaker 3>They're going to show up just because they have a personal connection to you.
+
+20:18.464 --> 20:27.345
+<v Speaker 3>Ultimately, if you're going to run a business, you need people who are going to show up, and then more people who are going to show up, and then more people who are going to show up right.
+
+20:27.365 --> 20:32.152
+<v Speaker 3>This is actually why I think the market you choose matters so much and what I've gotten into?
+
+20:32.172 --> 20:35.787
+<v Speaker 3>Some public disagreements with people who could be right.
+
+20:35.928 --> 20:52.377
+<v Speaker 3>I mean, these are my friends and people I respect, but the idea of going after a small niche, I think and again, maybe people are, I don't know.
+
+20:53.365 --> 21:00.471
+<v Speaker 3>The idea of going after a small niche is just, you're limiting yourself to, let's say, a pool of 5,000, 10,000 people.
+
+21:02.145 --> 21:12.719
+<v Speaker 3>Well, that's like going to a little tiny stream and trying to like scoop up a little bit of water from a tiny stream, as opposed to going after a big, massive market in motion.
+
+21:12.820 --> 21:23.797
+<v Speaker 3>That's like going to a rushing river and just putting your cup in the river and just like scooping out a little, and sure, you might be able to fill up your cup just at a small little stream.
+
+21:23.857 --> 21:35.174
+<v Speaker 3>But the rushing river has so much water that it's a lot easier for a solo bootstrapper to just put their cup in the river and then scoop up a bunch of water.
+
+21:36.225 --> 21:42.978
+<v Speaker 3>And I think sometimes this idea of niche leads people to the wrong places.
+
+21:43.785 --> 21:54.055
+<v Speaker 3>They're just looking for these tiny streams that no one else has ever discovered before and they say, well, we've got to avoid the big rivers because everyone knows about those.
+
+21:54.585 --> 22:01.694
+<v Speaker 3>Yeah, but it's a lot easier to get your cup in a big river and scoop out some water than find this tiny little thing that nobody knows exists.
+
+22:02.286 --> 22:04.252
+<v Speaker 2>Yeah, in the end your cup is bigger than the river.
+
+22:05.705 --> 22:06.227
+<v Speaker 3>Exactly.
+
+22:08.265 --> 22:13.417
+<v Speaker 1>I think I wonder if we're the kind of disagreement that you have with people about that.
+
+22:13.645 --> 22:20.378
+<v Speaker 1>That idea really just comes from the end goal with what people want to do with their business.
+
+22:21.145 --> 22:28.432
+<v Speaker 1>Because basically where I hear kind of what you're saying, I guess the opposite of what you say in that find a niche market.
+
+22:28.993 --> 22:40.216
+<v Speaker 1>The advice that I have typically seen that from is places like Y Combinator or startups that are really trying to do a go big or go home kind of business.
+
+22:42.085 --> 22:49.079
+<v Speaker 1>I think a good example is Peter Thiel, the co-founder PayPal, his book Zero to One.
+
+22:49.265 --> 22:56.837
+<v Speaker 1>I don't know if you've heard of that or read it, but I mean, that's almost his whole thing is basically go for the new markets.
+
+22:57.245 --> 22:58.189
+<v Speaker 1>That's where you can make.
+
+22:59.053 --> 23:08.347
+<v Speaker 1>Really there's a lot of opportunity to make a huge business, and that's kind of like what PayPal, facebook, some of those giant companies now did Well.
+
+23:08.387 --> 23:17.835
+<v Speaker 1>So, yeah, if people that are saying that kind of advice are venture capitalists or people that that's their goal, then I could see that making sense.
+
+23:18.406 --> 23:24.290
+<v Speaker 1>But for bootstrapers, I think that is then very dangerous, and so maybe I don't know.
+
+23:24.371 --> 23:25.114
+<v Speaker 1>I'm just wondering.
+
+23:25.196 --> 23:28.228
+<v Speaker 1>Maybe that's where the disconnect is between those different ideas.
+
+23:28.745 --> 23:42.652
+<v Speaker 3>Yeah, I think I mean part of it is probably semantics and part of it is this is all really emotional stuff, because the way that you are currently doing your thing kind of informs your bias.
+
+23:42.993 --> 23:46.951
+<v Speaker 3>The way that you've achieved success in the past informs your bias.
+
+23:47.925 --> 23:51.675
+<v Speaker 3>I mean I said things at 20 years old that I don't believe anymore.
+
+23:52.305 --> 24:00.815
+<v Speaker 3>I said things at 30 years old that I don't believe anymore, and so a lot of this is just where we're at and what's working for us right now.
+
+24:03.185 --> 24:06.830
+<v Speaker 3>But I mean I was on Twitter.
+
+24:06.890 --> 24:16.729
+<v Speaker 3>This guy, evan Golden, was saying you can stretch the definition pretty wide.
+
+24:17.065 --> 24:20.392
+<v Speaker 3>It's always easy to justify people are spending money.
+
+24:22.536 --> 24:23.158
+<v Speaker 3>What did he say?
+
+24:23.605 --> 24:26.254
+<v Speaker 3>He said people are spending money on tacos everywhere.
+
+24:26.405 --> 24:30.855
+<v Speaker 3>So this could justify me in opening a taco stand featuring dirt flavored tacos.
+
+24:32.065 --> 24:33.670
+<v Speaker 3>There's lots of evidence people want to tacos.
+
+24:35.345 --> 24:38.392
+<v Speaker 3>Evan's a friend of mine, but these are the kind of arguments I get into on Twitter.
+
+24:40.945 --> 24:55.540
+<v Speaker 3>But, I think that, unfortunately, that's exactly what I do want to do is I want to say is there any evidence in this market of prior demonstrated demand?
+
+24:55.661 --> 24:58.086
+<v Speaker 3>That's just a great word from Corey Gwynne.
+
+25:00.145 --> 25:02.332
+<v Speaker 3>And so PayPal let's take PayPal as an example.
+
+25:03.987 --> 25:08.496
+<v Speaker 3>What was the market for what PayPal was doing before PayPal existed?
+
+25:09.825 --> 25:10.548
+<v Speaker 3>What was massive?
+
+25:14.912 --> 25:25.037
+<v Speaker 3>The Western Union like money transfer market people trying to pay for things with credit cards online but having to go through their credit card processors, and there's all sorts of friction.
+
+25:25.806 --> 25:35.573
+<v Speaker 3>But there's tons of evidence that there was billions of dollars being spent in that market already, and so it's not like PayPal invented anything.
+
+25:36.265 --> 25:40.917
+<v Speaker 3>I mean, sure, they created a new way of doing those things, but they didn't create the market.
+
+25:41.345 --> 25:43.572
+<v Speaker 3>They were riding a wave that already existed.
+
+25:44.545 --> 25:52.131
+<v Speaker 3>They just saw the wave coming and they built a better surfboard that enabled them to ride further than anyone else had at the time.
+
+25:54.265 --> 26:11.111
+<v Speaker 3>And this is what I'm talking about is really, in some ways, what Evan is saying is like I am stretching the definition to say is there any sort of prior or existing demonstrated demand for this thing?
+
+26:14.705 --> 26:21.407
+<v Speaker 3>And I think you could see that in almost every major product launch, like the iPhone.
+
+26:21.608 --> 26:27.828
+<v Speaker 3>Before the iPhone was the BlackBerry and the Palm, and you can keep going back and back and back.
+
+26:30.667 --> 26:34.626
+<v Speaker 3>There's demonstrated demand for these things, even if you look at.
+
+26:35.968 --> 26:46.710
+<v Speaker 3>I can remember as a kid looking in catalogs wanting to buy a portable television right From Radio Shack or whatever.
+
+26:47.825 --> 26:52.477
+<v Speaker 3>There was demand for portable televisions that were battery operated.
+
+26:52.585 --> 26:57.998
+<v Speaker 3>They never worked very well, but there was demonstrated demand for that thing.
+
+26:58.405 --> 27:02.856
+<v Speaker 3>Well, a big part of the iPhone is just a portable television right.
+
+27:03.506 --> 27:04.711
+<v Speaker 3>At least that's how my kids use it.
+
+27:05.065 --> 27:06.471
+<v Speaker 3>It's like Netflix all day long.
+
+27:06.745 --> 27:07.468
+<v Speaker 1>Yeah, definitely now.
+
+27:08.785 --> 27:19.971
+<v Speaker 3>So I think the point is to look for some sort of demonstrated demand and to think is this a market in motion?
+
+27:20.305 --> 27:23.872
+<v Speaker 3>Is there evidence that people are doing something about this right now?
+
+27:26.317 --> 27:48.928
+<v Speaker 1>So yeah, yeah, so the market is kind of being defined as like a problem to be solved or like a job to be done, rather than maybe how marketers sometimes think about markets, as almost I feel like they can kind of put it into a box of a specific solution or a specific area in that way.
+
+27:50.105 --> 27:52.920
+<v Speaker 1>So yeah, really focusing from what you're saying, it sounds like.
+
+27:52.961 --> 27:55.852
+<v Speaker 1>Yeah, really focusing on the problem that needs to be solved.
+
+27:56.525 --> 27:59.771
+<v Speaker 1>Is that a big market of people want that?
+
+27:59.851 --> 28:04.794
+<v Speaker 3>Yeah, yeah, yeah, yeah exactly.
+
+28:07.008 --> 28:08.250
+<v Speaker 1>That's exactly what I'm talking about.
+
+28:13.445 --> 28:20.772
+<v Speaker 3>You can see this with if you go into product hunt and you find I run into this all the time products that are no longer around.
+
+28:21.465 --> 28:34.757
+<v Speaker 3>There's all these like dead startups, oh yeah, and in almost every case there just wasn't yeah enough demonstrated demand for that thing.
+
+28:34.817 --> 28:40.072
+<v Speaker 3>They were good ideas, they kind of made sense logically.
+
+28:40.994 --> 28:45.163
+<v Speaker 3>But if you looked at it and go, okay, but who's doing something about this right now?
+
+28:45.791 --> 28:57.852
+<v Speaker 3>That's really what's most interesting about Derek Reimer's story is that once he started talking to the people on his waiting list and asking, okay, well, what are you doing about this problem right now?
+
+28:59.255 --> 29:02.603
+<v Speaker 3>And often their response was well, nothing, we haven't done anything.
+
+29:03.411 --> 29:05.415
+<v Speaker 3>You haven't searched on Google for an answer?
+
+29:05.796 --> 29:09.103
+<v Speaker 3>No, you haven't searched the Slack extension store?
+
+29:09.790 --> 29:14.483
+<v Speaker 3>No, Well, that's a bad sign.
+
+29:14.904 --> 29:28.042
+<v Speaker 3>If people aren't even willing to do something free, which is just search for a solution, how are you going to convince them to jump over all of these hurdles and actually take out their credit card out of their wallet and pay you for something?
+
+29:30.150 --> 30:04.204
+<v Speaker 3>And this is another thing I've maybe had a hard time to articulate is it takes so much momentum to get someone to take out their credit card that you've got to be sure that what you're proposing is something that they really really want, and really the only way to figure that out, the only way to see that clearly is are they doing something about it right now, and is there enough of these people on mass doing this, doing something about it right now?
+
+30:05.475 --> 30:06.640
+<v Speaker 2>Yeah, I love that piece of advice.
+
+30:06.660 --> 30:07.806
+<v Speaker 2>I actually thought that it's.
+
+30:07.826 --> 30:08.670
+<v Speaker 2>I think it was actually.
+
+30:09.413 --> 30:27.636
+<v Speaker 2>You said that you should go to Twitter and just search if people are typing something like I don't know, like maybe even using their grammar example, like search in Twitter for just switching away from Slick, or switch away from Slick and see how many results you actually find, and there are a couple.
+
+30:27.676 --> 30:39.113
+<v Speaker 2>I did that for fun, but yeah, and I mean, that's just step one right, Because it's pretty low friction to tweet your disappointment with something but at least that's something, but at least that's something.
+
+30:39.654 --> 30:49.423
+<v Speaker 3>And then you would actually want to talk with folks and ask them questions like okay, well, what caused you to switch?
+
+30:50.626 --> 30:53.052
+<v Speaker 3>How long did you think about switching before it happened?
+
+30:54.756 --> 30:58.944
+<v Speaker 3>What did you have to do internally in your team to make that switch happen?
+
+31:00.151 --> 31:01.859
+<v Speaker 3>And that's where you're going to get a lot of answers.
+
+31:01.919 --> 31:13.014
+<v Speaker 3>It's one reason I worked for a project management software startup and what I didn't know before I joined is how hard it is to get people to switch project management software.
+
+31:13.856 --> 31:35.957
+<v Speaker 3>And it's remarkably difficult because everybody has an opinion on the team right the developers want one thing, the marketing folks want one another thing, the CTO wants one thing, like it goes around and around, and so you have to convince not just one person but 10, 20 people to make this decision.
+
+31:36.267 --> 31:39.592
+<v Speaker 3>And then the other kind of bad sign.
+
+31:40.333 --> 31:49.530
+<v Speaker 3>So, despite how difficult it is to get people to switch, people do switch all the time, and that's also a bad sign because they don't just switch once and then they're satisfied.
+
+31:49.650 --> 31:50.131
+<v Speaker 1>They switch.
+
+31:50.532 --> 31:52.838
+<v Speaker 3>They try Charallow and then they're like, no, this didn't work.
+
+31:53.340 --> 31:56.195
+<v Speaker 3>And then they try Basecamp and then like, oh, that doesn't work.
+
+31:56.616 --> 31:57.638
+<v Speaker 3>And then they try Jira.
+
+31:57.999 --> 32:02.196
+<v Speaker 3>They all end up in Jira, right, that's how it works.
+
+32:03.379 --> 32:11.558
+<v Speaker 3>And so when you actually get into those real discussions with people about what does the actual process look like?
+
+32:13.263 --> 32:29.853
+<v Speaker 3>Even a market like project management, it has its own minefield, right, like there's pros and cons, and I think for bootstrapers it's a lot harder.
+
+32:29.974 --> 32:45.702
+<v Speaker 3>It's why we've seen, you know, basecamp got in early and so they've done okay, but really, besides Basecamp, everybody else is venture funded because it just costs so much money and if you get on their list, like Jira will call you.
+
+32:46.224 --> 32:57.154
+<v Speaker 3>They've got sales people that want to onboard you, right, because they know the only way to push this through the whole funnel is to have a lot of kind of concerted effort doing it.
+
+32:58.577 --> 33:15.463
+<v Speaker 3>So a lot of these decisions depend on whether or not you're bootstrapping, whether or not you're bootstrapping as a solo founder, because some of these ideas and markets are just harder to reach as a bootstrapper or a solo founder.
+
+33:17.690 --> 33:18.011
+<v Speaker 1>Right.
+
+33:18.071 --> 33:29.009
+<v Speaker 1>So with that like in mind and you know, starting with the market, I guess, and maybe some ways, what sounds like what you'd say is basically start with the market filter.
+
+33:29.130 --> 33:36.953
+<v Speaker 1>Like that's the first filter that you want to put on of how to basically choose what problem you're going to solve, how you're going to do it.
+
+33:39.740 --> 33:46.157
+<v Speaker 1>How do you like it seems like you know you start talking to customers, you start talking to users.
+
+33:46.298 --> 33:52.398
+<v Speaker 1>It takes a while before you can really know what's the right approach, what's the right solution to actually build.
+
+33:53.521 --> 34:09.172
+<v Speaker 1>What do you do if that solution ends up being something that isn't something that a bootstrapper can do, or it's, or it's, or maybe it's a solution that doesn't use your strengths, you know, as a founder, it doesn't use your skills, your abilities.
+
+34:11.096 --> 34:23.964
+<v Speaker 1>So how do you handle that when, I guess, starting with a market Because, yeah, I mean, I guess in some ways it kind of goes back to there's just all these filters and in some ways, all these things have to align, which is obviously very hard.
+
+34:24.065 --> 34:25.711
+<v Speaker 3>Yeah, I mean, I think that's just the.
+
+34:27.033 --> 34:34.083
+<v Speaker 3>This is another unpopular tweet of mine, but it is just and I had to.
+
+34:34.544 --> 34:37.514
+<v Speaker 3>I had to admit this before I had any success.
+
+34:37.835 --> 34:52.051
+<v Speaker 3>But what you kind of have to admit in some way on one side is we're not all going to make it and a lot of people don't like hearing that, but we're not all going to make it.
+
+34:52.392 --> 35:01.314
+<v Speaker 3>There's no way that every single aspiring entrepreneur in the world can apply all of these filters and come out on the other side.
+
+35:02.477 --> 35:11.963
+<v Speaker 3>And, by the way, even if you come out on the other side and you know, like I have a business now that's doing pretty well, it could disappear tomorrow.
+
+35:12.990 --> 35:29.692
+<v Speaker 3>Every day I wake up going well, maybe today's the day it disappears, right, because markets change and they can change really fast, and so there's no like there's nothing really romantic about starting a business.
+
+35:29.913 --> 35:39.998
+<v Speaker 3>It's just there's all sorts of things that have to align for it to work, and a lot of us aren't going to make it.
+
+35:43.084 --> 35:45.469
+<v Speaker 3>So you have to hold that on one side.
+
+35:45.950 --> 35:48.922
+<v Speaker 3>Well, at the same time, on the other side, these things are in tension.
+
+35:50.328 --> 35:55.081
+<v Speaker 3>On the other side, you have to be super optimistic that you're going to make it and that you're just going to keep trying.
+
+35:55.482 --> 36:08.467
+<v Speaker 3>Because the other thing I've seen anecdotally I don't know if this is scientific, but the people who keep trying, who keep working at it, who keep pushing that ball forward, many of them do make it.
+
+36:09.169 --> 36:14.405
+<v Speaker 3>And so there's a little bit of how long can you last, how long can you try.
+
+36:14.425 --> 36:26.120
+<v Speaker 3>It's why a lot of successful entrepreneurs actually tend to be statistically older, because by that point in your life you've had a bunch of industry experience.
+
+36:26.381 --> 36:40.118
+<v Speaker 3>So you know what an industry is, you know you've got connections in that industry, you've seen the pain points, you've seen how they spend money, you know there's all of this accrued experience that ends up being helpful.
+
+36:41.720 --> 36:48.792
+<v Speaker 3>And time is kind of what allows you to keep pushing.
+
+36:49.032 --> 36:55.974
+<v Speaker 3>So it's not saying you shouldn't try in your 20s, but because you could, it could all align.
+
+36:56.014 --> 37:02.293
+<v Speaker 3>My friend, nathan Berry, is not even 30 yet and has already achieved more as a founder than a lot of folks.
+
+37:05.321 --> 37:18.034
+<v Speaker 3>But I think you have to have this idea of well, it might not happen, but I'm going to try, and this might be a 10 year project or this might be a 20 year project and you almost have to be okay with that.
+
+37:18.174 --> 37:35.031
+<v Speaker 3>Like this just might take time for everything to align and the whole time I'm going to have to be working as if this will eventually work out and not just doing the same thing, putting yourself in new circles, getting outside of your comfort zone.
+
+37:36.133 --> 37:44.821
+<v Speaker 3>I've described this before as is it command and conquer that uses fog of war, where you're just on a map and everything's dark and you're exploring it.
+
+37:44.901 --> 38:14.639
+<v Speaker 3>Yeah, so if you think about that as a metaphor like when you start out you're just in that map and all you can see is around you right, and as you explore more of the map, more and more parts become illuminated and every once in a while you'll end up in a spot of the map where things just happen right, like you get a bunch of bounty or you run into a bunch of enemies or whatever, and it's kind of like that, like you're walking around.
+
+38:15.822 --> 38:31.773
+<v Speaker 3>For me, for example, I was walking around and I just happened to run into Adam Wathen, who I had no idea who he was or anything about him, but he ended up being quite an influential person in the Laravel community.
+
+38:32.975 --> 38:45.695
+<v Speaker 3>And that was just me wandering around the map and him wandering around the map too and then Meeting each other and once once I could see like I've learned tons about.
+
+38:45.715 --> 39:10.261
+<v Speaker 3>A lot of my thoughts about like choosing a market first have been because of the influence of the Laravel community and looking at Taylor and Adam Wathen and Steve Shogar and and Jeffrey Way build these crazy businesses, because in my little world before I met them, you know, this is the way things were done.
+
+39:10.441 --> 39:11.905
+<v Speaker 3>People like us do things like this.
+
+39:12.726 --> 39:19.274
+<v Speaker 3>And then I got over Into that area of the map and it was like this whole new world opened up that I'd never seen before.
+
+39:19.294 --> 39:28.026
+<v Speaker 3>And Without that world opening up, I don't think I would have Well, I don't think a lot of things would have happened.
+
+39:29.008 --> 39:48.419
+<v Speaker 3>And so there's Clearly you have to kind of be always doing things, trying things, getting out of your comfort zone, meeting new people, and I think the advice I would give my kids is just to explore as much of the map as you can as early as you can.
+
+39:49.856 --> 39:55.209
+<v Speaker 3>Yeah, because that, the more exploration you do, I think I stayed too local too long.
+
+39:55.918 --> 40:03.269
+<v Speaker 3>You know, I grew up in this small little farming town in Alberta and then the big city was Edmonton and I just spent too much time there.
+
+40:04.072 --> 40:21.134
+<v Speaker 3>And then, you know, like the first time I flew into New York I was like holy shit, like there's a lot of people here, there's a lot of money here, there's a lot of businesses here that I've never even imagined before, and it kind of expanded my whole world view.
+
+40:21.154 --> 40:36.166
+<v Speaker 3>And Unless you're doing that work to kind of walk around the map and discover new, new areas, yeah, I think, I think it'll be harder to, you know, to find those markets, to find those ideas.
+
+40:36.446 --> 40:55.748
+<v Speaker 1>Yeah, so I want to go back a little bit to something you said, you know, kind of talking about how Basically this, this might not work for all of us and it's very hard and, yeah, we all might not make it through, and that's just kind of the the truth of it.
+
+40:56.196 --> 41:06.688
+<v Speaker 1>So, like, how do you and I'm just curious about your situation like how do you Go to your wife with that and get her on board for this whole journey of what we're trying to do?
+
+41:08.316 --> 41:17.463
+<v Speaker 1>Because, so that's I'm just curious, because that's definitely something I know me and my wife struggle with a lot Just with my last thing and like it is hard.
+
+41:17.567 --> 41:18.302
+<v Speaker 1>So it's like it's.
+
+41:18.406 --> 41:22.745
+<v Speaker 1>You know you, it's not just you going on this journey, you're bringing your whole family with you.
+
+41:23.005 --> 41:26.737
+<v Speaker 3>Yeah, I mean Again.
+
+41:26.777 --> 41:28.343
+<v Speaker 3>You probably don't want to look at the statistics.
+
+41:29.296 --> 41:30.759
+<v Speaker 3>The statistics are pretty bad.
+
+41:31.100 --> 41:31.701
+<v Speaker 2>Just don't look.
+
+41:32.042 --> 41:41.888
+<v Speaker 3>So this podcast has to be title unpopular opinion Jackson jakes, I mean it's just like, if you want the reality, the reality is not good statistically.
+
+41:44.101 --> 42:05.930
+<v Speaker 3>I mean, clearly, I think I Think all entrepreneurs have this feeling that maybe they can do it better than the next guy and Because, statistically, you know, millions of people start businesses but those people are in all sorts of different places, have all sorts of different leverage, have all sorts of different privilege.
+
+42:06.916 --> 42:21.595
+<v Speaker 3>You know there's there's all these factors that go into, you know, why a person becomes a success or not, and I think every entrepreneur feels like they've got some secret sauce that'll make them better than the next guy.
+
+42:22.482 --> 42:55.143
+<v Speaker 3>Oh, yeah but I mean, in my early 20s I started a couple retail shops that ended up losing a lot of money and that was hard to recover from as a family, and so that that is just part of it, like, if you're gonna be on that, so that was almost 20 years ago and yeah, so now I'm at a place where, you know, maybe I've learned enough lessons, that I've made enough connections, that I've made enough connections that things are happening.
+
+42:55.946 --> 42:57.839
+<v Speaker 3>But that's a long journey.
+
+42:57.980 --> 43:11.108
+<v Speaker 3>That's 10, 20 years of Work and so, yeah, I mean I think that's something you got to consider with, kind of, with everything.
+
+43:13.022 --> 43:14.995
+<v Speaker 3>I don't think you should kill yourself in the process.
+
+43:15.617 --> 43:15.897
+<v Speaker 3>I think.
+
+43:16.579 --> 43:20.510
+<v Speaker 3>I think I worked probably too hard a lot of those years when I didn't need to.
+
+43:20.590 --> 43:24.158
+<v Speaker 3>It's just wasted cycles Trying to make something happen.
+
+43:24.299 --> 43:25.581
+<v Speaker 3>You know you're you're.
+
+43:25.841 --> 43:43.456
+<v Speaker 3>It's far better for you to book a ticket to a conference that you've never been to, then to work 60, 70, 80 hours a week, because, at least for me, that the biggest jumps forward have been because I met somebody outside of my Circle.
+
+43:44.138 --> 43:57.553
+<v Speaker 3>I met John Buddha, my co-founder, in 2014 at this kind of Experimental technology art design festival called XOXO, and you know I wasn't gonna go.
+
+43:57.994 --> 44:02.587
+<v Speaker 3>Initially I had to kind of push myself to get out of the house and and actually go.
+
+44:04.057 --> 44:07.803
+<v Speaker 3>So, yeah, I don't think there's any easy answers there.
+
+44:08.505 --> 44:11.053
+<v Speaker 3>I think you can't stare, step your way up.
+
+44:11.534 --> 44:19.771
+<v Speaker 3>You can Do something small on the side and then see if that evolves into something bigger, and then something bigger, and then something bigger.
+
+44:21.538 --> 44:29.943
+<v Speaker 3>Nathan Barry just wrote a piece on this that I don't fully like or agree with, but Maybe I don't like it just because it's the hard truth.
+
+44:30.865 --> 44:41.007
+<v Speaker 3>He talks about a series of ladders and you know, the first ladder is just like trading time for money, and then you kind of work up that ladder.
+
+44:41.147 --> 44:43.915
+<v Speaker 3>Right, you can work yourself up from making minimum wage up to making more money per hour.
+
+44:44.275 --> 44:49.358
+<v Speaker 3>But then you go to the next ladder, which has higher earning potential, but it's harder.
+
+44:49.398 --> 45:06.055
+<v Speaker 3>It's just like, okay, now you've got to, you're trading time for money, but it's it's more on your terms, like consulting, and so then you work your way up that, that level and then there's another ladder and you know these keep you up and down.
+
+45:06.336 --> 45:15.169
+<v Speaker 3>You know these keep going and the difficulty with each ladder goes up and but your your potential.
+
+45:15.632 --> 45:33.047
+<v Speaker 3>In his case, he's just talking about income, earning potential, your income earning potential goes up as well, and it is a little bit of a Stare step right, like you're moving your way up here, and then you're like, oh well, there's opportunity over here, so then you might take a few steps back to start here and then build yourself up here.
+
+45:33.737 --> 45:34.961
+<v Speaker 3>And then you look at the next ladder.
+
+45:34.981 --> 45:36.686
+<v Speaker 3>You go there's more opportunity over there.
+
+45:36.715 --> 45:39.004
+<v Speaker 3>So then you go back down and then work your way up.
+
+45:40.877 --> 45:40.937
+<v Speaker 3>It.
+
+45:42.897 --> 45:44.322
+<v Speaker 3>Yeah, that's all possible.
+
+45:46.376 --> 45:53.440
+<v Speaker 3>Definitely helps if you have in terms of, like, having a decent life.
+
+45:53.560 --> 45:55.707
+<v Speaker 3>It helps if you have a lot more cash saved up.
+
+45:56.938 --> 46:04.211
+<v Speaker 3>The more cash you have saved up the less stress you have, but that's not always possible either, right so?
+
+46:04.713 --> 46:05.014
+<v Speaker 1>that, that.
+
+46:07.319 --> 46:16.850
+<v Speaker 3>The only way I can think of to alleviate the stress is to have very low cost of living and or a lot of money saved up.
+
+46:19.640 --> 46:23.230
+<v Speaker 3>Yeah, money that you can risk that you wouldn't feel bad about losing.
+
+46:25.923 --> 46:43.255
+<v Speaker 3>So and you can even hear this in John and I's podcast you know he was working for cards against humanity when we started this and he also had more money saved up than I did, and so my stress level when we weren't quite yet full-time yet was a lot higher.
+
+46:45.722 --> 46:47.148
+<v Speaker 3>I'm just like, oh god, like do?
+
+46:47.168 --> 46:53.470
+<v Speaker 3>We got to take investment, we got to try to add three or four more Things on top of this to make this work.
+
+46:53.490 --> 46:58.317
+<v Speaker 3>You can see how, like desperation Effects, your actions and a lot of businesses you'll see, do this.
+
+46:58.472 --> 47:04.713
+<v Speaker 3>Like one thing's not working quite enough, so then they add another thing to hopefully bring up in more income, and that's not quite bringing enough.
+
+47:07.724 --> 47:10.895
+<v Speaker 3>So they add another thing and they just keep adding more and more stuff and more and more stress to their lives.
+
+47:14.143 --> 47:16.592
+<v Speaker 3>But yeah, for for John it's easy.
+
+47:16.632 --> 47:24.541
+<v Speaker 3>He's got no dependence and His cost of living is low and he had a bunch of money saved up For him.
+
+47:25.022 --> 47:25.884
+<v Speaker 3>Yeah, this isn't that's easy.
+
+47:25.944 --> 47:27.188
+<v Speaker 2>This isn't make it or break it.
+
+47:27.208 --> 47:28.772
+<v Speaker 2>It's like no, I can just, if this doesn't work.
+
+47:29.137 --> 47:41.793
+<v Speaker 3>Yeah, I'm fine, so that if you want to make it easier, I think, lower your expenses and Save a bunch of money, or get someone to give you a bunch of money.
+
+47:45.509 --> 47:46.975
+<v Speaker 1>Or rob a bank or whatever, I go the easy route.
+
+47:47.076 --> 47:50.314
+<v Speaker 1>I mean, this is why privilege plays such a big role in this.
+
+47:50.575 --> 47:53.826
+<v Speaker 3>I mean, this is why privilege plays such a big part in business.
+
+47:54.207 --> 47:57.960
+<v Speaker 3>Like some people do, they get a, they have a big trust fund and they get a bunch of money.
+
+47:59.077 --> 47:59.700
+<v Speaker 3>It does help.
+
+48:00.656 --> 48:01.921
+<v Speaker 2>Yeah, I agree yeah.
+
+48:02.757 --> 48:03.540
+<v Speaker 1>Yeah, that makes sense.
+
+48:04.816 --> 48:10.915
+<v Speaker 1>So maybe as a last question we could end with maybe you've heard the how I built this podcast.
+
+48:11.035 --> 48:14.789
+<v Speaker 1>They always end with an interesting question which is so for you.
+
+48:14.850 --> 48:19.624
+<v Speaker 1>I'm just interested in hearing as well, like With transistor, like where you guys gotten so far.
+
+48:19.764 --> 48:27.028
+<v Speaker 1>How much do you think of that Was luck and how much of it was you know you and John's skill and talents and hard work.
+
+48:27.796 --> 48:39.724
+<v Speaker 3>It's definitely the accumulation of a lifetime of experience, and I think I Think your attitude matters a lot in that.
+
+48:40.527 --> 48:44.804
+<v Speaker 3>Right like, are you gonna keep going out and Trying things?
+
+48:44.845 --> 48:47.455
+<v Speaker 3>Are you gonna keep going out and trying to push the envelope?
+
+48:47.716 --> 48:50.946
+<v Speaker 3>Are you gonna keep going out and put things out in public?
+
+48:52.264 --> 48:54.501
+<v Speaker 3>Are you gonna Go out and meet people?
+
+48:54.561 --> 49:23.118
+<v Speaker 3>Like it if, if you were gonna split test my life and you put one, justin, in his room and he never leaves and all he does is play Sonic the Hedgehog forever, and then you have another version where he's like, always Going out and trying to figure things out and trying to build things and trying to write and trying to meet this person, and for sure in that, a B test you know Justin B Winds there's.
+
+49:23.940 --> 49:25.083
+<v Speaker 3>I don't think it's, that's a.
+
+49:25.624 --> 49:26.947
+<v Speaker 3>It's not too difficult to see that.
+
+49:27.127 --> 49:54.265
+<v Speaker 3>So, yeah, there's a lot of luck and where I was born and and, but you're the, the the influence of luck starts to go down a lot like the, the influence of blind luck, like, just like where you were born, like what, what year and country and location and parents you were born to.
+
+49:54.967 --> 50:00.883
+<v Speaker 3>After that part, you make your most of your luck just by Whatever attitude you have every day.
+
+50:03.716 --> 50:11.923
+<v Speaker 3>There's still some privilege that comes with where you were born, but most of that kind of built-in luck has Already happened by the time you were born.
+
+50:14.317 --> 50:16.217
+<v Speaker 1>Yeah, cool.
+
+50:16.257 --> 50:18.285
+<v Speaker 1>Well, thanks Justin for coming on.
+
+50:18.325 --> 50:23.188
+<v Speaker 1>That was a good conversation, very helpful for both of us, yeah, I'm sure, for our listeners as well.
+
+50:23.208 --> 50:24.255
+<v Speaker 3>I didn't bum you out too much.
+
+50:26.720 --> 50:30.689
+<v Speaker 1>I mean sometimes you need a little get you back back to the truth.
+
+50:33.136 --> 50:40.051
+<v Speaker 1>So yeah, thanks, justin, and we'll see you guys in another episode and we'll put everything in the show notes.
+
+50:41.757 --> 50:43.439
+<v Speaker 2>All right, bye, see ya.
+
