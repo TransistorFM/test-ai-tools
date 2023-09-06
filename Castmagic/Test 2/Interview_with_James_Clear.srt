@@ -1,0 +1,4059 @@
+1
+00:00:03,130 --> 00:00:05,150
+This is Transistor FM.
+
+2
+00:00:15,330 --> 00:00:18,974
+Hey, product people, justin Jackson here and I've got
+
+3
+00:00:19,012 --> 00:00:22,238
+a brand new interview for you with
+
+4
+00:00:22,404 --> 00:00:25,874
+James Clear, who is the author
+
+5
+00:00:25,922 --> 00:00:29,590
+of Atomic Habits, a book that has
+
+6
+00:00:29,660 --> 00:00:32,918
+really changed my life since I've read it.
+
+7
+00:00:33,004 --> 00:00:36,758
+And I don't want to give too much of an intro. I just want to
+
+8
+00:00:36,764 --> 00:00:40,314
+get right into the actual interview. If you like
+
+9
+00:00:40,352 --> 00:00:43,482
+this, please reach out to James on Twitter at
+
+10
+00:00:43,536 --> 00:00:47,142
+jamesclear. And if you have comments about the episode,
+
+11
+00:00:47,206 --> 00:00:50,570
+reach out to me on Twitter. I'm the letter M. The letter I.
+
+12
+00:00:50,640 --> 00:00:54,190
+Justin. M I Justin. Here is me
+
+13
+00:00:54,340 --> 00:00:57,706
+and James talking about habits
+
+14
+00:00:57,898 --> 00:01:01,486
+and how you can make your life better one day at a
+
+15
+00:01:01,508 --> 00:01:02,080
+time.
+
+16
+00:01:08,870 --> 00:01:12,638
+The book your book's been out for a while. It's right here. Tomic Habits.
+
+17
+00:01:12,734 --> 00:01:16,406
+If you see it in an airport or something near you,
+
+18
+00:01:16,508 --> 00:01:19,958
+how long has it been out now? Today
+
+19
+00:01:20,124 --> 00:01:23,830
+is 100 days. Exactly. No way. Yeah, so
+
+20
+00:01:23,980 --> 00:01:27,374
+just over three months. I'm curious
+
+21
+00:01:27,522 --> 00:01:30,620
+because now it's been out for a while.
+
+22
+00:01:31,310 --> 00:01:35,098
+Is there one idea that your see
+
+23
+00:01:35,264 --> 00:01:39,082
+that people keep sharing? Like one idea that resonated from the book
+
+24
+00:01:39,136 --> 00:01:42,822
+in particular that gets shared more than anything else on Twitter
+
+25
+00:01:42,886 --> 00:01:46,474
+or wherever? So I was
+
+26
+00:01:46,512 --> 00:01:50,078
+curious about that myself when I was writing the book and thinking about it because
+
+27
+00:01:50,164 --> 00:01:53,806
+I kind of felt like, all know, hopefully all these
+
+28
+00:01:53,828 --> 00:01:56,814
+ideas are useful, but what's the one thing that people are going to latch onto?
+
+29
+00:01:56,862 --> 00:02:00,622
+Because sometimes you'll hear that from authors that there was one chapter
+
+30
+00:02:00,686 --> 00:02:04,098
+or something that was the chapter that really stuck with people.
+
+31
+00:02:04,184 --> 00:02:07,766
+Yeah. I'm grateful for the fact that there are a variety of
+
+32
+00:02:07,788 --> 00:02:08,840
+things, but
+
+33
+00:02:11,290 --> 00:02:15,010
+there are a few things. So the first one is Identity Based Habits,
+
+34
+00:02:15,090 --> 00:02:18,230
+which is chapter two. And that
+
+35
+00:02:18,300 --> 00:02:22,074
+concept really seems to have resonated with people. The
+
+36
+00:02:22,112 --> 00:02:25,946
+idea of trying to reinforce your desired identity and kind of starting with
+
+37
+00:02:25,968 --> 00:02:29,114
+who you want to become rather than what you want to achieve. Yes,
+
+38
+00:02:29,232 --> 00:02:33,018
+and I'm glad that it did, because that was the
+
+39
+00:02:33,024 --> 00:02:36,734
+chapter I debated over the most of where to put it in the book. I
+
+40
+00:02:36,772 --> 00:02:40,382
+had it at different points. It was the first chapter, it was the last
+
+41
+00:02:40,436 --> 00:02:44,174
+chapter. It ended up being the second one. I also had this thought
+
+42
+00:02:44,212 --> 00:02:47,886
+in my head that it should be like about midway through the book, so it
+
+43
+00:02:47,908 --> 00:02:51,666
+really jumped all over the place. But I ended up thinking, I feel like this
+
+44
+00:02:51,688 --> 00:02:54,594
+is one of the best ideas, so I want to have it early so that
+
+45
+00:02:54,632 --> 00:02:58,006
+people, even if they don't finish the book, they still come across this idea.
+
+46
+00:02:58,188 --> 00:03:01,414
+And I'm glad that that ended up working out
+
+47
+00:03:01,452 --> 00:03:05,206
+well. The other one that people bring up a lot
+
+48
+00:03:05,228 --> 00:03:08,834
+is the two minute rule and the idea of scaling your habits
+
+49
+00:03:08,882 --> 00:03:12,614
+down to the point where they take two minutes or less. I think that
+
+50
+00:03:12,652 --> 00:03:16,394
+that's life a very actionable one. It's like, okay, I know exactly what to do.
+
+51
+00:03:16,432 --> 00:03:19,686
+I wanted to do a workout, but now I'll just focus on doing five push
+
+52
+00:03:19,718 --> 00:03:23,366
+ups or I wanted to read 30 books this year and now I'll
+
+53
+00:03:23,398 --> 00:03:27,086
+focus on reading one page a day or something like that. Got you. So I
+
+54
+00:03:27,108 --> 00:03:30,926
+think the actionableness of that one also tends to stick. And
+
+55
+00:03:30,948 --> 00:03:33,440
+so going back to the identity one,
+
+56
+00:03:34,630 --> 00:03:38,002
+is this the idea that every
+
+57
+00:03:38,136 --> 00:03:41,826
+action you take or every habit you develop is a vote for the
+
+58
+00:03:41,848 --> 00:03:45,334
+person you want to become? Right? So that's kind of like my
+
+59
+00:03:45,372 --> 00:03:49,062
+core philosophy behind it. This idea
+
+60
+00:03:49,116 --> 00:03:52,454
+that the way that we develop
+
+61
+00:03:52,652 --> 00:03:56,242
+beliefs about ourselves, that we reinforce our self image,
+
+62
+00:03:56,306 --> 00:03:59,734
+that we develop our identity to a certain degree
+
+63
+00:03:59,862 --> 00:04:03,434
+is largely reinforced by the experiences and
+
+64
+00:04:03,472 --> 00:04:07,114
+behaviors that we perform over time. So some aspects of your
+
+65
+00:04:07,152 --> 00:04:10,486
+identity are relatively fixed. Like for example, if you're tall or
+
+66
+00:04:10,528 --> 00:04:14,286
+short. But even that idea that I am tall or I
+
+67
+00:04:14,308 --> 00:04:18,046
+am short, that's reinforced. You learn that through experiences in
+
+68
+00:04:18,068 --> 00:04:21,898
+life. Now, there are many aspects of your identity
+
+69
+00:04:21,994 --> 00:04:25,826
+that are less fixed than that but are still reinforced by
+
+70
+00:04:25,848 --> 00:04:27,540
+your experiences. So
+
+71
+00:04:29,830 --> 00:04:33,646
+if you write one sentence today, you probably don't
+
+72
+00:04:33,678 --> 00:04:37,218
+think about yourself as I am a writer, but if your do that every day
+
+73
+00:04:37,304 --> 00:04:41,094
+for six months or nine months or a year, at some point your turn around
+
+74
+00:04:41,132 --> 00:04:44,520
+and you think, maybe I am the kind of person who is a writer. Or
+
+75
+00:04:45,930 --> 00:04:49,430
+if you study biology every Tuesday night for 20 minutes,
+
+76
+00:04:49,580 --> 00:04:53,306
+you at some point think, I guess I'm studious. I keep doing this every
+
+77
+00:04:53,328 --> 00:04:57,082
+week. Maybe this is the kind of person I am. And so I like that
+
+78
+00:04:57,136 --> 00:05:00,906
+idea that our habits are like votes for the type of
+
+79
+00:05:00,928 --> 00:05:04,654
+person we believe that we are, that they build up evidence of looking
+
+80
+00:05:04,692 --> 00:05:08,382
+at ourselves in a certain way. And I like to
+
+81
+00:05:08,436 --> 00:05:12,240
+phrase it that way not only because I believe it's true, but also
+
+82
+00:05:12,610 --> 00:05:15,874
+beliefs and behavior are kind of a two way street, right?
+
+83
+00:05:15,912 --> 00:05:19,602
+So you'll hear people say things like, well,
+
+84
+00:05:19,736 --> 00:05:23,234
+just be positive or just believe in yourself or fake it till you make it
+
+85
+00:05:23,272 --> 00:05:26,958
+or things like that. And there's nothing necessarily
+
+86
+00:05:27,054 --> 00:05:30,726
+wrong with fake it till you make it. It's fine to be positive and
+
+87
+00:05:30,748 --> 00:05:34,114
+believe things about yourself. But it's a very short term
+
+88
+00:05:34,162 --> 00:05:38,006
+strategy because fake it till you make it is asking you to
+
+89
+00:05:38,028 --> 00:05:41,846
+believe something about yourself without having evidence for it. It's like
+
+90
+00:05:41,868 --> 00:05:45,658
+that kind of visualization stuff or mantra stuff where you look at yourself in
+
+91
+00:05:45,664 --> 00:05:48,394
+the mirror and you tell yourself I am a writer. I am a writer, even
+
+92
+00:05:48,432 --> 00:05:51,894
+though you haven't written yet. And so what I'm saying is
+
+93
+00:05:51,952 --> 00:05:55,582
+similar, but I think importantly different in the sense
+
+94
+00:05:55,636 --> 00:05:59,450
+that you let the behavior lead the way rather than the belief.
+
+95
+00:05:59,530 --> 00:06:03,306
+And I think that's the best lever we have for changing
+
+96
+00:06:03,338 --> 00:06:06,734
+the way that we look at ourselves, which is to say show up and write
+
+97
+00:06:06,772 --> 00:06:10,434
+a sentence every day, and soon you're going to have something to root that new
+
+98
+00:06:10,472 --> 00:06:14,274
+identity of I am a writer in. And it's a much more, I think,
+
+99
+00:06:14,312 --> 00:06:17,814
+robust and long term way of changing how you look at yourself. Yeah, I think
+
+100
+00:06:17,852 --> 00:06:21,590
+for the because you first
+
+101
+00:06:21,740 --> 00:06:25,174
+communicated that idea to me in an
+
+102
+00:06:25,212 --> 00:06:28,826
+airport in Denver. Yeah, I remember that.
+
+103
+00:06:28,928 --> 00:06:32,666
+And at the time in my life, I was
+
+104
+00:06:32,688 --> 00:06:36,150
+not doing so good. I was depressed.
+
+105
+00:06:36,310 --> 00:06:39,962
+I think cynical, especially, I think cynical about people
+
+106
+00:06:40,016 --> 00:06:43,630
+like you that seem to have it all together, that seem to be really
+
+107
+00:06:43,700 --> 00:06:47,406
+life, doing all the good habits. And
+
+108
+00:06:47,428 --> 00:06:51,214
+when you're not doing so good, looking at
+
+109
+00:06:51,252 --> 00:06:54,420
+someone that seems to have it all together
+
+110
+00:06:55,350 --> 00:06:58,802
+just can make you more grumpy or more cynical or more
+
+111
+00:06:58,936 --> 00:07:02,340
+whatever. But I remember you sitting down
+
+112
+00:07:02,710 --> 00:07:06,182
+and kind of hashing this out with me and that
+
+113
+00:07:06,236 --> 00:07:10,086
+idea of Justin, no
+
+114
+00:07:10,108 --> 00:07:13,666
+matter where you're at right now and no matter what you've
+
+115
+00:07:13,698 --> 00:07:17,222
+done, you could start today with
+
+116
+00:07:17,356 --> 00:07:20,534
+one action. So if you
+
+117
+00:07:20,732 --> 00:07:24,378
+go running today, that might not make
+
+118
+00:07:24,384 --> 00:07:28,010
+a big difference. But then if you do it tomorrow and then the next day
+
+119
+00:07:28,080 --> 00:07:31,898
+and then the next day and then the next day, at the end of
+
+120
+00:07:31,904 --> 00:07:34,880
+the week, you might say, well, wait a second,
+
+121
+00:07:35,650 --> 00:07:39,406
+I think I'm a runner, right? And maybe after a couple
+
+122
+00:07:39,428 --> 00:07:41,754
+of weeks you might say, well, you know, I'm going to get myself some runner
+
+123
+00:07:41,802 --> 00:07:44,642
+clothes and go and get some runner clothes and then I'm going to get myself
+
+124
+00:07:44,696 --> 00:07:48,500
+a good pair of shoes. I'm going to install that strava app.
+
+125
+00:07:48,950 --> 00:07:52,706
+And all of a sudden you could see yourself. That
+
+126
+00:07:52,728 --> 00:07:56,242
+was a really hopeful message for me when I was really
+
+127
+00:07:56,296 --> 00:08:00,038
+struggling to figure out it was way easier for me to be cynical and
+
+128
+00:08:00,044 --> 00:08:03,782
+just kind of look back at all these people implementing good,
+
+129
+00:08:03,836 --> 00:08:07,506
+healthy processes and say, well, that's not for me. That's just for
+
+130
+00:08:07,548 --> 00:08:09,980
+people. That whatever. But
+
+131
+00:08:10,910 --> 00:08:14,474
+hearing that gave me hope to think I could do
+
+132
+00:08:14,512 --> 00:08:18,234
+that, and it's surprising how
+
+133
+00:08:18,272 --> 00:08:21,754
+little time it takes to accomplish
+
+134
+00:08:21,802 --> 00:08:25,614
+that. Have other
+
+135
+00:08:25,652 --> 00:08:29,182
+people been kind of referencing that too? Is that
+
+136
+00:08:29,316 --> 00:08:32,894
+part of the and maybe that's what's so good about having it as
+
+137
+00:08:32,932 --> 00:08:36,514
+chapter two, because it gives your some hope. Right. Well,
+
+138
+00:08:36,632 --> 00:08:40,254
+what's interesting is that that process of changing in that way, it's
+
+139
+00:08:40,302 --> 00:08:43,934
+happening anyway. If you think back to the beginning,
+
+140
+00:08:44,062 --> 00:08:47,902
+for example, if I think of the early days of my entrepreneurial career,
+
+141
+00:08:48,046 --> 00:08:51,702
+well, I didn't have any entrepreneurs in my family. I didn't have any close friends
+
+142
+00:08:51,756 --> 00:08:55,478
+who are entrepreneurs. There was no reason for me to think that's who I am
+
+143
+00:08:55,564 --> 00:08:58,966
+or to feel like I was externally validated with, like that was part of my
+
+144
+00:08:58,988 --> 00:09:02,806
+identity. I had no evidence of it. And so early on, all
+
+145
+00:09:02,828 --> 00:09:05,738
+I had was hope. Right? Like the hope that, oh, maybe I'll be able to
+
+146
+00:09:05,744 --> 00:09:09,498
+build something, make I'll be able to make this work, but then you start to
+
+147
+00:09:09,504 --> 00:09:13,194
+show up. And for me, it was probably about two years in is probably
+
+148
+00:09:13,232 --> 00:09:16,926
+about where I kind of like the scale tipped, and I started to
+
+149
+00:09:16,948 --> 00:09:20,686
+think, I am an entrepreneur. That's part of who I am. But
+
+150
+00:09:20,708 --> 00:09:24,302
+it really took proving it to myself that I can
+
+151
+00:09:24,356 --> 00:09:28,050
+pay my bills through this, that I can actually
+
+152
+00:09:28,120 --> 00:09:31,586
+have a lifestyle and a career in this way. I had to prove it for
+
+153
+00:09:31,608 --> 00:09:35,366
+about two years before I really started to latch onto it and say, this is
+
+154
+00:09:35,388 --> 00:09:36,600
+who I am. Yeah,
+
+155
+00:09:39,130 --> 00:09:41,880
+my point is that's always happening.
+
+156
+00:09:43,130 --> 00:09:46,806
+You're continually updating your beliefs about yourself based on the
+
+157
+00:09:46,828 --> 00:09:50,102
+experiences that you're going through. And all I'm talking about is
+
+158
+00:09:50,156 --> 00:09:53,814
+simply designing that process in a little more careful
+
+159
+00:09:53,862 --> 00:09:57,386
+or thoughtful way, rather than just kind of letting it happen to you and be
+
+160
+00:09:57,408 --> 00:10:00,566
+like, well, I guess I'll figure out who I am. Based on what life throws
+
+161
+00:10:00,598 --> 00:10:04,238
+at me versus how about I figure out who I am based on the
+
+162
+00:10:04,244 --> 00:10:08,046
+votes that I cast each day and what habits I decide to follow.
+
+163
+00:10:08,148 --> 00:10:11,514
+Yeah. Again, that is a very hopeful
+
+164
+00:10:11,562 --> 00:10:14,946
+message for someone who's just kind of sitting back and waiting for it to
+
+165
+00:10:14,968 --> 00:10:18,450
+happen. What sustains you
+
+166
+00:10:18,600 --> 00:10:22,162
+when you're in the process but
+
+167
+00:10:22,216 --> 00:10:25,922
+not there yet? Like you mentioned,
+
+168
+00:10:25,976 --> 00:10:28,840
+entrepreneur and your, like, man, it took a long time.
+
+169
+00:10:30,090 --> 00:10:33,906
+It's a really good question because I think a lot of habits, entrepreneurship
+
+170
+00:10:33,938 --> 00:10:37,080
+is certainly this way, exercise is this way, where
+
+171
+00:10:37,630 --> 00:10:40,890
+the rewards of a habit are often very
+
+172
+00:10:40,960 --> 00:10:44,582
+delayed. What's the reward
+
+173
+00:10:44,646 --> 00:10:48,294
+for working out for, like, three weeks? Not really a whole lot. Honestly.
+
+174
+00:10:48,342 --> 00:10:52,140
+Your body hasn't really changed. The scale is probably about the same.
+
+175
+00:10:52,590 --> 00:10:56,366
+You're probably just sore. There probably isn't like, a whole lot to
+
+176
+00:10:56,388 --> 00:11:00,142
+show for it. It's really not unless you stick with that habit for
+
+177
+00:11:00,196 --> 00:11:03,854
+three months or six months or a year that you actually start to see
+
+178
+00:11:03,892 --> 00:11:07,698
+the changes you were hoping to get when you set out. And so there's kind
+
+179
+00:11:07,704 --> 00:11:11,554
+of this valley of death in the beginning where, in
+
+180
+00:11:11,592 --> 00:11:15,182
+a way, it sort of life gets harder before it gets easier. It feels
+
+181
+00:11:15,246 --> 00:11:18,434
+uncomfortable. You feel sore and pain. You feel
+
+182
+00:11:18,552 --> 00:11:22,166
+uncertain. When you walk in the gym, you feel like people are judging you. Same
+
+183
+00:11:22,188 --> 00:11:25,638
+way with starting a business. In a weird way, it's kind of harder before it
+
+184
+00:11:25,644 --> 00:11:29,366
+gets easier. You start out, but you're not making any money. You feel stupid a
+
+185
+00:11:29,388 --> 00:11:32,714
+lot of the time because you don't know how to make a sales call or
+
+186
+00:11:32,752 --> 00:11:36,154
+what customers are looking for or whether you're even offering the right
+
+187
+00:11:36,192 --> 00:11:39,180
+product. I remember when I first started,
+
+188
+00:11:40,190 --> 00:11:43,578
+like I said, I didn't know anybody, didn't have any entrepreneurs in my family. So
+
+189
+00:11:43,584 --> 00:11:46,174
+I was like, well, I need to get to know some people. So I sent
+
+190
+00:11:46,212 --> 00:11:49,246
+a bunch of emails to reach out and just ask if people would chat on
+
+191
+00:11:49,268 --> 00:11:52,974
+Skype for like 30 minutes or whatever. And I remember sending those first
+
+192
+00:11:53,012 --> 00:11:56,786
+few and thinking, do people even do this? Do people chat on Skype with
+
+193
+00:11:56,808 --> 00:12:00,306
+people that they haven't met before? Is this a weird thing to ask? There's just
+
+194
+00:12:00,328 --> 00:12:03,954
+a lot of that uncertainty early on. Yeah. So your
+
+195
+00:12:03,992 --> 00:12:06,898
+point is, I think, a valid one, which is, well, what do you do to
+
+196
+00:12:06,904 --> 00:12:10,646
+get through that? How do you kind of get through that valley of
+
+197
+00:12:10,668 --> 00:12:14,486
+death while you're waiting for the long term rewards to accumulate? Yeah, and I
+
+198
+00:12:14,508 --> 00:12:18,134
+think that this is where psychologists call it
+
+199
+00:12:18,172 --> 00:12:21,466
+reinforcement or an external reinforcer, but
+
+200
+00:12:21,648 --> 00:12:25,146
+you want some kind of reinforcement that is enjoyable in the
+
+201
+00:12:25,168 --> 00:12:28,380
+moment so that you have a reason to keep showing up. Okay. So
+
+202
+00:12:29,710 --> 00:12:33,502
+from a habit standpoint, there are kind of two ways to do this. First
+
+203
+00:12:33,556 --> 00:12:37,406
+thing is just a strategic choice about what type of habit you
+
+204
+00:12:37,428 --> 00:12:41,134
+choose to follow. So if we go back to the exercise example,
+
+205
+00:12:41,332 --> 00:12:44,846
+well, not everybody has to work out like a bodybuilder. You could
+
+206
+00:12:44,868 --> 00:12:48,586
+do Pilates or yoga or go for a run or rock
+
+207
+00:12:48,618 --> 00:12:52,462
+climbing or all kinds of stuff. And so pick
+
+208
+00:12:52,516 --> 00:12:56,134
+the form of a habit that brings you the most joy, that is
+
+209
+00:12:56,172 --> 00:12:59,926
+most enjoyable to you. It's going to be a slog for you're going to have
+
+210
+00:12:59,948 --> 00:13:02,518
+to swim for months to see a change in your body. Your going to have
+
+211
+00:13:02,524 --> 00:13:05,458
+to cycle for months. You're going to have to lift weights for months. It doesn't
+
+212
+00:13:05,474 --> 00:13:08,806
+really matter which one you choose. It's going to take a while. So you might
+
+213
+00:13:08,828 --> 00:13:12,280
+as well choose the one that's most exciting or enjoyable to you. Yeah.
+
+214
+00:13:13,070 --> 00:13:16,746
+Same way with imagine a reading habit. You don't have to
+
+215
+00:13:16,768 --> 00:13:19,402
+read. You might feel life, oh, I have a business, so I need to read
+
+216
+00:13:19,456 --> 00:13:23,258
+business books. But really, ultimately the most important thing is, do you get in
+
+217
+00:13:23,264 --> 00:13:27,006
+the habit of reading? Do you fall in love with reading? So if you need
+
+218
+00:13:27,028 --> 00:13:30,814
+to start with Sci-Fi books or fantasy or something like that,
+
+219
+00:13:30,852 --> 00:13:34,522
+well, start with that. Do the one that is intrinsically
+
+220
+00:13:34,586 --> 00:13:38,114
+valuable to you at first. And once the habit is built, then you can
+
+221
+00:13:38,152 --> 00:13:41,554
+transition to some of the other stuff. Yeah. So that's one
+
+222
+00:13:41,592 --> 00:13:45,334
+method for kind of getting through that valley of death. Yeah. And I
+
+223
+00:13:45,372 --> 00:13:48,562
+think this brings up maybe a harder
+
+224
+00:13:48,626 --> 00:13:51,640
+question, which is
+
+225
+00:13:53,610 --> 00:13:57,366
+based on your book, it's January and
+
+226
+00:13:57,388 --> 00:14:00,874
+I'm thinking, okay, I haven't been in the gym for seven years.
+
+227
+00:14:01,072 --> 00:14:04,746
+I used to love working out. I'm going to go, I got my
+
+228
+00:14:04,768 --> 00:14:07,740
+Streaks app on my phone, start going.
+
+229
+00:14:08,270 --> 00:14:11,902
+And I don't know, I've probably
+
+230
+00:14:11,956 --> 00:14:15,326
+been at least 18 days or maybe even 20 days this
+
+231
+00:14:15,348 --> 00:14:19,002
+month. So it's great. And I was surprised
+
+232
+00:14:19,066 --> 00:14:22,734
+by how fast I felt. So the first
+
+233
+00:14:22,772 --> 00:14:26,526
+day I felt like I didn't belong. Felt awkward. I don't know anybody here. I'm
+
+234
+00:14:26,558 --> 00:14:30,382
+walking in some of the machinery I recognize,
+
+235
+00:14:30,446 --> 00:14:34,194
+some I don't I have to get back into
+
+236
+00:14:34,232 --> 00:14:37,560
+a routine. I have to find which exercise I'm going to do.
+
+237
+00:14:37,930 --> 00:14:41,240
+There's all these kind of insecurities and questions,
+
+238
+00:14:42,330 --> 00:14:46,086
+but after a week, I kind of felt like I
+
+239
+00:14:46,108 --> 00:14:49,626
+belonged. But I wonder if that's because it
+
+240
+00:14:49,648 --> 00:14:51,900
+was easier for me.
+
+241
+00:14:56,430 --> 00:15:00,266
+I was already relatively in shape. So
+
+242
+00:15:00,288 --> 00:15:03,866
+there's a big difference between going in where you feel like, oh, maybe I'm
+
+243
+00:15:03,898 --> 00:15:07,146
+a few pounds overweight and going in and being 200 pounds
+
+244
+00:15:07,178 --> 00:15:10,942
+overweight. There's a big difference between going in even
+
+245
+00:15:10,996 --> 00:15:14,394
+as a white male, compared
+
+246
+00:15:14,442 --> 00:15:18,206
+to there's a big difference going in and feeling like, well,
+
+247
+00:15:18,228 --> 00:15:22,030
+I've done these exercises before, so I'm not completely out of my element.
+
+248
+00:15:22,530 --> 00:15:24,640
+And I'm wondering how
+
+249
+00:15:26,970 --> 00:15:30,086
+I mean, are are habits like that
+
+250
+00:15:30,188 --> 00:15:33,926
+achievable because of privilege and context and other things?
+
+251
+00:15:33,948 --> 00:15:37,000
+Like, how much does that play into it? And
+
+252
+00:15:37,950 --> 00:15:40,886
+if someone is walking in and they're 200 pounds
+
+253
+00:15:40,918 --> 00:15:44,666
+overweight, do they still have the
+
+254
+00:15:44,688 --> 00:15:48,474
+same chance of progress and success? It just feels like
+
+255
+00:15:48,512 --> 00:15:51,754
+such a big mountain for them to go over. For
+
+256
+00:15:51,792 --> 00:15:55,518
+sure. Yeah. So this is one reason why I
+
+257
+00:15:55,524 --> 00:15:58,862
+think starting with small habits is so incredibly important.
+
+258
+00:15:58,996 --> 00:16:02,622
+Because a lot of the time when we think about the outcome that you want
+
+259
+00:16:02,676 --> 00:16:06,080
+so just to continue your weight loss or exercise, example,
+
+260
+00:16:06,530 --> 00:16:09,346
+everybody gets wrapped up in like, oh, I want to lose 100 pounds, or I
+
+261
+00:16:09,368 --> 00:16:12,914
+want to lose 20 pounds or whatever the number is. But you
+
+262
+00:16:12,952 --> 00:16:16,494
+forget about there are all these little logistical and emotional
+
+263
+00:16:16,542 --> 00:16:20,222
+details that come along with starting a new habit. Yeah.
+
+264
+00:16:20,296 --> 00:16:23,846
+So I'll often tell the story about I have this reader who he ended up
+
+265
+00:16:23,868 --> 00:16:27,638
+losing over 100 pounds, and one of the first things he did was he went
+
+266
+00:16:27,644 --> 00:16:31,254
+to the gym, but he wasn't allowed to stay for longer than five minutes. So
+
+267
+00:16:31,372 --> 00:16:35,066
+he drove to the gym, got out of the car, did half an exercise, got
+
+268
+00:16:35,088 --> 00:16:38,906
+back in the car, drove home. And it sounds ridiculous to people. It
+
+269
+00:16:38,928 --> 00:16:42,666
+sounds silly because it's like, well, clearly exercising for five minutes is
+
+270
+00:16:42,688 --> 00:16:46,350
+not going to get you in shape. But what you realize is
+
+271
+00:16:46,500 --> 00:16:50,206
+he was mastering the art of showing up. Right. He was becoming the type of
+
+272
+00:16:50,228 --> 00:16:54,030
+person that drove to the gym every day. And when you're in that
+
+273
+00:16:54,100 --> 00:16:57,762
+state, for him at that point, that was the biggest shift, was,
+
+274
+00:16:57,896 --> 00:17:01,710
+can I just become the type of person who gets in here? Right. Who overcomes
+
+275
+00:17:01,790 --> 00:17:05,182
+the uncertainty or feeling uncomfortable or feeling judged?
+
+276
+00:17:05,326 --> 00:17:09,170
+And all those things are very real hurdles to building a habit.
+
+277
+00:17:09,990 --> 00:17:13,222
+There are all these little questions that need to be answered for something like that.
+
+278
+00:17:13,276 --> 00:17:17,126
+Like, okay, I want to go to the gym. Well, what time am I going
+
+279
+00:17:17,148 --> 00:17:20,086
+to go? Am I going to go before work or after work? What gym will
+
+280
+00:17:20,108 --> 00:17:23,706
+I go to? What route am I going to take to get there? Do I
+
+281
+00:17:23,728 --> 00:17:26,506
+need to bring a water bottle or is there like a water fountain at the
+
+282
+00:17:26,528 --> 00:17:30,220
+gym? And all those little questions like that,
+
+283
+00:17:30,750 --> 00:17:34,474
+whether or not there's a water fountain at the gym. It sounds small,
+
+284
+00:17:34,592 --> 00:17:38,286
+but if you already feel uncomfortable and feel like your don't belong and
+
+285
+00:17:38,308 --> 00:17:41,006
+then you always forget to bring your water bottle and you're like, oh, there's nothing
+
+286
+00:17:41,028 --> 00:17:44,366
+ever and there's never anything to drink there that's enough friction to get you to
+
+287
+00:17:44,388 --> 00:17:48,138
+quit in the beginning. Yeah. So starting with something simple, life.
+
+288
+00:17:48,244 --> 00:17:50,498
+All I'm going to do is I'm going to show up and I'm going to
+
+289
+00:17:50,504 --> 00:17:53,300
+do one exercise for five minutes and then I'm going to go.
+
+290
+00:17:54,310 --> 00:17:57,778
+That, I think, is a good way to start. And it reminds me of
+
+291
+00:17:57,864 --> 00:18:01,206
+what Steven Pressfield wrote. I think it was in The War of Art, where he
+
+292
+00:18:01,228 --> 00:18:04,326
+said something to the effect of, like, if you sit down each day at the
+
+293
+00:18:04,348 --> 00:18:08,098
+computer and you do your writing, at some point, at first it feels
+
+294
+00:18:08,114 --> 00:18:11,882
+uncomfortable, but at some point that becomes your territory. And I really
+
+295
+00:18:11,936 --> 00:18:15,786
+like that phrasing of it, because for an animal, for a wolf or
+
+296
+00:18:15,808 --> 00:18:19,370
+something, a piece of land does not become
+
+297
+00:18:19,440 --> 00:18:23,258
+their territory unless they spend time in it. Right. Unless they
+
+298
+00:18:23,264 --> 00:18:26,926
+are there each day. Yeah. It has to become comfortable first. And
+
+299
+00:18:26,948 --> 00:18:30,686
+so for many people, building habits, whether that's getting into the
+
+300
+00:18:30,708 --> 00:18:33,694
+gym or going to the yoga studio or sitting your butt in the chair and
+
+301
+00:18:33,732 --> 00:18:37,554
+writing, you need to make that space your territory. And that
+
+302
+00:18:37,592 --> 00:18:40,974
+the very first step is not getting a result, it's
+
+303
+00:18:41,022 --> 00:18:44,610
+spending time there. It's making that little bit of land
+
+304
+00:18:44,760 --> 00:18:48,580
+a zone where you feel like, this is where I belong each day. Yeah.
+
+305
+00:18:48,970 --> 00:18:52,806
+And that's a big emotional hurdle to cross before you
+
+306
+00:18:52,828 --> 00:18:56,518
+even worry about any of the physical or actual technical things to
+
+307
+00:18:56,524 --> 00:19:00,346
+do. Yeah. And I mean, the other thing that helped is I
+
+308
+00:19:00,368 --> 00:19:04,202
+went with my life. And it's funny because
+
+309
+00:19:04,336 --> 00:19:07,180
+I felt I'm like,
+
+310
+00:19:08,110 --> 00:19:11,786
+Mr. Confident, but she was like at one point she's like, justin, you
+
+311
+00:19:11,808 --> 00:19:15,374
+are so nervous right now. She could tell how
+
+312
+00:19:15,412 --> 00:19:18,800
+nervous I was. And I thought I was like, keeping it all together
+
+313
+00:19:19,410 --> 00:19:23,006
+and it just reminded me of like, I'd been in
+
+314
+00:19:23,028 --> 00:19:26,786
+gyms from the time I was in grade nine all the way through college. It
+
+315
+00:19:26,808 --> 00:19:29,890
+wasn't like it was unfamiliar, but I was nervous
+
+316
+00:19:30,550 --> 00:19:34,354
+because it was unfamiliar. There had been a seven year gap and
+
+317
+00:19:34,392 --> 00:19:38,134
+now I was like, exploring this again, worried about
+
+318
+00:19:38,172 --> 00:19:41,926
+what these people are thinking about me. Wow, that guy looks like he is way
+
+319
+00:19:41,948 --> 00:19:45,720
+more fit than me. All these thoughts go through your head
+
+320
+00:19:46,090 --> 00:19:49,626
+and so yeah, I think kind
+
+321
+00:19:49,648 --> 00:19:53,082
+of figuring out how you can make a step
+
+322
+00:19:53,216 --> 00:19:56,842
+and sometimes maybe it's like going with somebody so your at least have
+
+323
+00:19:56,896 --> 00:20:00,746
+some emotional because it's emotional. It's nice to
+
+324
+00:20:00,768 --> 00:20:04,462
+have someone to kind of share the emotional burden, right?
+
+325
+00:20:04,596 --> 00:20:07,760
+For sure. Well, if you come the thing that
+
+326
+00:20:08,690 --> 00:20:12,158
+ultimately what you're looking to do is, like we just said, feel like it's part
+
+327
+00:20:12,164 --> 00:20:15,710
+of your territory. And because there are other people in that space,
+
+328
+00:20:15,860 --> 00:20:19,278
+what that also means is you're looking to feel like you're part of the tribe
+
+329
+00:20:19,374 --> 00:20:23,026
+who goes there right, that you belong with the other people who are in that
+
+330
+00:20:23,048 --> 00:20:26,674
+room. It helps to
+
+331
+00:20:26,792 --> 00:20:29,734
+what is a tribe? Well, it's a group of people that you get along with,
+
+332
+00:20:29,772 --> 00:20:33,414
+that you bond with, that you belong to over something else, over
+
+333
+00:20:33,452 --> 00:20:37,126
+some shared interest. And in other words, it's a group in a lot of
+
+334
+00:20:37,148 --> 00:20:40,934
+ways of friends, friends who share some kind of interest. So these are your gym
+
+335
+00:20:40,982 --> 00:20:44,234
+friends. Well, if you go with your wife, then you
+
+336
+00:20:44,272 --> 00:20:48,122
+automatically have at least one person in the tribe that you are friends
+
+337
+00:20:48,176 --> 00:20:51,834
+with that you do belong with. And so I think that helps you
+
+338
+00:20:51,872 --> 00:20:55,486
+get over that hurdle a little bit. You're no longer facing that
+
+339
+00:20:55,508 --> 00:20:59,294
+challenge alone. Before it was like, I am trying to get
+
+340
+00:20:59,332 --> 00:21:02,880
+fit. Now it is we are trying to get fit. And
+
+341
+00:21:03,410 --> 00:21:07,058
+that helps a lot with kind of the mental feeling of like, do I
+
+342
+00:21:07,064 --> 00:21:10,798
+belong or not? Yeah, I've also found sorry, I don't
+
+343
+00:21:10,814 --> 00:21:14,500
+mean to stay on this too long, but it's so fresh. That
+
+344
+00:21:15,030 --> 00:21:18,806
+the other thing I found myself doing because I'm interested in
+
+345
+00:21:18,828 --> 00:21:22,342
+the emotional friction behind habits. And so
+
+346
+00:21:22,476 --> 00:21:25,320
+the other thing I was doing is I was going in there
+
+347
+00:21:26,010 --> 00:21:29,530
+and I'm uncomfortable, so I'm trying to act really
+
+348
+00:21:29,600 --> 00:21:33,338
+tough, but I'm not tough at all. But
+
+349
+00:21:33,504 --> 00:21:37,242
+when people look at me, I'm kind of like scowling. I'm not being
+
+350
+00:21:37,296 --> 00:21:40,540
+friendly. I'm not being myself. And
+
+351
+00:21:42,430 --> 00:21:46,046
+I was thinking about that and thinking, like when you're kind of
+
+352
+00:21:46,068 --> 00:21:49,806
+inward focused and you're in a new environment and you're trying to
+
+353
+00:21:49,828 --> 00:21:52,190
+develop a new habit, but you're inward focused,
+
+354
+00:21:54,610 --> 00:21:57,506
+it doesn't really help. And so I had to kind of turn that around and
+
+355
+00:21:57,528 --> 00:22:00,306
+go, okay, I got to start being friendly. I got to start saying hi to
+
+356
+00:22:00,328 --> 00:22:04,174
+these people because if I wave at this person and it feels
+
+357
+00:22:04,222 --> 00:22:08,034
+good, like they respond with a smile and that
+
+358
+00:22:08,072 --> 00:22:11,846
+happens again next time and again next time, that's a little bit of
+
+359
+00:22:11,868 --> 00:22:15,606
+a reward for me. That's going to keep me going to the gym. But
+
+360
+00:22:15,628 --> 00:22:19,180
+if I keep going here with this tough scowl on my face
+
+361
+00:22:20,670 --> 00:22:24,154
+and it's hard because you
+
+362
+00:22:24,192 --> 00:22:27,898
+feel like you don't belong, you feel nervous and you kind
+
+363
+00:22:27,904 --> 00:22:30,890
+of default to these weird behaviors.
+
+364
+00:22:33,150 --> 00:22:36,238
+And it took a little bit of time, but I realized, okay, now I got
+
+365
+00:22:36,244 --> 00:22:39,966
+to get in the habit of smiling and
+
+366
+00:22:39,988 --> 00:22:43,662
+saying hello when I'm in the gym, not just being in my own
+
+367
+00:22:43,716 --> 00:22:47,430
+zone and pretending I'm somebody I'm not, right? Well, that's
+
+368
+00:22:47,450 --> 00:22:50,738
+one thing that kind of helps you start to belong or become part of the
+
+369
+00:22:50,744 --> 00:22:54,354
+rest of the like, just a friendly behavior helps you start to
+
+370
+00:22:54,392 --> 00:22:58,146
+develop friendships with some of those other people that are there. There was a
+
+371
+00:22:58,168 --> 00:23:01,926
+study that I wanted to cite in Atomic Habits but I couldn't find it to
+
+372
+00:23:01,948 --> 00:23:05,334
+track it down. But I read about it years ago where the
+
+373
+00:23:05,372 --> 00:23:09,094
+YMCA ran a survey. And when they surveyed people
+
+374
+00:23:09,132 --> 00:23:12,454
+who were joining the gym the thing that got them to join
+
+375
+00:23:12,582 --> 00:23:16,298
+were the different classes offered the equipment that was in the
+
+376
+00:23:16,304 --> 00:23:20,138
+gym. Basically, facilities and features were the things that got people in for the
+
+377
+00:23:20,144 --> 00:23:23,886
+first time. But then when they surveyed members who had been there for over a
+
+378
+00:23:23,908 --> 00:23:27,566
+year, the thing that got people to stick nobody mentioned features or
+
+379
+00:23:27,588 --> 00:23:31,422
+facilities. Everybody mentioned friendships. And so the people
+
+380
+00:23:31,476 --> 00:23:35,098
+who actually stayed at the gym or kept their membership were the ones who ended
+
+381
+00:23:35,114 --> 00:23:38,702
+up developing friendships with other people there. And I think you're right.
+
+382
+00:23:38,756 --> 00:23:42,002
+Ultimately, the thing that gets you to come back is like do I enjoy coming
+
+383
+00:23:42,056 --> 00:23:44,674
+here? Does it mean I get to see some of my friends? Does it mean
+
+384
+00:23:44,712 --> 00:23:48,454
+I get to hang out with people I like? Or it's really the sense
+
+385
+00:23:48,492 --> 00:23:52,040
+of belonging that gets habits to stick and
+
+386
+00:23:52,490 --> 00:23:56,198
+the action itself is just kind of like something that's happening along the way.
+
+387
+00:23:56,284 --> 00:24:00,010
+Yes, but there's a step before that that we kind of skipped over,
+
+388
+00:24:00,080 --> 00:24:03,514
+which is how do you even choose a habit in the first
+
+389
+00:24:03,552 --> 00:24:07,370
+place? How does that happen in the sense of
+
+390
+00:24:07,520 --> 00:24:09,980
+I might not know what's good for me?
+
+391
+00:24:11,630 --> 00:24:15,294
+So how does that come into this?
+
+392
+00:24:15,492 --> 00:24:18,766
+Yeah, well, there are a lot of ways to answer that question. So I'll just
+
+393
+00:24:18,788 --> 00:24:22,606
+share a couple thoughts that come to mind. So the first thought that comes
+
+394
+00:24:22,628 --> 00:24:26,078
+to mind is this question from I first heard from Seth Godin, which I think
+
+395
+00:24:26,084 --> 00:24:29,842
+is just a great question, which is what is it for? And so
+
+396
+00:24:29,896 --> 00:24:32,514
+this is a question that we need to ask ourselves when we're trying to build
+
+397
+00:24:32,552 --> 00:24:36,386
+a new habit, which is what is this habit for? What am I actually trying
+
+398
+00:24:36,408 --> 00:24:40,022
+to achieve here? Because the correct habit to choose is
+
+399
+00:24:40,076 --> 00:24:43,894
+very different based on what your goals are, what you're hoping to get
+
+400
+00:24:43,932 --> 00:24:46,360
+as an outcome, what kind of lifestyle you want.
+
+401
+00:24:48,570 --> 00:24:52,378
+For example, the habit of making 20 sales calls a day. Well,
+
+402
+00:24:52,464 --> 00:24:56,058
+if what it's for is to increase revenue and to build a
+
+403
+00:24:56,064 --> 00:24:59,658
+successful business, that's a wonderful thing. If you
+
+404
+00:24:59,744 --> 00:25:03,406
+hate making sales calls and you want to spend less time working and more time
+
+405
+00:25:03,428 --> 00:25:06,894
+with your family that could be a terrible habit to build. It just depends on
+
+406
+00:25:06,932 --> 00:25:10,574
+what it's for. So that's one
+
+407
+00:25:10,612 --> 00:25:14,106
+question to ask. But you are correct that we often don't
+
+408
+00:25:14,138 --> 00:25:17,826
+know what we need in the moment. And I
+
+409
+00:25:17,848 --> 00:25:20,514
+think part of that is just a challenge of life and a challenge of self
+
+410
+00:25:20,552 --> 00:25:24,386
+awareness and knowing what you need. But life is
+
+411
+00:25:24,408 --> 00:25:28,226
+a very complex system and so figuring out the right thing
+
+412
+00:25:28,248 --> 00:25:31,926
+for that is sometimes it's just impossible. There are too many moving parts. Yeah.
+
+413
+00:25:32,028 --> 00:25:35,558
+So I tend to default to two
+
+414
+00:25:35,644 --> 00:25:39,398
+possible answers. The first answer is we all need things
+
+415
+00:25:39,484 --> 00:25:43,194
+that are so boring that we don't think about them, but are incredibly important for
+
+416
+00:25:43,232 --> 00:25:46,906
+showing up each day. So did you sleep 8 hours? Are
+
+417
+00:25:46,928 --> 00:25:50,746
+you drinking enough water? Are you spending a little bit of time walking outside or
+
+418
+00:25:50,768 --> 00:25:54,330
+getting a little bit of sunlight? Do you exercise consistently?
+
+419
+00:25:54,410 --> 00:25:57,902
+Whatever form is interesting to you? Are you spending some time
+
+420
+00:25:57,956 --> 00:26:01,294
+reading and soaking up new ideas? I'm not saying you have to do all that
+
+421
+00:26:01,332 --> 00:26:04,542
+stuff every day, but my point is those are things
+
+422
+00:26:04,596 --> 00:26:08,306
+that most people would be like, yeah, of course you should sleep and read more
+
+423
+00:26:08,328 --> 00:26:12,114
+books and exercise. Everybody knows that's good. But your time is
+
+424
+00:26:12,152 --> 00:26:15,634
+almost never going to be wasted by making sure you do one of those
+
+425
+00:26:15,672 --> 00:26:19,414
+things right. It's a fundamental that's worth spending time on,
+
+426
+00:26:19,452 --> 00:26:23,174
+that's worth coming back to, that's worth reminding yourself of, even if you
+
+427
+00:26:23,212 --> 00:26:26,630
+aren't sure the ideal, perfect place to focus in your life.
+
+428
+00:26:26,780 --> 00:26:30,394
+So that's the first answer. Come back to the fundamentals. The
+
+429
+00:26:30,432 --> 00:26:34,166
+second answer is more broad. I can't
+
+430
+00:26:34,198 --> 00:26:37,622
+be specific with it because it depends on each person. But the broad
+
+431
+00:26:37,686 --> 00:26:41,126
+application is what I would call broad funnel, tight
+
+432
+00:26:41,158 --> 00:26:44,494
+filter. So whenever you're trying to figure out where to
+
+433
+00:26:44,532 --> 00:26:48,254
+focus, you need a really broad range of research. Try to get
+
+434
+00:26:48,292 --> 00:26:51,854
+as many options as possible, then apply a
+
+435
+00:26:51,892 --> 00:26:55,498
+really tight, strict filter to it and just focus on the one or
+
+436
+00:26:55,524 --> 00:26:59,140
+two best options that you found. Okay, so for example,
+
+437
+00:26:59,750 --> 00:27:03,586
+I just finished Atomic Habits a few months ago. So now I'm thinking, should
+
+438
+00:27:03,608 --> 00:27:06,500
+I write a second book? If I should, what should that be about?
+
+439
+00:27:07,030 --> 00:27:10,726
+And I don't know right now. So I'm in the broad funnel stage, so I
+
+440
+00:27:10,748 --> 00:27:14,102
+want to lay out as many options as possible. I want to brainstorm 1000
+
+441
+00:27:14,156 --> 00:27:17,734
+titles. I want to look at all the top books on Amazon. I want to
+
+442
+00:27:17,772 --> 00:27:21,414
+browse my best performing tweets and see if there's a possible thread for a book
+
+443
+00:27:21,452 --> 00:27:24,858
+idea in there. I want to look everywhere I can and just list all of
+
+444
+00:27:24,864 --> 00:27:28,598
+that stuff in the same spreadsheet. And maybe I got 1200 ideas
+
+445
+00:27:28,614 --> 00:27:32,378
+on there really broad funnel. But then I need to apply a
+
+446
+00:27:32,384 --> 00:27:36,206
+very tight filter. Is this something I'm interested in enough to spend two or
+
+447
+00:27:36,228 --> 00:27:39,674
+three or four years working on? Is it a topic of broad
+
+448
+00:27:39,722 --> 00:27:42,526
+appeal to a general audience? Are there going to be a lot of people that
+
+449
+00:27:42,548 --> 00:27:46,174
+like this? Is this something that people that I can
+
+450
+00:27:46,212 --> 00:27:49,854
+actually turn into something actionable? Can people use this in their daily
+
+451
+00:27:49,902 --> 00:27:53,618
+life? Is this a topic that has a lot of stories that I
+
+452
+00:27:53,624 --> 00:27:57,346
+could tell? Right? Can I actually make this entertaining or latch on
+
+453
+00:27:57,368 --> 00:28:01,174
+to other interesting stories to make the book readable? Yes. And those
+
+454
+00:28:01,212 --> 00:28:04,966
+are just some of the. Filters. But my point is that you want some
+
+455
+00:28:04,988 --> 00:28:08,566
+period of very broad exploration, and then once you have a lot of options,
+
+456
+00:28:08,668 --> 00:28:12,194
+you want to really tighten it down. Based on that question, what is this
+
+457
+00:28:12,252 --> 00:28:15,914
+for? So in my case, the question I'm using is, well, it's for
+
+458
+00:28:16,032 --> 00:28:19,622
+writing a good book, one that's highly actionable, one that sells a lot of copies,
+
+459
+00:28:19,686 --> 00:28:23,386
+one that people find useful and so on. Yeah. So I think
+
+460
+00:28:23,408 --> 00:28:27,166
+if you combine that broad funnel type filter strategy and that question of
+
+461
+00:28:27,188 --> 00:28:30,730
+what is it for? That can maybe give you some more specific answers.
+
+462
+00:28:30,810 --> 00:28:33,762
+But even if you don't come up with something good there, you can always focus
+
+463
+00:28:33,816 --> 00:28:37,586
+on the fundamentals. Yeah. And the other thing, when you
+
+464
+00:28:37,608 --> 00:28:41,154
+mentioned Seth, godin, he has this other line
+
+465
+00:28:41,352 --> 00:28:44,740
+which is people like us do things like this.
+
+466
+00:28:45,130 --> 00:28:48,966
+I love that line. I wish I had thought it up. But yeah, it's so
+
+467
+00:28:48,988 --> 00:28:52,706
+good. It's such a great mantra. And what's
+
+468
+00:28:52,738 --> 00:28:56,102
+interesting about it is, for
+
+469
+00:28:56,156 --> 00:28:59,802
+me, one thing that made me start thinking
+
+470
+00:28:59,856 --> 00:29:03,642
+about healthy habits was hanging out with people
+
+471
+00:29:03,696 --> 00:29:07,434
+who had healthy habits. And in some
+
+472
+00:29:07,472 --> 00:29:11,210
+ways, it was really lucky and fortunate.
+
+473
+00:29:14,030 --> 00:29:17,546
+Like, you guys invited me to that retreat. You did?
+
+474
+00:29:17,728 --> 00:29:21,486
+Yes. And in some ways, I'm thankful you guys invited a loser like
+
+475
+00:29:21,508 --> 00:29:24,980
+me, because I was, like, hanging out in that group.
+
+476
+00:29:25,990 --> 00:29:28,770
+I came, and at first I was cynical and grumpy,
+
+477
+00:29:30,950 --> 00:29:34,514
+and eventually, just looking around that group, I realized, man,
+
+478
+00:29:34,552 --> 00:29:37,800
+these people like this do things like this.
+
+479
+00:29:38,570 --> 00:29:42,182
+And my cynicism, which before would have been like, wow,
+
+480
+00:29:42,236 --> 00:29:45,622
+people like that do stuff like that. It went
+
+481
+00:29:45,676 --> 00:29:49,514
+down. And then all of a sudden, I was like, okay, well, if people
+
+482
+00:29:49,552 --> 00:29:53,340
+like this do things like this, that's what I need to do.
+
+483
+00:29:53,790 --> 00:29:57,594
+And I think for folks that are
+
+484
+00:29:57,792 --> 00:30:01,406
+thinking like, okay, well, how do I know what good habits are? There
+
+485
+00:30:01,428 --> 00:30:05,262
+are so many things that I would have
+
+486
+00:30:05,316 --> 00:30:07,120
+never been
+
+487
+00:30:09,330 --> 00:30:13,166
+what do you call it there's the stages of habits or whatever, but I would
+
+488
+00:30:13,188 --> 00:30:16,914
+have never even had the cue if I had not first observed it
+
+489
+00:30:16,952 --> 00:30:20,674
+and then noticed, like, oh, wait, they're doing that, they're doing that, they're doing that.
+
+490
+00:30:20,872 --> 00:30:24,622
+I'm the odd man out. And that's what motivated
+
+491
+00:30:24,686 --> 00:30:28,214
+me to want to pursue some of that stuff.
+
+492
+00:30:28,332 --> 00:30:31,830
+But if I hadn't been in that group and felt like, wait a second,
+
+493
+00:30:31,980 --> 00:30:35,686
+if I want to belong here, I got to
+
+494
+00:30:35,708 --> 00:30:39,238
+up my game, right? It would have never happened.
+
+495
+00:30:39,404 --> 00:30:43,114
+And so people like us do things like this has been really
+
+496
+00:30:43,152 --> 00:30:46,778
+helpful for me. Yeah, I love that phrase. And one of the
+
+497
+00:30:46,784 --> 00:30:49,578
+reasons I said that, oh, I wish I had thought that up is because I
+
+498
+00:30:49,584 --> 00:30:53,086
+think it applies so deeply to a lot of the ideas in
+
+499
+00:30:53,108 --> 00:30:56,942
+atomic habits. It applies to how
+
+500
+00:30:56,996 --> 00:31:00,846
+socially reinforced our habits are. I think this is I wrote about
+
+501
+00:31:00,868 --> 00:31:03,314
+this in the book. I mean, I have a whole chapter on it. Chapter nine
+
+502
+00:31:03,352 --> 00:31:07,118
+is all about that. But I think I still undersold
+
+503
+00:31:07,214 --> 00:31:10,340
+the importance of how socially reinforced our habits are.
+
+504
+00:31:11,190 --> 00:31:14,706
+And then it also references the importance of a
+
+505
+00:31:14,728 --> 00:31:18,226
+shared identity. I think that ultimately a shared
+
+506
+00:31:18,258 --> 00:31:21,686
+identity is really one of the most powerful forces for getting habits to
+
+507
+00:31:21,708 --> 00:31:25,446
+stick. If you look at
+
+508
+00:31:25,468 --> 00:31:28,330
+it in a big way, you can look at, like, religions.
+
+509
+00:31:29,390 --> 00:31:33,194
+Religions are really interesting places to look for habits. People get
+
+510
+00:31:33,232 --> 00:31:36,538
+in the habit of going to church every Sunday for
+
+511
+00:31:36,704 --> 00:31:40,326
+50 years, largely because it's reinforced
+
+512
+00:31:40,438 --> 00:31:44,122
+the other people in their neighborhoods go. The people on their block
+
+513
+00:31:44,266 --> 00:31:47,662
+go. They see their friends there. It's a very
+
+514
+00:31:47,716 --> 00:31:51,326
+socially reinforced habit. Same thing is true
+
+515
+00:31:51,428 --> 00:31:54,942
+in smaller ways. Like, let's say you move into a new house and you walk
+
+516
+00:31:54,996 --> 00:31:58,546
+outside on Tuesday night and you see all your neighbors have their
+
+517
+00:31:58,568 --> 00:32:02,306
+recycling bins out, and you're like, people like us do things like
+
+518
+00:32:02,328 --> 00:32:06,146
+this. Like, people who live in this neighborhood recycle on Tuesday nights. I guess
+
+519
+00:32:06,168 --> 00:32:09,782
+we need to sign up for recycling. And there are really
+
+520
+00:32:09,836 --> 00:32:13,542
+almost an infinite range of examples that are like that, both large and
+
+521
+00:32:13,596 --> 00:32:17,414
+small, where our habits are. We notice them
+
+522
+00:32:17,452 --> 00:32:20,826
+because the people around us are doing them, which is what the cue portion is
+
+523
+00:32:20,848 --> 00:32:24,614
+you referenced. We desire to do them. We crave
+
+524
+00:32:24,662 --> 00:32:28,442
+to follow through on them because by doing the same, we fit in
+
+525
+00:32:28,496 --> 00:32:31,990
+or signal to the other people around us, hey, I get it. I'm part of
+
+526
+00:32:32,000 --> 00:32:35,838
+the tribe too. It becomes easier to do it
+
+527
+00:32:35,924 --> 00:32:39,726
+because sometimes you have friends helping you out. It's like having a
+
+528
+00:32:39,748 --> 00:32:43,566
+spotter at the gym. Like, oh, people like us help each other out when
+
+529
+00:32:43,588 --> 00:32:46,654
+a set is hard. And then ultimately it becomes
+
+530
+00:32:46,702 --> 00:32:50,354
+satisfying because you enjoy being praised for
+
+531
+00:32:50,392 --> 00:32:53,346
+it. Other people are like, hey, it was great to see you at church on
+
+532
+00:32:53,368 --> 00:32:56,520
+Sunday, or, really good job on that workout today.
+
+533
+00:32:56,970 --> 00:33:00,546
+And that feels good to be praised for fitting
+
+534
+00:33:00,578 --> 00:33:03,794
+in. And so in that way, socially
+
+535
+00:33:03,842 --> 00:33:07,554
+reinforced habits or the collective
+
+536
+00:33:07,602 --> 00:33:10,806
+identity, it hits all four stages of habit
+
+537
+00:33:10,838 --> 00:33:14,682
+formation. And I knew
+
+538
+00:33:14,736 --> 00:33:17,610
+that when I was writing it, but I don't think I gave it as much
+
+539
+00:33:17,680 --> 00:33:21,406
+importance as I should have. It's a very powerful driver of behavior in the long
+
+540
+00:33:21,428 --> 00:33:24,446
+run. Yeah, totally. And I think this is why
+
+541
+00:33:24,628 --> 00:33:28,270
+cynicism is such a toxic
+
+542
+00:33:29,410 --> 00:33:31,680
+attitude. And
+
+543
+00:33:33,330 --> 00:33:37,166
+I guess I'm in Gen X. I'm born in 1980. There's
+
+544
+00:33:37,198 --> 00:33:40,946
+a lot of cynicism in Gen X. And then millennials also have
+
+545
+00:33:40,968 --> 00:33:44,706
+a little bit of this too. And
+
+546
+00:33:44,728 --> 00:33:48,518
+actually, to be honest, everybody has it. Baby boomers have it. When if you're a
+
+547
+00:33:48,524 --> 00:33:52,134
+50 year old programmer and you get hired at a
+
+548
+00:33:52,252 --> 00:33:56,006
+startup where the CEO is 20 years old, we kind
+
+549
+00:33:56,028 --> 00:33:58,410
+of default to cynicism.
+
+550
+00:33:59,390 --> 00:34:02,794
+And it's such a blocker when
+
+551
+00:34:02,832 --> 00:34:06,666
+you're trying to observe those norms, like, oh, wait, people like
+
+552
+00:34:06,688 --> 00:34:10,374
+us do things like this. Cynicism allows you to go, well, yeah,
+
+553
+00:34:10,512 --> 00:34:14,286
+people like that do stuff like that. That's good for them, that's good for
+
+554
+00:34:14,308 --> 00:34:18,046
+James Clear, but that's not good for
+
+555
+00:34:18,068 --> 00:34:21,600
+me. And what I'm trying to
+
+556
+00:34:22,130 --> 00:34:25,746
+kind of reveal from my experience for
+
+557
+00:34:25,768 --> 00:34:29,506
+anyone that ever watches this or listens to this is that you really do need
+
+558
+00:34:29,528 --> 00:34:33,314
+to step outside that and at least be open
+
+559
+00:34:33,432 --> 00:34:37,074
+to this idea that your life could get
+
+560
+00:34:37,112 --> 00:34:40,520
+better, and it could just be going. Okay, well,
+
+561
+00:34:41,530 --> 00:34:44,598
+I'm going to vote for who I'm going to be today, and I'm going to
+
+562
+00:34:44,604 --> 00:34:48,166
+vote for who I'm going to be tomorrow, and I'm going to keep going. The
+
+563
+00:34:48,188 --> 00:34:51,506
+other thing in the book that really helped me, and I'm probably going to butcher
+
+564
+00:34:51,538 --> 00:34:55,302
+it. So you clean up after I do it, but you show this grid.
+
+565
+00:34:55,446 --> 00:34:59,146
+So imagine, like, on this side of your day, it's like, okay, I
+
+566
+00:34:59,168 --> 00:35:02,686
+make a good decision, so it goes up, and then I make another good
+
+567
+00:35:02,708 --> 00:35:06,446
+decision goes up, but then I make a bad decision. Like, I eat a
+
+568
+00:35:06,468 --> 00:35:10,266
+tub of ice cream, and sometimes eating the tub
+
+569
+00:35:10,298 --> 00:35:14,062
+of ice cream is like, debilitating. It's like,
+
+570
+00:35:14,116 --> 00:35:17,646
+well, I'm done. I ate the tub of ice cream.
+
+571
+00:35:17,758 --> 00:35:21,234
+I suck at this. I'm just going to go get into bed and forget about
+
+572
+00:35:21,272 --> 00:35:24,834
+it. And in your grid, you show, wait, but you're still up
+
+573
+00:35:24,872 --> 00:35:28,646
+here. You can just make another good decision, and
+
+574
+00:35:28,668 --> 00:35:32,134
+then you're back up again. And I like that idea of kind of
+
+575
+00:35:32,172 --> 00:35:36,006
+navigating your ideas, not being so hard on ourselves. Did
+
+576
+00:35:36,028 --> 00:35:38,440
+I kind of get that right? Yeah.
+
+577
+00:35:39,770 --> 00:35:43,500
+I don't know if you can see it, but this is the image. But
+
+578
+00:35:46,110 --> 00:35:49,274
+it's this idea that the difference between a good day and a bad day is
+
+579
+00:35:49,312 --> 00:35:52,782
+often just a series of choices, right. And you can win each little
+
+580
+00:35:52,836 --> 00:35:56,558
+moment, right? You can win each decisive moment. Just because you ate the
+
+581
+00:35:56,564 --> 00:35:59,600
+tub of ice cream doesn't mean you can't win the next moment. Yes.
+
+582
+00:36:02,690 --> 00:36:05,938
+One thing that I was thinking about when I wrote that is this concept that
+
+583
+00:36:05,944 --> 00:36:09,726
+I call decisive moments, this idea that there are a few choices
+
+584
+00:36:09,758 --> 00:36:13,554
+each day, maybe somewhere between, say, five and ten, that kind of
+
+585
+00:36:13,592 --> 00:36:17,358
+determine the next chunk of time. For example, there's
+
+586
+00:36:17,374 --> 00:36:20,902
+a moment for me each morning where I sit down and
+
+587
+00:36:20,956 --> 00:36:24,738
+either I open up Evernote and I start writing the next article I'm
+
+588
+00:36:24,754 --> 00:36:28,594
+going to work on, or I go to ESPN and I check the latest sports
+
+589
+00:36:28,642 --> 00:36:32,346
+news. Yeah. And what happens in the next hour
+
+590
+00:36:32,448 --> 00:36:36,250
+is really determined by what happens in the first 45 seconds.
+
+591
+00:36:36,830 --> 00:36:40,474
+Do I go to Evernote or do I go to ESPN? So
+
+592
+00:36:40,512 --> 00:36:44,174
+that is a decisive moment in my language. That's like a moment that
+
+593
+00:36:44,212 --> 00:36:47,886
+determines if I can master those 45 seconds, then I can end up
+
+594
+00:36:47,908 --> 00:36:51,360
+mastering the next your that comes afterward almost automatically. Yeah,
+
+595
+00:36:51,810 --> 00:36:55,646
+same thing is true. There's a moment each night, like 515 or so my wife
+
+596
+00:36:55,678 --> 00:36:59,454
+gets home from work and either we change into our workout clothes
+
+597
+00:36:59,582 --> 00:37:03,186
+or we sit on the couch and watch reruns the office and
+
+598
+00:37:03,208 --> 00:37:06,834
+order Indian food or whatever. And both of those nights are good
+
+599
+00:37:06,872 --> 00:37:10,434
+nights. But the moment to master is do we change into our
+
+600
+00:37:10,472 --> 00:37:14,262
+workout clothes or not? If we do that, it only takes a few minutes. Everything
+
+601
+00:37:14,316 --> 00:37:17,218
+else for the next 2 hours is already decided. We'll get in the car, we'll
+
+602
+00:37:17,234 --> 00:37:21,066
+drive to the gym, we'll do the reps. It's all pretty much done at that
+
+603
+00:37:21,088 --> 00:37:24,922
+point. Yeah. So the reason I like bringing that up or like thinking
+
+604
+00:37:24,976 --> 00:37:28,730
+about that is you start to realize there really
+
+605
+00:37:28,800 --> 00:37:32,634
+isn't that much that you need to master. Really. You just are
+
+606
+00:37:32,672 --> 00:37:36,426
+trying to focus your attention on a few key decisive
+
+607
+00:37:36,458 --> 00:37:39,934
+moments throughout the day. It's kind of like applying judo to your
+
+608
+00:37:39,972 --> 00:37:43,758
+life. It's like apply the pressure and the leverage at just the right point
+
+609
+00:37:43,844 --> 00:37:47,060
+and then the next hour kind of falls into place automatically. Yeah.
+
+610
+00:37:47,510 --> 00:37:51,294
+And so I like that because once you realize that once you kind of identify
+
+611
+00:37:51,342 --> 00:37:54,594
+those high leverage decision points, you can
+
+612
+00:37:54,712 --> 00:37:58,550
+organize your day and your environment around
+
+613
+00:37:58,620 --> 00:38:02,406
+those things. If I know that those 45 seconds where I'm
+
+614
+00:38:02,428 --> 00:38:05,830
+choosing between Evernote or ESPN is a real key moment,
+
+615
+00:38:05,980 --> 00:38:09,074
+well, I could install freedom and then I could block
+
+616
+00:38:09,122 --> 00:38:12,954
+ESPN from 08:00 A.m. To 10:00 A.m. And that
+
+617
+00:38:12,992 --> 00:38:16,234
+takes care of that decisive moment and it increases the odds that I'm going to
+
+618
+00:38:16,272 --> 00:38:19,834
+open a note instead. But anyway, so little
+
+619
+00:38:19,872 --> 00:38:23,534
+choices like that are easier to make once you've identified some of those key
+
+620
+00:38:23,572 --> 00:38:27,114
+points of leverage. Yeah. And you talk in the book life, there's some tricks
+
+621
+00:38:27,162 --> 00:38:30,590
+too, where you can make things automatic.
+
+622
+00:38:32,050 --> 00:38:35,490
+Like you talk about near a, y'all, buying
+
+623
+00:38:35,830 --> 00:38:39,266
+a little device that just shuts off his internet every night at ten.
+
+624
+00:38:39,448 --> 00:38:42,962
+Outlet timer. Yeah. And what's brilliant about that
+
+625
+00:38:43,016 --> 00:38:46,806
+is it shuts it off, especially if it's in the basement or
+
+626
+00:38:46,828 --> 00:38:50,310
+whatever, you're not going to go downstairs and fiddle around with it
+
+627
+00:38:50,460 --> 00:38:53,782
+and then that's what happens.
+
+628
+00:38:53,916 --> 00:38:57,586
+Right. If ESPN was really killing
+
+629
+00:38:57,618 --> 00:39:01,418
+you, you could just cancel your cable subscription. That might be a
+
+630
+00:39:01,424 --> 00:39:05,014
+bit but then you go to watch ESPN. You can't
+
+631
+00:39:05,062 --> 00:39:08,746
+right. It's done. By the way,
+
+632
+00:39:08,848 --> 00:39:12,650
+you mentioned this in the book too. But it's so funny how certain people's,
+
+633
+00:39:13,390 --> 00:39:17,086
+what is a trigger for some people is not for others. Like ESPN for
+
+634
+00:39:17,108 --> 00:39:20,654
+me is not a, that's not a temptation at
+
+635
+00:39:20,692 --> 00:39:24,446
+all. Yeah, it doesn't even enter your worldview. Doesn't enter my worldview. But
+
+636
+00:39:24,468 --> 00:39:28,226
+it shows you how identity is so much a part of this. Like if I
+
+637
+00:39:28,248 --> 00:39:31,730
+was hanging out with a bunch of Oilers fans every single day
+
+638
+00:39:31,880 --> 00:39:35,682
+and this happened in the office, there's a few people
+
+639
+00:39:35,736 --> 00:39:39,554
+and they're watching know on, on their
+
+640
+00:39:39,592 --> 00:39:43,366
+computers and I realize like if I want to talk to them, I've got
+
+641
+00:39:43,388 --> 00:39:47,174
+to start watching. Yeah. So people like us do things like this.
+
+642
+00:39:47,292 --> 00:39:51,098
+And so I started developing this habit of watching Oilers games when
+
+643
+00:39:51,264 --> 00:39:54,826
+before I. Didn'T even mean I think this is one of the
+
+644
+00:39:54,848 --> 00:39:58,602
+reasons why sports is so tribal, why people get so emotional about it,
+
+645
+00:39:58,656 --> 00:40:01,946
+is that it becomes a connection point for the
+
+646
+00:40:01,968 --> 00:40:05,774
+relationships. The game is actually no one would ever
+
+647
+00:40:05,812 --> 00:40:08,606
+say that because everybody acts like the game is the thing that matters the most.
+
+648
+00:40:08,708 --> 00:40:12,000
+But in a weird way, it's kind of a secondary thing, really,
+
+649
+00:40:12,450 --> 00:40:16,174
+when I think back. For me, sports is a way for my
+
+650
+00:40:16,212 --> 00:40:19,426
+brother and I to connect and for us to have something to text about and
+
+651
+00:40:19,448 --> 00:40:23,198
+chat about throughout the week. It's a thing that it's a reason for my dad
+
+652
+00:40:23,214 --> 00:40:26,114
+and I to get together in person and to go to games and hang out,
+
+653
+00:40:26,152 --> 00:40:29,734
+and it's all the other stuff that it provides that
+
+654
+00:40:29,772 --> 00:40:33,606
+makes it so deeply meaningful. And then
+
+655
+00:40:33,788 --> 00:40:36,598
+you end up assigning a lot of that emotion to how the team does on
+
+656
+00:40:36,604 --> 00:40:39,000
+the field as well. What the score is on the
+
+657
+00:40:40,410 --> 00:40:44,246
+yeah. It'S a good example there on that topic, then. And this is Corey
+
+658
+00:40:44,278 --> 00:40:47,354
+Stone is asking this in chat, but there's a lot of people on Twitter that
+
+659
+00:40:47,392 --> 00:40:51,120
+ask this too. Given that example that you just gave,
+
+660
+00:40:51,570 --> 00:40:54,942
+if your meaningful relationships are
+
+661
+00:40:54,996 --> 00:40:58,686
+engaging in habits that might not be good for you or that you want to
+
+662
+00:40:58,708 --> 00:41:02,286
+change, how do you navigate that? So if
+
+663
+00:41:02,308 --> 00:41:05,874
+you're really feeling like, I got to stop
+
+664
+00:41:05,912 --> 00:41:09,650
+watching sports, it's just like, I get a little bit and then I just go
+
+665
+00:41:09,720 --> 00:41:13,426
+crazy. But I still want to have a relationship with
+
+666
+00:41:13,448 --> 00:41:17,186
+my brother. This is where it gets complex, especially if your married
+
+667
+00:41:17,218 --> 00:41:20,946
+to somebody, your wife
+
+668
+00:41:20,978 --> 00:41:24,226
+is at least somewhat inclined to want to go to the gym, I'm
+
+669
+00:41:24,258 --> 00:41:27,958
+guessing. But if she was like, no, I just want to watch Netflix and
+
+670
+00:41:27,964 --> 00:41:31,626
+order Indian food, that's all I want to yeah. How do you start to
+
+671
+00:41:31,648 --> 00:41:34,700
+navigate those things? Yeah, those are good questions.
+
+672
+00:41:35,550 --> 00:41:39,386
+I mean, it's really hard because especially if it's a
+
+673
+00:41:39,408 --> 00:41:43,146
+person who you want to stay in, your know, I think first of all, I
+
+674
+00:41:43,168 --> 00:41:45,486
+just want to say so I have some things I want to add to this,
+
+675
+00:41:45,508 --> 00:41:49,118
+but I feel like it's worth noting that
+
+676
+00:41:49,284 --> 00:41:53,086
+this question comes up a lot. And I think the reason it comes up
+
+677
+00:41:53,108 --> 00:41:56,954
+a lot is because we all know that actually there isn't
+
+678
+00:41:57,002 --> 00:42:00,418
+a good easy answer and that it's just a hard part of life. You know
+
+679
+00:42:00,424 --> 00:42:03,938
+what I mean? It's one of those things we want to keep asking
+
+680
+00:42:04,024 --> 00:42:07,630
+about in hopes that, oh, maybe there'll be an easy way to resolve this. But
+
+681
+00:42:07,640 --> 00:42:10,680
+I think we all know it's a challenge. Yeah.
+
+682
+00:42:11,210 --> 00:42:14,534
+Now, that said, there are a few things you can do. So first thing
+
+683
+00:42:14,572 --> 00:42:18,198
+is sometimes your friends and family want to do something
+
+684
+00:42:18,284 --> 00:42:22,086
+different than how you want to change. So, like, you want to stick
+
+685
+00:42:22,118 --> 00:42:25,754
+to a new diet, they want to eat the old way or something
+
+686
+00:42:25,792 --> 00:42:29,526
+like that. Well, you want to start doing yoga, they couldn't
+
+687
+00:42:29,558 --> 00:42:32,846
+care less about yoga, they don't want to go to class with you, things like
+
+688
+00:42:32,868 --> 00:42:36,142
+that. Well, if that's the case, then for certain
+
+689
+00:42:36,196 --> 00:42:39,998
+habits you don't have to fire your friends and family to be
+
+690
+00:42:40,004 --> 00:42:43,726
+able to do that. But what you do need, or what can
+
+691
+00:42:43,748 --> 00:42:47,282
+be really useful is having a sacred space where that
+
+692
+00:42:47,336 --> 00:42:51,074
+occurs. Where I'm not saying you need to do this with me, but
+
+693
+00:42:51,112 --> 00:42:54,818
+just don't make it harder on me. Right. Just don't conflict with so
+
+694
+00:42:54,984 --> 00:42:58,718
+the yoga example is an easier one where it's like, well, maybe you need to
+
+695
+00:42:58,744 --> 00:43:02,406
+go to a yoga studio away from the friends and
+
+696
+00:43:02,428 --> 00:43:05,814
+family that aren't interested and start to build friendships with people who
+
+697
+00:43:05,852 --> 00:43:08,854
+are. I'm not saying you need to get rid of your old friends, but maybe
+
+698
+00:43:08,892 --> 00:43:11,866
+it'd be helpful to build a couple of new ones who are into yoga so
+
+699
+00:43:11,888 --> 00:43:15,626
+that you have a safe space for that habit to live. Yeah, so
+
+700
+00:43:15,648 --> 00:43:19,194
+that's one thing. Then there's the second piece, which
+
+701
+00:43:19,232 --> 00:43:22,890
+is sometimes you're building a habit that you do want
+
+702
+00:43:22,960 --> 00:43:26,734
+the person to join you on to come along with you. You're working
+
+703
+00:43:26,772 --> 00:43:30,014
+out and you would love for your spouse to join your at the gym or
+
+704
+00:43:30,052 --> 00:43:33,886
+something like that. And everybody knows it would be
+
+705
+00:43:33,908 --> 00:43:37,682
+good, but maybe they feel less comfortable there than you do.
+
+706
+00:43:37,736 --> 00:43:41,566
+Or maybe they feel you were previously an athlete
+
+707
+00:43:41,598 --> 00:43:45,118
+and they were not. And so you feel kind of comfortable in the gym. You've
+
+708
+00:43:45,134 --> 00:43:48,898
+been there before in years past. But for them it's like new and weird and
+
+709
+00:43:48,984 --> 00:43:52,678
+they feel like they're being judged and whatever. If you're dealing with a
+
+710
+00:43:52,684 --> 00:43:56,374
+case like that, the thing that I try to keep in mind,
+
+711
+00:43:56,412 --> 00:44:00,134
+and I can tell you from working with my own family, it can be incredibly
+
+712
+00:44:00,182 --> 00:44:04,006
+useful, is praise the good, ignore the bad. It's
+
+713
+00:44:04,038 --> 00:44:07,754
+very hard to do. The difficult part about it is
+
+714
+00:44:07,792 --> 00:44:11,354
+not doing it on an individual basis. It's that this needs to be the new
+
+715
+00:44:11,392 --> 00:44:15,102
+lifestyle for you. So when they do the thing that you're asking
+
+716
+00:44:15,156 --> 00:44:18,702
+them to do, basically another way to phrase this is
+
+717
+00:44:18,756 --> 00:44:22,000
+don't criticize people for doing what you were hoping they would.
+
+718
+00:44:22,690 --> 00:44:26,366
+There are so many times when the introverted kid in the family
+
+719
+00:44:26,468 --> 00:44:29,506
+will come down to the dinner table and it's like, oh, look who decided to
+
+720
+00:44:29,528 --> 00:44:33,042
+join us. And it's like, well they finally did the thing
+
+721
+00:44:33,176 --> 00:44:36,914
+that your were hoping they would do and engage with everybody and
+
+722
+00:44:36,952 --> 00:44:39,880
+now they just feel like they're getting criticized for it. Or
+
+723
+00:44:40,890 --> 00:44:44,726
+you go to the gym and your spouse decides to join you
+
+724
+00:44:44,828 --> 00:44:47,894
+and they do a few sets and then they feel like they're done and you
+
+725
+00:44:47,932 --> 00:44:51,506
+say, well, that was a pretty short workout when what you should
+
+726
+00:44:51,548 --> 00:44:55,386
+be saying is I think it's great that you got in here tonight, right? Like
+
+727
+00:44:55,408 --> 00:44:58,300
+you weren't feeling it, but you were still able to make it in. Yeah.
+
+728
+00:44:59,230 --> 00:45:02,974
+So praise the good, ignore the bad, and if you can do
+
+729
+00:45:03,012 --> 00:45:06,174
+that in the long run, what ends up happening is
+
+730
+00:45:06,372 --> 00:45:10,154
+everybody likes feeling praised, everybody life feeling
+
+731
+00:45:10,202 --> 00:45:13,790
+rewarded. It feels satisfying to
+
+732
+00:45:13,940 --> 00:45:17,486
+do something that the people who love you and who are around you praise you
+
+733
+00:45:17,508 --> 00:45:21,314
+for. And so at first you go to the gym and they say, hey,
+
+734
+00:45:21,352 --> 00:45:24,046
+I'm really proud of you for getting in here tonight. Good job. And it doesn't
+
+735
+00:45:24,078 --> 00:45:27,714
+seem like much, but then after two months and three months and ten
+
+736
+00:45:27,752 --> 00:45:31,510
+months of that, you turn around a year later and they might never even
+
+737
+00:45:31,580 --> 00:45:35,286
+say it, but implicitly, what they've realized is, damn, every
+
+738
+00:45:35,308 --> 00:45:38,840
+time I go to the gym, it feels good, they compliment me.
+
+739
+00:45:39,370 --> 00:45:43,174
+Now all of a sudden, you start to associate going to the gym with feeling
+
+740
+00:45:43,222 --> 00:45:46,890
+good. And this is a really long game play because
+
+741
+00:45:46,960 --> 00:45:50,540
+it takes a while for that to reinforce itself. But
+
+742
+00:45:51,630 --> 00:45:55,102
+same thing. Like the introverted kid at the table sits down and
+
+743
+00:45:55,236 --> 00:45:58,506
+they say something that happened today and it's like, oh, that's awesome. Thanks for sharing
+
+744
+00:45:58,538 --> 00:46:02,366
+that with us on that individual night. That one night at
+
+745
+00:46:02,388 --> 00:46:06,062
+dinner doesn't count for a lot, but if every time they speak up
+
+746
+00:46:06,116 --> 00:46:09,874
+they're rewarded for it, then all of a sudden now they have a reason
+
+747
+00:46:09,912 --> 00:46:13,586
+to start doing that more in the months and years to come. So it
+
+748
+00:46:13,608 --> 00:46:17,214
+takes a while, but I think that that's like an effective way to gradually
+
+749
+00:46:17,262 --> 00:46:21,046
+nudge people in the right direction. Yeah, there's someone in the chat that's saying they
+
+750
+00:46:21,068 --> 00:46:24,774
+need to apply that idea to themselves to avoid feeling guilty for not
+
+751
+00:46:24,812 --> 00:46:28,434
+doing enough. So instead of reinforce, oh, you idiot,
+
+752
+00:46:28,482 --> 00:46:31,882
+you didn't go to the gym again, you fatty. That's not
+
+753
+00:46:31,936 --> 00:46:35,626
+helpful. The self talk can work with
+
+754
+00:46:35,648 --> 00:46:39,194
+self talk as well. This is why I think small
+
+755
+00:46:39,232 --> 00:46:43,066
+habits can be so useful in some ways, even on the bad days. Because
+
+756
+00:46:43,168 --> 00:46:47,006
+let's say you're in that situation you just said, where it's like, oh, skip the
+
+757
+00:46:47,028 --> 00:46:50,814
+gym again. Well, you can still do one push up or one air
+
+758
+00:46:50,852 --> 00:46:54,126
+squat or whatever before you go do a set of ten air squats before you
+
+759
+00:46:54,148 --> 00:46:57,854
+hop in bed tonight, and it's not going to transform
+
+760
+00:46:57,902 --> 00:47:01,426
+your body. But that's not really the point. The point is to prove to
+
+761
+00:47:01,448 --> 00:47:05,166
+yourself that it wasn't a good day. I didn't have the best motivation
+
+762
+00:47:05,198 --> 00:47:08,738
+or energy. I had a long day at work, but I still am not the
+
+763
+00:47:08,744 --> 00:47:12,374
+type of person who misses workouts, right? I still proved to myself
+
+764
+00:47:12,492 --> 00:47:15,958
+I still cast a vote for being that kind of person. I didn't let a
+
+765
+00:47:15,964 --> 00:47:19,666
+day go by without doing nothing. And that
+
+766
+00:47:19,708 --> 00:47:23,194
+can count for a lot in the long run. And so sometimes small
+
+767
+00:47:23,232 --> 00:47:26,906
+habits are less about the outcome they deliver and more about the
+
+768
+00:47:26,928 --> 00:47:30,380
+identity they reinforce. Yeah. And I've actually found
+
+769
+00:47:31,250 --> 00:47:34,634
+another thing I'm
+
+770
+00:47:34,682 --> 00:47:38,394
+implementing in the new year is I decided
+
+771
+00:47:38,442 --> 00:47:41,786
+to quit drinking alcohol. And right now, it's
+
+772
+00:47:41,818 --> 00:47:45,106
+ostensibly for this goal of hitting a revenue mark. Once I hit the
+
+773
+00:47:45,128 --> 00:47:48,734
+goal, then I can have a drink. But the deeper
+
+774
+00:47:48,782 --> 00:47:51,410
+motivation for me was I just realized
+
+775
+00:47:53,190 --> 00:47:56,686
+it's a depressant. There's a bunch of reasons that it's
+
+776
+00:47:56,718 --> 00:48:00,166
+not good for me. And so my
+
+777
+00:48:00,268 --> 00:48:03,846
+excuse or my way of trying it out is saying, well, I'm going for this
+
+778
+00:48:03,868 --> 00:48:07,606
+goal, but it's been interesting in social situations because all
+
+779
+00:48:07,628 --> 00:48:11,340
+my friends still drink, and that's fine with me. But
+
+780
+00:48:13,310 --> 00:48:16,634
+sometimes just sharing the goal, oh, I'm just doing this because I'm going after this
+
+781
+00:48:16,672 --> 00:48:19,690
+thing. And you talk about how goals are sometimes
+
+782
+00:48:19,840 --> 00:48:23,646
+helpful in setting your direction, like, okay,
+
+783
+00:48:23,668 --> 00:48:27,390
+I'm pointed this way now, and sometimes
+
+784
+00:48:27,460 --> 00:48:31,118
+sharing that with people is helpful. The other thing is, I think eventually, if I
+
+785
+00:48:31,124 --> 00:48:34,870
+just keep doing this, just for me to say, well, I'm a non
+
+786
+00:48:34,890 --> 00:48:38,514
+drinker now. Yeah. And so I can still go
+
+787
+00:48:38,552 --> 00:48:42,354
+and have my favorite. And it's also
+
+788
+00:48:42,392 --> 00:48:46,014
+nice having a thing that you like. So my favorite non alcoholic
+
+789
+00:48:46,062 --> 00:48:49,666
+drink is a non alcoholic Caesar. It's like a Bloody
+
+790
+00:48:49,698 --> 00:48:53,526
+Mary. And to have that drink, it's, like, kind of
+
+791
+00:48:53,548 --> 00:48:57,174
+spicy. There's a reward there. I also have
+
+792
+00:48:57,212 --> 00:49:00,060
+this social crutch that I can use in a situation,
+
+793
+00:49:01,470 --> 00:49:04,746
+and if somebody asks me about it, I also have this new
+
+794
+00:49:04,768 --> 00:49:08,118
+identity, which is, oh, I'm a non drinker now, I just don't
+
+795
+00:49:08,134 --> 00:49:11,966
+drink. And you talked about that. There's some research behind that.
+
+796
+00:49:11,988 --> 00:49:15,546
+I know you've mentioned it a lot, but it's like, I'm trying to quit
+
+797
+00:49:15,578 --> 00:49:18,926
+smoking versus I'm a non smoker. Right. Is that
+
+798
+00:49:18,948 --> 00:49:22,506
+correct? Correct. Yeah. So I
+
+799
+00:49:22,548 --> 00:49:25,220
+think that can be really helpful. Yeah.
+
+800
+00:49:28,710 --> 00:49:32,370
+I think what you're explaining here, the situation that you're going through, this experience
+
+801
+00:49:32,440 --> 00:49:36,254
+you're having, is kind of it's illustrating this process of identity
+
+802
+00:49:36,302 --> 00:49:39,058
+change. Right. It started with, oh, I'm just going to put it off for a
+
+803
+00:49:39,064 --> 00:49:42,786
+little while while I'm attacking this goal. But then you're casting so many votes
+
+804
+00:49:42,818 --> 00:49:46,182
+for like, you know what? I haven't drank, and I'm kind of benefiting from it.
+
+805
+00:49:46,236 --> 00:49:49,270
+Maybe this is part of my identity now. Maybe I'm a non drinker
+
+806
+00:49:50,910 --> 00:49:54,458
+anyway. Yeah, I think you're definitely on the right track there. Yeah. And actually, this
+
+807
+00:49:54,464 --> 00:49:57,260
+is a good time to bring up two Twitter questions.
+
+808
+00:49:58,190 --> 00:50:01,310
+Maria Aldri asks,
+
+809
+00:50:01,730 --> 00:50:05,578
+how do your maintain habits? Ask him about maintaining
+
+810
+00:50:05,594 --> 00:50:09,338
+habits for people with depression, anxiety, or attention deficit.
+
+811
+00:50:09,514 --> 00:50:12,880
+Do you want to try to tackle that? Yeah.
+
+812
+00:50:13,490 --> 00:50:17,166
+So I've tried to be careful about saying that Atomic Habits
+
+813
+00:50:17,198 --> 00:50:20,930
+is about building habits and breaking bad habits, building good ones.
+
+814
+00:50:21,080 --> 00:50:24,258
+But it's not a book on addiction. It's not a book on depression. It's not
+
+815
+00:50:24,264 --> 00:50:28,066
+a book about anxiety or ADHD or any of these other disorders
+
+816
+00:50:28,098 --> 00:50:31,910
+or ailments. And I don't consider myself
+
+817
+00:50:31,980 --> 00:50:35,654
+an expert on addiction. However, something interesting has
+
+818
+00:50:35,692 --> 00:50:39,526
+happened. So I published the book, and I have had a ton
+
+819
+00:50:39,548 --> 00:50:43,194
+of speaking requests recently, and so I've been doing speeches at conferences and
+
+820
+00:50:43,232 --> 00:50:46,762
+companies and different events and whatever. And so
+
+821
+00:50:46,816 --> 00:50:50,458
+many times I get someone that comes up to me afterward or that asks a
+
+822
+00:50:50,464 --> 00:50:54,014
+question during Q A that talks about how useful the book was
+
+823
+00:50:54,052 --> 00:50:57,754
+for their son, who had ADHD or their cousin
+
+824
+00:50:57,802 --> 00:51:01,614
+was a meth addict and then was able to start to write the Ship by
+
+825
+00:51:01,652 --> 00:51:05,374
+employing some of these techniques or whatever. Yeah, which is great, which is very
+
+826
+00:51:05,412 --> 00:51:09,186
+gratifying. I still stand by my original statement. I'm not an expert on
+
+827
+00:51:09,208 --> 00:51:12,866
+addiction. I don't want to take a strong stance with this stuff. But what
+
+828
+00:51:12,888 --> 00:51:16,466
+I've realized is that the principles that I lay out in
+
+829
+00:51:16,488 --> 00:51:20,070
+Atomic Habits are really about how human behavior works.
+
+830
+00:51:20,140 --> 00:51:23,862
+It's about how habits are formed and whether that habit is something
+
+831
+00:51:23,916 --> 00:51:27,618
+extreme like an addiction or picking your skin or OCD
+
+832
+00:51:27,714 --> 00:51:31,562
+or ADHD or whatever, or whether it's something more
+
+833
+00:51:31,616 --> 00:51:35,354
+moderate like meditating for three minutes a day. Yes, the
+
+834
+00:51:35,392 --> 00:51:39,146
+fundamentals tend to be similar. And so I'm not going to
+
+835
+00:51:39,168 --> 00:51:42,986
+say that the book offers a prescription for overcoming addictions, but what
+
+836
+00:51:43,008 --> 00:51:46,686
+I will say is you'd be hard pressed to find tactics in the book
+
+837
+00:51:46,708 --> 00:51:50,206
+that wouldn't at least help, right? That wouldn't at least nudge people in the right
+
+838
+00:51:50,228 --> 00:51:54,074
+direction. I have heard from a few readers
+
+839
+00:51:54,122 --> 00:51:57,710
+who specifically have said that they had ADHD
+
+840
+00:51:57,790 --> 00:52:01,538
+and that they found the book very helpful. Environment design,
+
+841
+00:52:01,624 --> 00:52:05,266
+for whatever reason, has been something that's come up multiple times for folks who have
+
+842
+00:52:05,288 --> 00:52:08,966
+struggled with that. So I think it's kind of like if
+
+843
+00:52:08,988 --> 00:52:12,774
+you're the type of person who is less likely to just remember to do
+
+844
+00:52:12,812 --> 00:52:16,582
+it or just follow your to do list. If that's not
+
+845
+00:52:16,636 --> 00:52:20,366
+you, then structuring an environment where it's easier
+
+846
+00:52:20,418 --> 00:52:23,754
+to see the cues of your good habits, less likely to see the
+
+847
+00:52:23,792 --> 00:52:27,510
+distractions. Less friction between you and the good behavior.
+
+848
+00:52:27,590 --> 00:52:31,402
+More friction between you and the bad ones. If you place yourself in that
+
+849
+00:52:31,456 --> 00:52:35,086
+space, it's much more likely that you're going to fall through. So
+
+850
+00:52:35,268 --> 00:52:39,006
+those are things I talk about in chapters six and twelve, but I think
+
+851
+00:52:39,028 --> 00:52:42,846
+that the book applies, but I don't pitch it as like a
+
+852
+00:52:42,868 --> 00:52:46,658
+prescription for someone dealing with a more serious issue. Totally. Yeah. And I
+
+853
+00:52:46,664 --> 00:52:50,514
+would say again, I'm not an expert either, but as someone who has
+
+854
+00:52:50,552 --> 00:52:54,180
+been dealing with depression the past couple of years,
+
+855
+00:52:57,450 --> 00:53:00,854
+having a professional that your go to that deals with this stuff all the time,
+
+856
+00:53:00,892 --> 00:53:04,440
+like a therapist is so helpful, and
+
+857
+00:53:04,810 --> 00:53:08,566
+the therapist will be very interested if
+
+858
+00:53:08,588 --> 00:53:12,374
+you read James's book. So I said to my therapist, I'm like, your know, she
+
+859
+00:53:12,412 --> 00:53:16,186
+starts way back here and then she says, so what's new
+
+860
+00:53:16,208 --> 00:53:19,258
+with life? Well, you know, I read this book and I'm thinking, oh, what are
+
+861
+00:53:19,264 --> 00:53:22,400
+you thinking about doing? With that. Oh, I'm thinking about maybe
+
+862
+00:53:23,010 --> 00:53:26,366
+quitting alcohol. Oh, well, there's some
+
+863
+00:53:26,388 --> 00:53:29,790
+reinforcement from the professionals. And
+
+864
+00:53:29,940 --> 00:53:33,762
+likewise with my doctor when I
+
+865
+00:53:33,816 --> 00:53:37,202
+had depression and I went to my physician, she
+
+866
+00:53:37,256 --> 00:53:39,810
+said she gave me two prescriptions,
+
+867
+00:53:40,870 --> 00:53:44,610
+quit drinking alcohol and quit
+
+868
+00:53:45,110 --> 00:53:48,578
+taking any kind of cannabis. And
+
+869
+00:53:48,744 --> 00:53:52,566
+the reason is, she says, those are going to make you feel bad. Now,
+
+870
+00:53:52,588 --> 00:53:55,762
+the trigger in that case was my doctor. It's nice when you have a doctor
+
+871
+00:53:55,826 --> 00:53:59,378
+saying, listen, this is your prescription. Oh, and double the amount of exercise I was
+
+872
+00:53:59,404 --> 00:54:01,180
+doing. So three things.
+
+873
+00:54:03,310 --> 00:54:06,986
+So I did that for three months, and then I went back to my old
+
+874
+00:54:07,008 --> 00:54:10,574
+habits. But now I have that memory of what it was like for three
+
+875
+00:54:10,612 --> 00:54:14,414
+months. And it's been a powerful trigger for me to
+
+876
+00:54:14,612 --> 00:54:17,920
+when I am starting to notice my mood go down.
+
+877
+00:54:18,450 --> 00:54:22,282
+I remembered my doctor's prescription was quit drinking,
+
+878
+00:54:22,426 --> 00:54:26,274
+quit eating edibles, and doubling my
+
+879
+00:54:26,312 --> 00:54:30,066
+exercise. And that's been helpful for me personally. So I think
+
+880
+00:54:30,088 --> 00:54:33,554
+if you're reading the book, let your professional in your life know about
+
+881
+00:54:33,592 --> 00:54:37,382
+it is good. One thing I want you to do
+
+882
+00:54:37,436 --> 00:54:41,094
+is because I love the imagery and this is
+
+883
+00:54:41,132 --> 00:54:44,882
+probably unfair to you, is to give the ice cube example, but use celsius
+
+884
+00:54:44,946 --> 00:54:46,230
+instead of fahrenheit.
+
+885
+00:54:49,370 --> 00:54:52,986
+So this is an example from the first chapter of the
+
+886
+00:54:53,008 --> 00:54:56,794
+book. And actually, as a side
+
+887
+00:54:56,832 --> 00:54:58,906
+note, I thought about this. I was like, man, we're going to have to get
+
+888
+00:54:58,928 --> 00:55:02,174
+these changed for the foreign editions. It's going to need to be. But
+
+889
+00:55:02,212 --> 00:55:02,800
+anyway,
+
+890
+00:55:06,130 --> 00:55:09,966
+the core idea is that the process of changing your habits is well,
+
+891
+00:55:09,988 --> 00:55:12,926
+it's similar to what we talked about early on, that there's often this valley of
+
+892
+00:55:12,948 --> 00:55:16,554
+death that there's this period where you're just kind of building
+
+893
+00:55:16,612 --> 00:55:19,886
+up latent potential, but you're not really releasing any of the results
+
+894
+00:55:19,918 --> 00:55:23,698
+yet. And I like to equate it to the process of heating up an
+
+895
+00:55:23,704 --> 00:55:27,378
+ice cube. So you've got this ice cube sitting on a
+
+896
+00:55:27,384 --> 00:55:30,790
+table, right? And so let's say it's like negative three degrees in there,
+
+897
+00:55:30,860 --> 00:55:34,646
+right? So you're at negative three. It's cold, you can
+
+898
+00:55:34,668 --> 00:55:38,070
+see your breath. The ice cube is sitting there. You heat it up. Negative two,
+
+899
+00:55:38,140 --> 00:55:41,754
+negative one. Still there's. This ice cube sitting there. Nothing has
+
+900
+00:55:41,792 --> 00:55:45,322
+happened, right? Then you go from negative one to zero,
+
+901
+00:55:45,456 --> 00:55:49,130
+and all of a sudden you have this one degree shift, no different
+
+902
+00:55:49,200 --> 00:55:52,846
+than any of the other shifts that came before it, but you have this
+
+903
+00:55:52,868 --> 00:55:56,522
+phase transition, right, and the ice cube starts melting.
+
+904
+00:55:56,666 --> 00:56:00,314
+And that, I think, is indicative of what it often feels
+
+905
+00:56:00,362 --> 00:56:04,034
+like to change a habit. You're making these little improvements. You're trying to make
+
+906
+00:56:04,072 --> 00:56:07,602
+these 1% changes, these one degree shifts each
+
+907
+00:56:07,656 --> 00:56:10,818
+day. And it's really easy to get
+
+908
+00:56:10,984 --> 00:56:14,642
+frustrated or even depressed at that point. It's life. I've been running
+
+909
+00:56:14,696 --> 00:56:18,158
+for three weeks. How come I can't see a change in my body? Or I've
+
+910
+00:56:18,174 --> 00:56:21,522
+been writing blog posts for. Six months now, how come this site isn't popular
+
+911
+00:56:21,586 --> 00:56:25,334
+yet? And the key point there is your work was
+
+912
+00:56:25,372 --> 00:56:29,158
+not being wasted, it's just being stored. Complaining about sticking to a
+
+913
+00:56:29,164 --> 00:56:32,906
+habit for two months or three months or even six months or
+
+914
+00:56:32,928 --> 00:56:36,566
+a year and not having the outcome that you want is kind of like complaining
+
+915
+00:56:36,598 --> 00:56:40,074
+about heating an ice cube from negative three to negative one degrees and it not
+
+916
+00:56:40,112 --> 00:56:43,694
+melting yet. The work was not wasted. It's just being
+
+917
+00:56:43,732 --> 00:56:47,230
+stored. And I love that quote that's in that same
+
+918
+00:56:47,300 --> 00:56:51,098
+section from Jacob Reese, who it hangs in the locker room of the San
+
+919
+00:56:51,114 --> 00:56:54,666
+Antonios who've won five NBA championships. And it
+
+920
+00:56:54,708 --> 00:56:58,546
+says essentially, when I feel like giving up, I think about
+
+921
+00:56:58,568 --> 00:57:01,986
+the stone cutter who continues to hammer away at the
+
+922
+00:57:02,008 --> 00:57:05,858
+stone a hundred times without it splitting. And then finally on
+
+923
+00:57:05,864 --> 00:57:09,582
+the 101st blow, it cracks in two. And I know that it wasn't
+
+924
+00:57:09,646 --> 00:57:12,886
+the hundred that came there. I know it wasn't the 101st swing that did it,
+
+925
+00:57:12,908 --> 00:57:16,422
+but the 100 that came before. Right. And it's that same
+
+926
+00:57:16,476 --> 00:57:20,214
+idea. The reason the site takes off is not because
+
+927
+00:57:20,252 --> 00:57:24,026
+of the one viral article. It's because of the 55 that your wrote in
+
+928
+00:57:24,048 --> 00:57:27,786
+the weeks and months prior. The reason that you see a change in
+
+929
+00:57:27,808 --> 00:57:31,466
+your body is not because today's workout radically transformed you.
+
+930
+00:57:31,488 --> 00:57:35,146
+It's because you've been sticking to it for eight months now. And it's
+
+931
+00:57:35,178 --> 00:57:38,922
+really about showing up. Continue to put those swings
+
+932
+00:57:38,986 --> 00:57:42,818
+in, continue to raise the temperature by one degree, and eventually you
+
+933
+00:57:42,824 --> 00:57:46,466
+hit that phase transition where you can see the results of your work.
+
+934
+00:57:46,568 --> 00:57:49,698
+Yeah, and that image has been so
+
+935
+00:57:49,864 --> 00:57:51,860
+powerful in my life.
+
+936
+00:57:53,830 --> 00:57:57,386
+I've been telling people about this book and I actually notice
+
+937
+00:57:57,518 --> 00:58:00,982
+there's kind of like a coffee shop test. Like if I hear people talking about
+
+938
+00:58:01,036 --> 00:58:04,694
+something from internet culture in a coffee shop, like real
+
+939
+00:58:04,732 --> 00:58:07,720
+people, then something's hit and
+
+940
+00:58:08,030 --> 00:58:11,100
+Atomic Habits is like that. It hit
+
+941
+00:58:12,190 --> 00:58:15,930
+the kind of mainstream and that
+
+942
+00:58:16,000 --> 00:58:19,514
+image of just raising the temperature a little
+
+943
+00:58:19,552 --> 00:58:23,358
+bit every day now I feel like I'm a
+
+944
+00:58:23,364 --> 00:58:25,920
+few months into this and
+
+945
+00:58:27,330 --> 00:58:29,680
+I'm a little bit kind of like
+
+946
+00:58:31,090 --> 00:58:34,562
+evangelical about it. Now I'm like, God,
+
+947
+00:58:34,696 --> 00:58:38,322
+my life is so much better. And it's because
+
+948
+00:58:38,376 --> 00:58:41,682
+of just these little changes over time in the same
+
+949
+00:58:41,736 --> 00:58:45,474
+direction. Now I can see it. Now I can
+
+950
+00:58:45,512 --> 00:58:49,298
+see that I feel better. Wow, man, quitting alcohol, that
+
+951
+00:58:49,304 --> 00:58:52,406
+was one thing. And then, wow, showing up at the gym three or four times
+
+952
+00:58:52,428 --> 00:58:55,974
+a week, that really helps. And wow, like reading a real book every night before
+
+953
+00:58:56,012 --> 00:58:59,660
+I go to bed, all of these things keep kind of adding up
+
+954
+00:59:00,270 --> 00:59:03,834
+and do make a meaningful difference in your life, even
+
+955
+00:59:03,872 --> 00:59:07,226
+though way back when, when you're starting, you feel like, well, nothing's going to
+
+956
+00:59:07,248 --> 00:59:09,340
+help me now.
+
+957
+00:59:11,250 --> 00:59:14,558
+I want to be clear that these ideas have
+
+958
+00:59:14,644 --> 00:59:18,240
+meaningfully impacted my life. So, yeah,
+
+959
+00:59:19,090 --> 00:59:22,878
+I'm thankful you wrote that book. I'm thankful you talked to
+
+960
+00:59:22,884 --> 00:59:26,638
+me in the airport. It's been really great for me. That's awesome. Thank you
+
+961
+00:59:26,644 --> 00:59:30,274
+so much for sharing that. And ultimately that's what the whole thing is for,
+
+962
+00:59:30,312 --> 00:59:33,746
+right? I mean, it makes it feel like it was worth the effort to spend
+
+963
+00:59:33,768 --> 00:59:37,522
+a few years writing it and working on it, so that's great. So
+
+964
+00:59:37,576 --> 00:59:41,302
+before you go, some people are asking what recommendations for
+
+965
+00:59:41,356 --> 00:59:45,174
+system services, tools, trackers. I know you have a new
+
+966
+00:59:45,212 --> 00:59:48,566
+one coming out. Do you want to talk about that? Sure, yeah. So I got
+
+967
+00:59:48,588 --> 00:59:52,426
+it right here next to me, actually. So this is a Habit journal and we
+
+968
+00:59:52,448 --> 00:59:55,820
+just launched it two weeks ago and
+
+969
+00:59:56,670 --> 01:00:00,074
+it's basically a dot grid notebook. So if you're into bullet journaling or you're into
+
+970
+01:00:00,112 --> 01:00:03,766
+keeping a notebook or use a notebook, the vast majority of it are dot grid
+
+971
+01:00:03,798 --> 01:00:06,878
+pages, so you'll be able to use it like any normal one. But then at
+
+972
+01:00:06,884 --> 01:00:10,186
+the back there's a section with habit tracker templates.
+
+973
+01:00:10,298 --> 01:00:13,374
+And I don't know if you can see that very well, but I've been using
+
+974
+01:00:13,412 --> 01:00:16,414
+it. For example, this is this month, so you can see me tracking my habits
+
+975
+01:00:16,462 --> 01:00:20,194
+on here. Anyway, those
+
+976
+01:00:20,312 --> 01:00:23,666
+templates are in the back and they're also perforated, so you can tear them out
+
+977
+01:00:23,688 --> 01:00:26,274
+and put them on your desk or put them on your kitchen counter or your
+
+978
+01:00:26,312 --> 01:00:30,006
+refrigerator or whatever. Yeah. And then at the very beginning of
+
+979
+01:00:30,028 --> 01:00:33,560
+the book there is a section called One Line per Day.
+
+980
+01:00:33,930 --> 01:00:37,650
+So I've been using it for what happened today. And so I've been writing
+
+981
+01:00:37,730 --> 01:00:41,474
+down what happened each day and there are 31 lines,
+
+982
+01:00:41,522 --> 01:00:45,114
+so one for each day of the month and there are twelve of them. So
+
+983
+01:00:45,152 --> 01:00:47,466
+by the time you get to the end of the year, you should be able
+
+984
+01:00:47,488 --> 01:00:51,178
+to flip through and see I'm doing what happened today.
+
+985
+01:00:51,264 --> 01:00:54,700
+Sean Blanc does what's the highlight of the day?
+
+986
+01:00:55,150 --> 01:00:58,654
+Some other ones that I've seen are what am I grateful for? Or you could
+
+987
+01:00:58,692 --> 01:01:01,502
+use it as like a productivity thing. You could say like, what's my most important
+
+988
+01:01:01,556 --> 01:01:05,326
+task today? Things like that. So there are a lot of examples in
+
+989
+01:01:05,348 --> 01:01:08,866
+the back of a notebook, I have like 16 pages of examples of how to
+
+990
+01:01:08,888 --> 01:01:12,110
+use it. But anyway, it's called the Habit journal
+
+991
+01:01:12,190 --> 01:01:15,746
+and yeah, I'm excited about it. I think it'll be a good tool to help
+
+992
+01:01:15,768 --> 01:01:19,158
+people build better habits. Cool. And a lot of folks, I've heard from a lot
+
+993
+01:01:19,164 --> 01:01:22,566
+of folks that really like the audiobook, so if you folks aren't readers, go check
+
+994
+01:01:22,588 --> 01:01:25,986
+out the audiobook. People like us read atomic
+
+995
+01:01:26,018 --> 01:01:29,754
+habits. So
+
+996
+01:01:29,792 --> 01:01:33,500
+thanks again for your time, James. I really appreciate it, man. Awesome. Thank.
+
+997
+01:01:40,370 --> 01:01:41,120
+Your
+
+998
+01:01:44,290 --> 01:01:47,918
+there you go. Hope that was helpful for you. Like I
+
+999
+01:01:47,924 --> 01:01:51,454
+said, I really recommend the book Atomic Habits.com.
+
+1000
+01:01:51,652 --> 01:01:54,866
+That journal that he's talking about is also available
+
+1001
+01:01:55,048 --> 01:01:58,834
+there. Folks, it's 2019 and
+
+1002
+01:01:58,872 --> 01:02:02,210
+if you are tired of bootstrapping alone,
+
+1003
+01:02:02,950 --> 01:02:06,738
+I've been running an online community especially for bootstrappers,
+
+1004
+01:02:06,834 --> 01:02:10,470
+solopreneurs indie makers, and it's called
+
+1005
+01:02:10,540 --> 01:02:14,040
+Megamaker Club. Go to Megamaker Co
+
+1006
+01:02:14,650 --> 01:02:18,426
+Club if you want more information. It's not open right now,
+
+1007
+01:02:18,448 --> 01:02:22,234
+but you can sign up for the waiting list and I will talk
+
+1008
+01:02:22,272 --> 01:02:25,740
+to you next episode. Thanks for listening. Your
+
+1009
+01:02:35,250 --> 01:02:39,018
+podcast hosting is provided by Transistor FM.
+
+1010
+01:02:39,114 --> 01:02:42,650
+They host our MP3 files, generate our RSS feed,
+
+1011
+01:02:42,730 --> 01:02:46,350
+provide us with analytics, and help us distribute the show
+
+1012
+01:02:46,500 --> 01:02:50,206
+to Spotify, Apple podcasts and more.
+
+1013
+01:02:50,388 --> 01:02:54,046
+If you want to start your own podcast or you want to switch to
+
+1014
+01:02:54,068 --> 01:02:57,218
+Transistor, go to Transistor FM
+
+1015
+01:02:57,394 --> 01:03:00,660
+justin and get 15% off your first year.
