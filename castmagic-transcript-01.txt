@@ -1,0 +1,339 @@
+Noah [00:00:04]:
+
+I'm Noah.
+
+Ben [00:00:05]:
+
+And I'm Ben.
+
+Noah [00:00:07]:
+
+And you're listening to Product Journey.
+
+Ben [00:00:14]:
+
+Hey, folks, today we got Justin Jackson on the podcast. He is the co founder of Transistor, which is a podcasting hosting company. He's also the founder of Megamaker, a community for founders, and of course, avid podcast lover and listener. Hi Justin!
+
+JUstin [00:00:31]:
+
+Hey, how's it going?
+
+Noah [00:00:33]:
+
+It's nice to be here.
+
+JUstin [00:00:35]:
+
+I listen to the show every week, so it's fun to finally talk to people that you only hear talking to you.
+
+Ben [00:00:42]:
+
+Yes, same, actually. Yeah, it's stuck to have you.
+
+Noah [00:00:46]:
+
+Yeah. We can kind of finally make this one by one connection. Now we can just talk actually together instead of oh, you listen, then listen.
+
+JUstin [00:00:57]:
+
+Yeah, totally. Totally. It's funny also, because I've seen Ben before. We've never talked, but I had to come up with a vision in my head of what Noah looked like, and now I can actually see for the rest of the listeners at home, they don't know yet, but now I know. I'm a part of the secret club.
+
+Noah [00:01:20]:
+
+Yeah. Was it what you expected?
+
+JUstin [00:01:24]:
+
+Well, usually I've been podcasting since 2012, and usually I'm the disappointment. When people meet me in person, they go, I thought you would be a lot taller.
+
+Noah [00:01:38]:
+
+Yeah, I feel like that always happens when you hear someone's voice. If it's deeper, you kind of depict a certain kind of person in your mind or if it just depend on the voice. And then usually it's always not what you're yeah.
+
+JUstin [00:01:52]:
+
+Yeah. See, if I had to guess, I'd guess that Noah is about 6ft tall, and I'm going to guess Ben is about the same height as me. I'm five foot eight. How did I do?
+
+Noah [00:02:06]:
+
+So you're pretty good. I'm six foot three.
+
+JUstin [00:02:09]:
+
+Okay.
+
+Ben [00:02:10]:
+
+And I'm trying to calculate centimeters to foot. Right.
+
+JUstin [00:02:15]:
+
+Should see, this is the weird Canadian thing, is that we use the metric system, but we are so close to us that we end up doing measurements in inches.
+
+Ben [00:02:25]:
+
+So I'm almost exactly six foot tall.
+
+JUstin [00:02:28]:
+
+Oh, you're almost exactly 6ft. Okay. See, now everybody knows. Everybody has just adjusted.
+
+Ben [00:02:37]:
+
+Maybe you should just attach images to the show notes so photos of us.
+
+JUstin [00:02:42]:
+
+I think every podcast show notes needs to have stats on people. Noah six foot three. Ben yeah. 60. How many centimeters is that?
+
+Ben [00:02:52]:
+
+That's 185 or 186?
+
+JUstin [00:02:55]:
+
+185. Give people some stats.
+
+Noah [00:02:58]:
+
+That's what they want to hear. Dark blondish, dirty bond hair. Form a picture. Yeah. So we're glad to have you on the show, Justin. Two topics that we're kind of interested in, that I know you talk a decent amount about is like audience building and your market and starting with a market instead of an idea. So we kind of wanted to jump into both those two topics and just kind of dig deeper into that.
+
+JUstin [00:03:37]:
+
+My favorite thing to talk about right now.
+
+Noah [00:03:39]:
+
+Yeah.
+
+JUstin [00:03:40]:
+
+I think some people are getting sick of me talking about it, but I just can't stop thinking about it. So it's what naturally kind of comes.
+
+Noah [00:03:48]:
+
+Out and actually we had a question about that. Kind of like with building an audience. That was one of the things we're interested in. Do you ever feel like you run out of new things to say?
+
+JUstin [00:04:04]:
+
+I mean, one thing that's been helpful for me is that since 2013 we've had this online community with Megamaker and so people are interacting and asking questions all the time and those discussions often inspire my thinking of, oh, wait a second. It's actually like a lot of my tweets come out of conversations that I've had inside of Megamaker or things I'm listening to on a podcast or even things I've read in a know I'm reading and it brings up these thoughts. And I treat Twitter kind of like the local comedy club where you go and test out material. It's like, okay, I'm going to try this out and see how it lands. And it's also just a helpful way for me to process my thinking. So no, I haven't run out of things to talk about yet. I do have moments like John and I are doing our podcast now and I think we're ready for the year to be done in some like ready for things to kind of wind down. And so I think there's such thing as fatigue when you're publishing something every week and you eventually need to give your brain space to just explore other things and have other ideas. But yeah, most of the time as long as I'm interacting with people and real life situations and also doing experiments in my own life, I haven't run out of anything to say yet.
+
+Noah [00:05:50]:
+
+Yeah, I could see the fatigue in that. You feel like you have to have something to say at least every week when you have the podcast, you have to have a new thing that you're thinking about or that you can dive into. Yeah, we've definitely kind of seen that.
+
+JUstin [00:06:05]:
+
+And I think that's why breaks are important. I almost get this more with because podcasting you can just turn on the mics and if you have a rough idea of where you want to go, you can talk it out. But writing I find takes a lot more of my energy and so like writing that weekly newsletter that I write, there are definitely weeks where that is tough. Not because I don't have an idea, but sometimes to process ideas and actually write it in a way that makes sense is hard. But yeah, in either case breaks are good.
+
+Ben [00:06:47]:
+
+I can only say I'm receiving that newsletter and you're doing pretty good. I guess at least I'm enjoying it.
+
+JUstin [00:06:56]:
+
+That almost gives me more pressure because then I'm like, oh, people like it, I got to keep going.
+
+Noah [00:07:00]:
+
+Yeah, when that came down. Now that case, I hated it every time.
+
+Ben [00:07:10]:
+
+So we got a couple of questions about audience and I think I have a pretty interesting one. That is what makes a good audience. And do you think you have to be part of your audience? Do you have to feel comfortable among the people?
+
+JUstin [00:07:28]:
+
+So I've actually changed my tune a little bit on this, I think now if you're starting a business, the market is the most important thing, the market you choose. And when I say market, I don't mean market as in just an identifiable group of people. I'm talking about a group of people that buys x. So the diamond market last year was 4.5 billion or something like that. To me, that's a market. It's a market where you can see people in motion preferably buying something, but sometimes it's just people in motion doing something, and everything kind of hinges on that which market you are in. So as an example, taylor otwell is the founder of laravel, which is the most popular PHP programming framework in the world. He has a huge audience. If you look at his audience, quote unquote on twitter, he's got, I don't know, hundreds of thousands of followers. Let's just check, because I don't want people to be okay. He has 82,000 followers on twitter, so for a lot of people, that would be a big audience. And if you go to laricon, you see he's got 800 people in the audience, right? And he has tons of people buying his stuff. He has millions of people using laravel. But all of that is in the context of a bigger market. It's hard to count the number of programmers in the world, but let's just say a reasonable estimate is that there's 5 million PHP programmers in the world. Would you agree with that, ben?
+
+Ben [00:09:30]:
+
+Yeah, definitely. I've actually used laravel for a couple of projects.
+
+JUstin [00:09:35]:
+
+Okay, there you go. And so 5 million PHP programmers in the world, and let's just take one element of that market, not including all the tools they buy, not including everything else that you need to be a programmer. Let's just think about salary, and these are just guesses, but let's say on average, an average PHP programmer in the world makes $25,000 a year. Well, 25,000 times 5 million is 125,000,000,000. I think that's $125,000,000,000 being spent on salaries for PHP developers alone. That's a massive market. It's not just a big group of people, but it's also a big group of people where there's some sort of economic activity being generated. And I think it's why products in the laravel community often have a magnified impact compared to other things. So I have a course called marketing for developers that did pretty good. But that's like if you take all of the developers in the world and then you ask how many of those developers want to learn marketing, it's a much smaller slice, right?
+
+Ben [00:11:02]:
+
+Yeah.
+
+JUstin [00:11:03]:
+
+How many developers in the world are PHP developers that want to make their jobs better? Well, that's probably 5 million. And so you can compare results and you can see that kind of everything hinges on the market, how big your audience can be within that market, and then all the multiples all kind of depend on that. So how much money is being spent in that market already? And how much of that can you carve off for know Taylor? Presumably he's only carved off a little bit of the PHP market. Like there's still other frameworks, there's still programmers that don't know or use about sorry, don't know about or use Laravel, so he's still got plenty of room to grow as well. But even then, Taylor otwell, as a solo person, has sold $10 million worth of software to PHP developers.
+
+Ben [00:12:08]:
+
+Yeah, that's pretty crazy.
+
+JUstin [00:12:10]:
+
+That's insane. And he just recently took on employees. So there's funded startups in San Francisco right now that have millions of dollars in funding staff of 50 people, and they haven't sold $10 million worth of software. I think the market that you're in determines everything. And when you have what Corey gwynn calls demonstrated demand, so you can actually see the demand. That's kind of what you're looking for. You're looking for people in motion, a large group of people in motion, where there's economic activity being generated from whatever they're doing.
+
+Noah [00:12:58]:
+
+So you would basically say, start out with the market, try to find a market that you want to work in, and then start building your audience around that don't worry as much about do you feel comfortable in that audience or those kind of things.
+
+JUstin [00:13:16]:
+
+I mean, this is where it gets tricky. This is why business is so hard, because you apply all of these filters to get to where you want to go. So it's not enough to just be in a good market, you actually have to be interested in that market. You have to have good founder market fit. You have to then be able to identify some sort of need in that market. Then you have to actually execute on some things and make some sort of connection. I don't think you have to necessarily build an audience, but you get a lot of leverage from who you know and who knows you, who you know is just making connections. We're making connections right now. Now the three of us know each other, and even the fact that we've been on a phone call makes it a lot easier for me to ask a favor of you in the future, or for you to ask a favor of me. That's networking, that's who you know, who knows you is the audience mean, that could be very helpful, but there are people who have built businesses without doing that. Ruben gamaz is a good example of someone who's just built a software business almost purely on search engine results and optimizing search engine results. So I think it's one of the levers you can use, I think, without any sort of human connection. It's very difficult. So you do have to connect with other human beings. And I get this is why it's helpful to be interested in the market you're in, and sometimes even that can be enough. Like, I'm really interested in the Laravel community. I'm not really a Laravel developer, but I've spoken at their conference three times. I really like the people, and I would say I'm part of the community, even though I'm not like a power user of Laravel. There has to be something that draws you to that market. There has to be something that keeps you there, and you're probably going to need some sort of connection with some key people in that market to make it work. And how you get there is kind of the individual journey. I'm almost 40 now, and it's very difficult to say what are the ten steps that brought you to transistor? Because it's like layer on layer on layer of my life going back to when I was a kid. And so all of those steps up till now lead me to where I'm at now. I think you can optimize for some of those things, like where you point yourself in life has a big determination of where you'll end up. Right. I think the connections you make matter a lot. I think what you put out into the world matters a lot. So podcasting, blogging, public speaking, but even just anything open source projects, anything you put out into the world can help. But in terms of adding all those up and going, okay, what really matters? A lot harder to figure that out.
+
+Ben [00:17:17]:
+
+Yeah, I think that's a pretty interesting point because when we started out with a podcast, I think we were both on the track of we should build an audience. And it's kind of like we're shifting away from that a little bit. And just recently came across this tweet from Jane Portman, and I think Rob Walling, Jane Portman from User List, who were also talking about that, like how they didn't really need an audience. And that basically it just fits very well to what you just said, I guess. And there's one more thing that I would like to get your opinion on, because you're probably familiar with Derek Reimer and what happened with Level, right? It's kind of like, do you feel like having an audience might not always be not necessary, but also maybe lead to false positives?
+
+JUstin [00:18:07]:
+
+Oh, definitely. Yeah. Again, it can be really helpful there's. To say that my audience didn't help in launching Transistor would be disingenuous. It definitely helped. It still helps. But there is a risk because what you're looking for is you're looking for some sort of momentum, right. And when you launch something, you're trying to gauge, what kind of response is this getting? So when Apple releases the new iPhone, how many people are lined up outside of the Apple Store right now? Apple actually can fall prey to this because they've got all these mega fans, right, that are going to line up day one no matter what. So you could see these huge lineups and you could go, oh wow, the new iPhone is a big success, but unless the rest of the world shows up, then it's not going to be a success, right?
+
+Ben [00:19:15]:
+
+Yeah, that's a pretty good analogy.
+
+JUstin [00:19:17]:
+
+Yeah. Lineups on day one, I mean, they are helpful, but they can also, like I've launched things, I think still to this day. My best launch ever was for this. I was doing this online series on product marketing and like the first couple of weeks, tons of people showed up. And when I started asking them, what are you hoping to achieve out of this? What brought you here? They said, oh, I'm just a big fan. I just get everything that you put out. And that's nice. But it became really clear in the coming months that no one else cared. And that's the disadvantage of having an audience when people are really kind of invested in your journey, they're going to show up no matter what. They're going to show up just because they have a personal connection to you. But ultimately, if you're going to run a business, you need people who are going to show up and then more people who are going to show up and then more people who are going to show up. Right, yeah. And this is actually why I think the market you choose matters so much. And I've gotten into some public disagreements with people who could be right. I mean, these are my friends and people I respect. But the idea of going after a small niche, I think, and again, maybe people are I don't know, the idea of going after a small niche is just you're limiting yourself to, let's say, a pool of 5000, 10,000 people. Well, that's like going to a little tiny stream and trying to scoop up a little bit of water from a tiny stream as opposed to going after a big massive market in motion. That's like going to a rushing river and just putting your cup in the river and just like scooping out. And sure, you might be able to fill up your cup just at a small little stream, but the rushing river has so much water that it's a lot easier for a solo bootstrapper to just put their cup in the river and then scoop up a bunch of water. And I think sometimes this idea of niche leads people to the wrong places. They're just looking for these tiny streams that no one else has ever discovered before. And they say, well, we got to avoid the big rivers because everyone knows about those. Yeah, but it's a lot easier to get your cup in a big river and scoop out some water than to find this tiny little thing that nobody knows exists.
+
+Ben [00:22:02]:
+
+Yeah. In the end, your cup is bigger than the river.
+
+JUstin [00:22:05]:
+
+Exactly.
+
+Noah [00:22:06]:
+
+Yeah. I wonder if where the kind of disagreement that you have with people about that idea really just comes from the end goal with what people want to do with their business? Because basically where I hear kind of what you're saying, I guess the opposite of what you say in that find a niche market. The advice that I have typically seen that from is places like Y Combinator or startups that are really trying to do like a go big or go home kind of business. I think a good example is Peter Thiel, the co founder of PayPal, his book Zero to One. I don't know if you've heard of that or read it, but I mean, that's almost his whole thing, is basically go for the new markets. That's where you can make really there's a lot of opportunity to make a huge business. And that's kind of like what PayPal, Facebook, some of those giant companies now did.
+
+JUstin [00:23:08]:
+
+Well.
+
+Noah [00:23:08]:
+
+So, yeah, if people that are saying that kind of advice are venture capitalists or people that that's their goal, then I could see that making sense. But for Bootstrappers, I think that is then very dangerous. And so maybe I don't know, I'm just wondering, maybe that's where the disconnect is between those different ideas.
+
+JUstin [00:23:28]:
+
+Yeah, part of it is probably semantics, and part of it is this is all really emotional stuff because the way that you are currently doing your thing kind of informs your bias. The way that you've achieved success in the past informs your bias. I mean, I said things at 20 years old that I don't believe anymore. I said things at 30 years old that I don't believe anymore. And so a lot of this is just where we're at and what's working for us right now. I was on Twitter, this guy, Evan Golden was saying, you can stretch the definition pretty wide. It's always easy to justify people are spending money. What did he say? He said people are spending money on tacos everywhere. So this could justify me in opening a taco stand featuring dirt flavored tacos. There's lots of evidence people wanted tacos. Evan's a friend of mine, but these are the kind of arguments I get into on Twitter. But I think that unfortunately, that's exactly what I do want to do, is I want to say, is there any evidence in this market of prior, of demonstrated demand? That's just a great word from Corey Gwynn. And so PayPal, let's take PayPal as an example. What was the market for what PayPal was doing before PayPal existed? Well, it was massive. The Western Union Bank transfer, money transfer market, people trying to pay for things with credit cards online, but having to go through their credit card processors. And there's all sorts of friction. But there's tons of evidence that there was billions of dollars being spent in that market already. And so it's not like PayPal invented anything. I mean, sure, they created a new way of doing those things, but they didn't create the market. They were riding a wave that already existed. They just saw the wave coming, and they built a better surfboard that enabled them to ride further than anyone else had at the time. And this is what I'm talking about, is really, in some ways, what Evan is saying is I'm stretching the definition to say, is there any sort of prior or existing demonstrated demand for this thing? And I think you could see that in almost every major product launch, like the iPhone before the iPhone was the BlackBerry and the Palm, and you can keep going back and back and back right there's, demonstrated demand for these things. Even if you look at I can remember as a kid looking in catalogs wanting to buy a portable television, right, from Radio Shack or whatever, there was demand for portable televisions that were battery operated. They never worked very well, but there was demonstrated demand for that thing. Well, a big part of the iPhone is just a portable television, right? At least that's how my kids use it. It's like Netflix all day long.
+
+Noah [00:27:06]:
+
+Yeah, definitely now.
+
+JUstin [00:27:08]:
+
+So I think the point is to look for some sort of demonstrated demand and to think, is this a market in motion? Is there evidence that people are doing something about this right now?
+
+Noah [00:27:29]:
+
+The market is kind of being defined as a problem to be solved or like a job to be done, rather than, I don't know, maybe how marketers sometimes think about markets as almost I feel like they can kind of put it into a box of a specific solution or a specific area in that way. So, yeah, really focusing from what you're saying, it sounds like yeah, really focusing on the problem that needs to be solved. Is that a big market of people want that?
+
+JUstin [00:28:01]:
+
+Yeah. Yes, exactly. That's exactly what I'm talking about. You can see this with if you go into product Hunt and you find, I run into this all the time, products that are no longer around, there's all these dead startups.
+
+Noah [00:28:24]:
+
+Oh, yeah.
+
+JUstin [00:28:25]:
+
+And in almost every case, there just wasn't enough demonstrated demand for that thing. They were good ideas. They kind of made sense logically, but if you looked at it and go, okay, but who's doing something about this right now? That's really what's most interesting about Derek Reimer's story, is that once he started talking to the people on his waiting list and asking, okay, well, what are you doing about this problem right now? And often their response was, well, nothing we haven't done. Well, you haven't searched on Google for an answer? No. You haven't searched the Slack extension store? No. Well, that's a bad sign. If people aren't even willing to do something free, which is just search for a solution, how are you going to convince them to jump over all of these hurdles and actually take out their credit card out of their wallet and pay you for something. And this is another thing I've maybe had a hard time to articulate, is it takes so much momentum to get someone to take out their credit card that you've got to be sure that what you're proposing is something that they really, really want. And really the only way to figure that out, the only way to see that clearly is are they doing something about it right now? And is there enough of these people en masse doing this, doing something about it right now?
+
+Ben [00:30:05]:
+
+Yeah, I love that piece of advice. I actually thought that I think it was actually you who said that you should go to Twitter and just search if people are typing something. Like, I don't know, like maybe even using the Derek Rimer example, like, search in Twitter for switching away from Slack, or switched away from Slack and see how many results you actually find. And there are a couple. I did that for fun.
+
+JUstin [00:30:31]:
+
+That's just step one, right? Because it's pretty low friction to tweet your disappointment with something, but at least that's something. And then you would actually want to talk with folks and ask them questions like, okay, well, what caused you to switch? How long did you think about switching before it happened? What did you have to do internally in your team to make that switch happen? And that's where you're going to get a lot of answers. It's one reason I worked for a project management software startup, and what I didn't know before I joined is how hard it is to get people to switch project management software. And it's remarkably difficult because everybody has an opinion on the team, right? The developers want one thing. The marketing folks want another thing. The CTO wants one thing. It goes around and around. And so you have to convince not just one person, but 1020 people to make this decision and then the other kind of bad sign. So despite how difficult it is to get people to switch, people do switch all the time. And that's also a bad sign because they don't just switch once and then they're satisfied. They switch, they try trello, and then they're like, no, this didn't work. And then they try base camp, and then they're like, oh, that doesn't work. And then they try like they all end up in jira, right? That's how it, you know, when you actually get into those real discussions with people about what does the actual process look like, even a market like project management has its own minefield, right? Like, there's pros and cons, and I think for Bootstrappers, it's a lot harder. It's why we've seen basecamp got in early, and so they've done okay. But really, besides base camp, everybody else is venture funded because it just costs so much money. And if you get on their list, Jira will call you. They've got salespeople that want to onboard you. Right. Because they know the only way to push this through the whole funnel is to have a lot of kind of concerted effort doing it. So a lot of these decisions depend on whether or not you're bootstrapping, whether or not you're bootstrapping as a solo founder. Because some of these ideas and markets are just harder to reach as a bootstrapper or a solo founder.
+
+Noah [00:33:17]:
+
+Right. So with that in mind and starting with the market, I guess, and maybe some ways what sounds like what you'd say is basically start with the market filter. That's the first filter that you want to put on of how to basically choose what problem you're going to solve, how you're going to do it. How do you it seems like you start talking to customers, start talking to users. It takes a while before you can really know what's the right approach, what's the right solution to actually build. What do you do if that solution ends up being something that isn't something that a bootstrapper can do? Or maybe it's a solution that doesn't use your strengths as a founder, it doesn't use your skills, your abilities. So how do you handle that when I guess starting with a market, I guess in some ways it kind of goes back to there's just all these filters and in some ways all these things have to align, which is obviously very hard.
+
+JUstin [00:34:24]:
+
+Yeah, I mean, I think that's just the this is another unpopular tweet of mine. I had to admit this before I had any success. But what you kind of have to admit in some way on one side is we're not all going to make it. And a lot of people don't like hearing that, but we're not all going to make it. There's no way that every single aspiring entrepreneur in the world can apply all of these filters and come out on the other side. And by the way, even if you come out on the other side and like, I have a business now that's doing pretty well, it could disappear tomorrow. Every day I wake up going, well, maybe today's the date it disappears. Right. Because markets change and they can change really fast. And so there's nothing really romantic about starting a business. It's just there's all sorts of things that have to align for it to work and a lot of us aren't going to make it. So you have to hold that on one side well, at the same time, on the other side, these things are intention. On the other side, you have to be super optimistic that you're going to make it and that you're just going to keep trying. Because the other thing I've seen anecdotally I don't know if this is scientific, but the people who keep trying, who keep working at it, who keep pushing. That ball forward. Many of them do make it. And so there's a little bit of how long can you last, how long can you try? It's why a lot of successful entrepreneurs actually tend to be statistically older, because by that point in your life, you've had a bunch of industry experience. So you know what an industry is. You know you've got connections in that industry. You've seen the pain points. You've seen how they spend money. There's all of this accrued experience that ends up being helpful. And time is kind of what allows you to keep pushing, right? So it's not saying you shouldn't try in your 20s, but because you could, it could all align, right? My friend Nathan Barry is not even 30 yet and has already achieved more as a founder than a lot of folks. But I think you have to have this idea of, well, it might not happen, but I'm going to try. And this might be a ten year project, or this might be a 20 year project, and you almost have to be okay with that. This just might take time for everything to align. And the whole time, I'm going to have to be working as if this will eventually work out, and not just doing the same thing, putting yourself in new circles, getting outside of your comfort zone. I've described this before as is it command and conquer that uses fog of war, where you're just on a map and everything's dark and you're exploring it.
+
+Ben [00:37:44]:
+
+Yeah.
+
+JUstin [00:37:45]:
+
+So if you think about that as a metaphor, when you start out, you're just in that map, and all you can see is around you. Right. And as you explore more of the map, more and more parts become illuminated, and every once in a while, you'll end up in a spot of the map where things just happen, right? Like, you get a bunch of bounty or you run into a bunch of enemies or whatever, and it's kind of like that you're walking around. For me, for example, I was walking around and I just happened to run into Adam Waathen. Who I had no idea who he was or anything about him, but he ended up being quite an influential person in the Laravel community. And that was just me wandering around the map and him wandering around the map, too, and then us meeting each other. And once I could see, I've learned tons about a lot of my thoughts about choosing a market. First have been because of the influence of the Laravel community. And looking at Taylor and Adam Wavin and Steve Schogar and Jeffrey Wei build these crazy businesses because in my little world before I met know, this is the way things were done. People like us do things like this. And then I got over into that area of the map, and it was like this whole new world opened up that I'd never seen before. And without that world opening up, I don't think a lot of things would have happened. And so clearly you have to kind of be always doing things, trying things, getting out of your comfort zone, meeting new people. And I think the advice I would give my kids is just to explore as much of the map as you can, as early as you can, because the more exploration you do I think I stayed too local, too know. I grew up in this small little farming town in Alberta, and then the big city was Edmonton. And I just spent too much time then, you know, like, the first time I flew into New York, I was like, holy. Like, there's a lot of people here. There's a lot of money here. There's a lot of businesses here that I've never even imagined before. And it kind of expanded my whole worldview. And unless you're doing that work to kind of walk around the map and discover new areas yeah. I think it'll be harder to find those markets, to find those ideas.
+
+Ben [00:40:36]:
+
+Yeah.
+
+Noah [00:40:38]:
+
+So I want to go back a little bit to something you said, kind of talking about how basically this might not work for all of us and it's very hard and we all might not make it through. And that's just kind of the truth of it. And I'm just curious about your situation. How do you go to your wife with that and get her on board for this whole journey of what we're trying to do? I'm just curious because that's definitely something I know me and my wife struggle with a lot, just with my last thing. And it is hard. So it's not just you going on this journey, you're bringing your whole family with you.
+
+JUstin [00:41:23]:
+
+Yeah. Again, you probably don't want to look at the statistics. The statistics are pretty bad.
+
+Noah [00:41:31]:
+
+Just don't look.
+
+Ben [00:41:31]:
+
+So this podcast has to be titled unpopular Opinions.
+
+JUstin [00:41:34]:
+
+Unpopular Opinions. It's just like if you want the reality, the reality is not good statistically. Clearly. I think all entrepreneurs have this feeling that maybe they can do it better than the next guy. Because statistically millions of people start businesses. But those people are in all sorts of different places, have all sorts of different leverage, have all sorts of different privilege. There's all these factors that go into why a person becomes a success or not. And I think every entrepreneur feels like they've got some secret sauce that'll make them better than the next guy.
+
+Noah [00:42:22]:
+
+Oh yeah.
+
+JUstin [00:42:22]:
+
+But in my early twenty s, I started a couple of retail shops that ended up losing a lot of money and that was hard to recover from as a family. And so that is just part of it if you're going to be on that. So that was almost 20 years ago. Now I'm at a place where maybe I've learned enough lessons and I've made enough connections that things are happening. But that's a long journey. That's 1020 years of work. I think that's something you got to consider kind of with everything. I don't think you should kill yourself in the process. I think I worked probably too hard a lot of those years when I didn't need to. It's just wasted cycles trying to make something happen. It's far better for you to book a ticket to a conference that you've never been to than to work 60, 70, 80 hours a week. Because at least for me, the biggest jumps forward have been because I met somebody outside of my circle. I met John Buddha, my co founder, in 2014 at this kind of experimental technology art design festival called Xoxo. And I wasn't going to go initially. I had to kind of push myself to get out of the house. And actually yeah, I don't think there's any easy answers there. I think you can stairstep your way up. You can do something small on the side and then see if that evolves into something bigger, and then something bigger, and then something bigger. Nathan Barry just wrote a piece on this that I don't fully like or agree with, but maybe I don't like it just because it's the hard truth. He talks about a series of ladders. And the first ladder is just like trading time for money. And then you kind of work up that ladder, right? You can work yourself up from making minimum wage up to making more money per hour, but then you go to the next ladder, which has higher earning potential, but it's harder. It's just like, okay, now you're trading time for money, but it's more on your terms, like consulting. So then you work your way up that level and then there's another ladder, and these keep going. And the difficulty with each ladder goes up. But your potential in his case, he's just talking about income earning potential. Your income earning potential goes up as well. And it is a little bit of a stairstep, right? Like you're moving your way up here, and then you're like, oh, well, there's opportunity over here. So then you might take a few steps back to start here and then build yourself up here. And then you look at the next ladder. You go, there's more opportunity over there. So then you go back down and then work your way up. Yeah, that's all possible. Definitely helps if you have in terms of having a decent life, it helps if you have a lot more cash saved up. The more cash you have saved up, the less stress you have. But that's not always possible either, right? The only way I can think of to alleviate the stress is to have very low cost of living and or a lot of money saved up, money that you can risk, that you wouldn't feel bad about. So and you can even hear this in John and know he was working for cards against humanity when we started this, and he also had more money saved up than I did. And so my stress level, when we weren't quite yet full time yet, was a lot higher. I'm just like, oh, like, do we got to take investment? Do we got to try to add three or four more things on top of this to make this work? You can see how desperation affects your actions. And a lot of businesses, you'll see, do this one thing's not working quite enough, so then they add another thing to hopefully bring up more income, and that's not quite bringing enough. So they add another thing, and they just keep adding more and more stuff and more and more stress to their lives. But, yeah, for John, it's easy. He's got no dependence, and his cost of living is low. And he had a bunch of money saved up for him. This isn't make it or break it. It's like, no, if this doesn't work, I'm fine. So if you want to make it easier, I think lower your expenses and save a bunch of money or get someone to give you a bunch of money or rob a bank. Rob a bank or whatever.
+
+Noah [00:47:48]:
+
+Yeah, it goes easier out.
+
+JUstin [00:47:50]:
+
+I mean, this is why privilege plays such a big part in business, like some people do. They have a big trust fund and they get a bunch of money. It does help.
+
+Noah [00:48:00]:
+
+Yeah, I agree. Yeah, that makes sense. So maybe as a last question, we could end with maybe you've heard how I built this podcast. They always end with an interesting question, which is so for you. I'm just interested in hearing as, like, with transistor, like, where you guys gotten so far. How much do you think of that was luck and how much of it know you and John's skill and talents and hard work?
+
+JUstin [00:48:27]:
+
+It's definitely the accumulation of a lifetime of experience, and I think your attitude matters a lot in that, right? Like, are you going to keep going out and trying things? Are you going to keep going out and trying to push the envelope? Are you going to keep going out and put things out in public? Are you going to go out and meet people? If you were going to split test my life and you put one Justin in his room and he never leaves and all he does is play Sonic the Hedgehog forever, and then you have another version where he's always going out and trying to figure things out and trying to build things and trying to write and trying to meet this person. And for sure, in that Justin B. Wins. I don't think it's not too difficult to see that. Yeah, there's a lot of luck in where I was born, but the influence of luck starts to go down a lot. Like the the influence of blind luck, just like where you were born. Like, what what year and country and location and parents you were born to. After that part, you make most of your luck just by whatever attitude you have every day. There's still some privilege that comes with where you were born, but most of that kind of built in luck has already happened by the time you were born.
+
+Noah [00:50:14]:
+
+Yeah, cool. Well, thanks, Justin, for coming on. That was a good conversation. Very helpful for both of us, and hopefully, I'm sure for our listeners, hopefully.
+
+JUstin [00:50:23]:
+
+I didn't bum you out too much.
+
+Noah [00:50:25]:
+
+No, I mean, sometimes you need a little of that get you back to the yeah. Thanks, Justin. And we'll see you guys in another.
+
+Ben [00:50:37]:
+
+Episode, and we'll put everything in the show notes.
+
+Noah [00:50:41]:
+
+All right. Bye.
+
+Ben [00:50:43]:
+
+See ya.
