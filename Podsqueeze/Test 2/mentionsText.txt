@@ -1,0 +1,64 @@
+Mentions with timestamps:
+
+"Atomic Habits" by James Clear:
+   Timestamp: 00:00:15, 00:01:18, 00:02:28, 00:03:26, 00:06:28, 00:22:47, 00:31:02, 00:50:11, 00:51:08, 00:52:15, 00:52:45, 00:55:33, 00:58:36, 00:59:25
+
+James Clear (Twitter handle):
+   Timestamp: 00:00:15, 00:01:18
+
+Justin Jackson (Twitter handle):
+   Timestamp: 00:00:15
+
+Two-Minute Rule:
+   Timestamp: 00:03:26
+
+Strava app:
+   Timestamp: 00:07:45
+
+"Chapter Two":
+   Timestamp: 00:07:45
+
+Gym:
+   Timestamp: 00:14:16
+
+Steven Pressfield's book "The War of Art":
+   Timestamp: 00:17:19
+
+Yoga studio:
+   Timestamp: 00:18:11
+
+Seth Godin:
+    Timestamp: 00:24:15
+
+Evernote:
+    Timestamp: 00:35:58
+
+ESPN:
+    Timestamp: 00:35:58
+
+Freedom:
+    Timestamp: 00:37:59
+
+Outlet Timer:
+    Timestamp: 00:38:38
+
+Habit Journal:
+    Timestamp: 00:38:24, 00:59:47, 01:00:27, 01:01:14
+
+Celsius:
+    Timestamp: 00:54:29
+
+Fahrenheit:
+    Timestamp: 00:54:49
+
+Quote by Jacob Reese:
+    Timestamp: 00:56:26
+
+Audiobook of "Atomic Habits":
+    Timestamp: 01:01:17
+
+Mega Maker Club:
+    Timestamp: 01:01:44
+
+Transistor FM:
+    Timestamp: 01:02:50

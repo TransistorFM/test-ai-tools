@@ -1,0 +1,4632 @@
+1
+00:00:04,860 --> 00:00:05,610
+Noah: I am Noah.
+
+2
+00:00:05,910 --> 00:00:09,990
+And I'm Ben, and you're
+listening to Product Journey.
+
+3
+00:00:14,415 --> 00:00:14,895
+Ben: Hey folks.
+
+4
+00:00:14,895 --> 00:00:17,355
+Today we got Justin
+Jackson on the podcast.
+
+5
+00:00:17,355 --> 00:00:20,595
+He is the co-founder of
+Transistor, which is a
+
+6
+00:00:20,595 --> 00:00:22,545
+podcasting hosting company.
+
+7
+00:00:23,235 --> 00:00:25,815
+Um, he's also the founder of
+MegaMaker, a community for
+
+8
+00:00:25,815 --> 00:00:29,595
+founders, and of course, AVID
+podcast lover and listener.
+
+9
+00:00:30,585 --> 00:00:31,125
+Hi, Justin.
+
+10
+00:00:31,635 --> 00:00:32,385
+Justin: Hey, how's it going?
+
+11
+00:00:33,540 --> 00:00:34,020
+It's nice to be here.
+
+12
+00:00:34,020 --> 00:00:35,190
+Thanks for coming on, Justin.
+
+13
+00:00:35,360 --> 00:00:39,330
+I listen to the show every week, so
+it's, it's fun to finally Awesome.
+
+14
+00:00:39,330 --> 00:00:42,270
+Talk to people that you
+only hear talking to you.
+
+15
+00:00:42,570 --> 00:00:43,380
+Yes, same actually.
+
+16
+00:00:43,380 --> 00:00:43,590
+Yeah.
+
+17
+00:00:45,060 --> 00:00:45,780
+Ben: Stuck to have you.
+
+18
+00:00:47,190 --> 00:00:47,400
+Noah: Yeah.
+
+19
+00:00:47,400 --> 00:00:52,320
+We can kind of finally make
+this one by one, uh, connection.
+
+20
+00:00:52,320 --> 00:00:54,750
+Now we can just like talk
+actually together instead of Oh,
+
+21
+00:00:54,750 --> 00:00:55,950
+you listen, then I'll listen.
+
+22
+00:00:57,360 --> 00:00:59,160
+Justin: Yeah, totally, totally.
+
+23
+00:00:59,610 --> 00:01:04,545
+It's funny also because, uh,
+I've, I've seen Ben before.
+
+24
+00:01:04,545 --> 00:01:08,295
+We've never talked, but I had to,
+I had to come up with a vision
+
+25
+00:01:08,295 --> 00:01:12,675
+in my head of what Noah looked
+like, and now, now I can actually
+
+26
+00:01:12,675 --> 00:01:16,335
+see for the rest of the listeners
+at home, they, they can't, they
+
+27
+00:01:16,335 --> 00:01:19,245
+don't know yet, but now I know
+I'm a part of the super club.
+
+28
+00:01:20,685 --> 00:01:20,925
+Noah: Yeah.
+
+29
+00:01:20,925 --> 00:01:22,325
+Was it what you expected?
+
+30
+00:01:24,835 --> 00:01:25,485
+Justin: Well, usually.
+
+31
+00:01:26,865 --> 00:01:30,315
+I've been podcasting since 2012
+and usually I'm the disappointment
+
+32
+00:01:30,825 --> 00:01:34,125
+when people meet me in, in
+person, they go, I thought
+
+33
+00:01:34,125 --> 00:01:35,415
+you would be a lot taller.
+
+34
+00:01:36,535 --> 00:01:36,825
+Noah: Yeah.
+
+35
+00:01:36,925 --> 00:01:37,345
+Mm-hmm.
+
+36
+00:01:38,325 --> 00:01:38,715
+Yeah.
+
+37
+00:01:38,720 --> 00:01:40,845
+See, I feel like that always
+happens when you, you hear
+
+38
+00:01:40,845 --> 00:01:44,085
+someone's voice like you, you
+know, if it's deeper, you kind of.
+
+39
+00:01:45,059 --> 00:01:47,580
+You know, depict a certain kind
+of person in your mind, or if
+
+40
+00:01:47,580 --> 00:01:49,800
+it's, yeah, it just depend on
+the voice and then usually it's
+
+41
+00:01:49,800 --> 00:01:51,809
+always not what you're thinking.
+
+42
+00:01:51,809 --> 00:01:52,199
+Yeah.
+
+43
+00:01:52,320 --> 00:01:52,679
+Justin: Yeah.
+
+44
+00:01:52,979 --> 00:01:57,839
+See, if I had to guess, I'd
+guess that Noah is about six feet
+
+45
+00:01:57,839 --> 00:02:02,789
+tall, and I'm gonna guess Ben
+is about the same height as me.
+
+46
+00:02:02,794 --> 00:02:03,960
+I'm five foot eight.
+
+47
+00:02:05,100 --> 00:02:05,759
+How did I do?
+
+48
+00:02:07,020 --> 00:02:08,490
+Noah: So you're pretty good.
+
+49
+00:02:08,490 --> 00:02:09,660
+I'm six foot three.
+
+50
+00:02:09,870 --> 00:02:10,440
+Okay.
+
+51
+00:02:10,815 --> 00:02:13,575
+Ben: And I'm trying to calculate
+centimeters to foot right now.
+
+52
+00:02:14,145 --> 00:02:14,745
+Justin: Oh, yeah.
+
+53
+00:02:15,805 --> 00:02:19,485
+I should see, this is the weird
+Canadian thing, is that we use
+
+54
+00:02:19,485 --> 00:02:23,895
+the metric system, but we are so
+close to the US that we end up
+
+55
+00:02:23,895 --> 00:02:25,605
+doing measurements and inches.
+
+56
+00:02:25,845 --> 00:02:26,115
+So
+
+57
+00:02:26,115 --> 00:02:28,365
+Ben: I'm almost
+exactly six foot tall.
+
+58
+00:02:28,695 --> 00:02:30,195
+Justin: Oh, you're
+almost exactly six feet.
+
+59
+00:02:30,225 --> 00:02:30,765
+Okay.
+
+60
+00:02:30,785 --> 00:02:33,045
+See, see now.
+
+61
+00:02:33,255 --> 00:02:34,155
+Now everybody knows.
+
+62
+00:02:34,155 --> 00:02:35,745
+Everybody's just adjusted.
+
+63
+00:02:36,739 --> 00:02:37,480
+You their mind.
+
+64
+00:02:37,480 --> 00:02:39,959
+Ben: Maybe you should just, maybe
+you should just attach, uh, images
+
+65
+00:02:39,959 --> 00:02:41,519
+to the show notes of photos of us.
+
+66
+00:02:42,030 --> 00:02:42,269
+Justin: I think.
+
+67
+00:02:42,269 --> 00:02:45,959
+I think every podcast show notes
+needs to have stats on, uh, people.
+
+68
+00:02:46,410 --> 00:02:47,850
+Noah, six foot three.
+
+69
+00:02:48,359 --> 00:02:48,720
+Ben.
+
+70
+00:02:48,959 --> 00:02:49,350
+Yeah.
+
+71
+00:02:49,620 --> 00:02:50,280
+60.
+
+72
+00:02:50,640 --> 00:02:51,899
+How many centimeters is that?
+
+73
+00:02:52,140 --> 00:02:52,500
+That's
+
+74
+00:02:52,560 --> 00:02:54,557
+Ben: one, uh, 180 5 or 180
+
+75
+00:02:54,557 --> 00:02:54,990
+Justin: 6.
+
+76
+00:02:55,079 --> 00:02:56,190
+180 5 centimeters.
+
+77
+00:02:56,190 --> 00:02:56,399
+Yeah.
+
+78
+00:02:56,760 --> 00:02:58,079
+Give people some stats.
+
+79
+00:02:58,079 --> 00:02:59,579
+You know, that's what they
+
+80
+00:02:59,579 --> 00:02:59,760
+wanna
+
+81
+00:02:59,760 --> 00:02:59,850
+Noah: hear.
+
+82
+00:03:00,930 --> 00:03:03,570
+Dark bondish, dirty, blonde hair.
+
+83
+00:03:03,660 --> 00:03:05,040
+Mm-hmm.
+
+84
+00:03:05,190 --> 00:03:05,280
+Mm-hmm.
+
+85
+00:03:05,670 --> 00:03:06,570
+Form a picture.
+
+86
+00:03:08,700 --> 00:03:10,470
+So, uh, yeah.
+
+87
+00:03:10,470 --> 00:03:13,440
+So we're glad to have
+you on the show, Justin.
+
+88
+00:03:13,799 --> 00:03:17,760
+Uh, we kind of two topics that
+we're kind of interested in that
+
+89
+00:03:17,760 --> 00:03:22,680
+I know you talk a decent amount
+about is like audience building
+
+90
+00:03:22,740 --> 00:03:26,930
+and like your market and starting
+with a market instead of an idea.
+
+91
+00:03:26,930 --> 00:03:27,250
+Mm-hmm.
+
+92
+00:03:27,329 --> 00:03:29,670
+So we kind of wanted to jump into.
+
+93
+00:03:30,270 --> 00:03:35,430
+Both those two topics and just
+kind of dig deeper, um, into that.
+
+94
+00:03:35,850 --> 00:03:36,691
+So, perfect.
+
+95
+00:03:37,290 --> 00:03:39,120
+Justin: It's like my favorite thing
+thing to talk about right now.
+
+96
+00:03:39,960 --> 00:03:40,350
+Yeah.
+
+97
+00:03:40,350 --> 00:03:40,560
+That's good.
+
+98
+00:03:40,590 --> 00:03:42,690
+I think some people are
+getting sick of me talking
+
+99
+00:03:42,690 --> 00:03:45,600
+about it, but I, I just
+can't stop thinking about it.
+
+100
+00:03:45,600 --> 00:03:48,720
+So it's, it's what
+naturally kind of comes out.
+
+101
+00:03:49,769 --> 00:03:52,380
+Noah: And actually I had, we
+had a question about that.
+
+102
+00:03:52,769 --> 00:03:54,840
+Um, kind of like with
+building an audience.
+
+103
+00:03:54,840 --> 00:03:54,930
+Mm-hmm.
+
+104
+00:03:55,170 --> 00:03:56,519
+That was one of the things
+we were interested in, like.
+
+105
+00:03:57,030 --> 00:04:00,030
+Do you ever feel like you
+run out of new things to say?
+
+106
+00:04:03,600 --> 00:04:07,140
+Justin: Um, I mean, one thing
+that's been helpful for me is
+
+107
+00:04:07,140 --> 00:04:13,440
+that since 2013, we've had this
+online community with Mega Maker
+
+108
+00:04:13,739 --> 00:04:17,190
+and so people are interacting and
+asking questions all the time.
+
+109
+00:04:17,789 --> 00:04:24,419
+And those discussions often inspire
+my thinking of, oh, wait a second.
+
+110
+00:04:24,630 --> 00:04:26,640
+It's actually, I.
+
+111
+00:04:27,810 --> 00:04:31,080
+Like, a lot of my tweets come out
+of conversations that I've had
+
+112
+00:04:31,080 --> 00:04:35,490
+inside of MegaMaker, or things
+I'm listening to on a podcast.
+
+113
+00:04:36,180 --> 00:04:39,450
+Um, or even things
+I've read in a book.
+
+114
+00:04:39,599 --> 00:04:42,020
+You know, I'm, I'm reading
+something and it, it
+
+115
+00:04:42,320 --> 00:04:44,070
+brings up these thoughts.
+
+116
+00:04:44,099 --> 00:04:50,159
+And I treat Twitter kind of
+like, uh, kind of like the local
+
+117
+00:04:50,190 --> 00:04:53,039
+comedy club, you know, where
+you go and test out material.
+
+118
+00:04:53,250 --> 00:04:56,640
+It's like, okay, I'm, I'm gonna
+try this out and see how it.
+
+119
+00:04:56,955 --> 00:04:58,034
+How it lands.
+
+120
+00:04:58,724 --> 00:05:01,994
+And, um, it's also just
+a, a helpful way for me
+
+121
+00:05:01,994 --> 00:05:03,195
+to process my thinking.
+
+122
+00:05:04,364 --> 00:05:07,905
+So no, I, I, I haven't run
+outta things to talk about yet.
+
+123
+00:05:08,054 --> 00:05:11,804
+I do, I do have moments like John
+and I are doing our podcast now,
+
+124
+00:05:11,804 --> 00:05:15,794
+and I think we're ready for the
+year to be done in some ways.
+
+125
+00:05:15,794 --> 00:05:18,914
+You know, like ready for
+things to kind of wind down.
+
+126
+00:05:19,515 --> 00:05:23,534
+Uh, and so I think there's
+such thing as fatigue.
+
+127
+00:05:24,780 --> 00:05:25,200
+Mm-hmm.
+
+128
+00:05:25,290 --> 00:05:30,000
+When you're publishing something
+every week and you eventually
+
+129
+00:05:30,060 --> 00:05:33,930
+need to give your brain space
+to just explore, you know, other
+
+130
+00:05:33,930 --> 00:05:35,880
+things and have other ideas.
+
+131
+00:05:36,630 --> 00:05:41,070
+But yeah, not most of the time,
+as long as I'm interacting with
+
+132
+00:05:41,070 --> 00:05:45,960
+people and real life situations
+and also doing experiments in
+
+133
+00:05:45,960 --> 00:05:49,110
+my own life, I don't, I haven't
+run out of anything to say yet.
+
+134
+00:05:50,775 --> 00:05:52,395
+Noah: Yeah, I could see
+the fatigue in that.
+
+135
+00:05:52,395 --> 00:05:56,055
+Like, you feel like you're, you
+have to have something to say like,
+
+136
+00:05:56,055 --> 00:05:58,545
+at least every week when you have
+the podcast, like you have to have
+
+137
+00:05:58,545 --> 00:06:01,575
+a new thing that you're thinking
+about or that you can dive into.
+
+138
+00:06:01,635 --> 00:06:01,755
+Mm-hmm.
+
+139
+00:06:04,145 --> 00:06:04,435
+Yeah.
+
+140
+00:06:04,440 --> 00:06:04,784
+Yeah.
+
+141
+00:06:04,784 --> 00:06:05,895
+Justin: We've definitely
+kind of seen that.
+
+142
+00:06:05,895 --> 00:06:05,955
+Yeah.
+
+143
+00:06:05,955 --> 00:06:09,735
+And I, I think this is what,
+that's why breaks are important.
+
+144
+00:06:10,005 --> 00:06:14,055
+Uh, I, I almost get this
+more with 'cause podcasting.
+
+145
+00:06:14,055 --> 00:06:17,085
+You can just turn on the mics and
+if you have a rough idea of where
+
+146
+00:06:17,085 --> 00:06:19,724
+you wanna go, you can talk it out.
+
+147
+00:06:20,865 --> 00:06:25,995
+But writing I find is a lot more,
+uh, takes a lot more of my energy.
+
+148
+00:06:26,445 --> 00:06:29,445
+And so like writing that
+weekly newsletter that I
+
+149
+00:06:29,445 --> 00:06:33,525
+write is, there are definitely
+weeks where that is tough.
+
+150
+00:06:34,115 --> 00:06:38,655
+I, I not because I don't have an
+idea, but sometimes to process
+
+151
+00:06:38,655 --> 00:06:42,585
+ideas and actually write it in
+a way that makes sense is hard.
+
+152
+00:06:43,485 --> 00:06:44,505
+Um, but yeah, the.
+
+153
+00:06:45,305 --> 00:06:47,025
+Uh, in either case,
+breaks are good.
+
+154
+00:06:47,895 --> 00:06:49,905
+Ben: I can always say I'm
+receiving that newsletter.
+
+155
+00:06:49,905 --> 00:06:51,165
+And you're doing
+pretty good, I guess.
+
+156
+00:06:52,675 --> 00:06:53,045
+Justin: Well, thanks.
+
+157
+00:06:53,185 --> 00:06:54,005
+At least I'm enjoying it.
+
+158
+00:06:56,205 --> 00:06:57,495
+That that almost gives
+me more pressure.
+
+159
+00:06:57,525 --> 00:06:58,905
+'cause then I'm like,
+oh, most people like it.
+
+160
+00:06:58,905 --> 00:06:59,565
+I gotta keep going.
+
+161
+00:07:00,555 --> 00:07:00,915
+Yeah.
+
+162
+00:07:00,975 --> 00:07:01,395
+Well when
+
+163
+00:07:01,395 --> 00:07:02,445
+Noah: that came down, now
+
+164
+00:07:04,305 --> 00:07:05,205
+Ben: that case I hated it
+
+165
+00:07:05,655 --> 00:07:06,245
+Justin: every time.
+
+166
+00:07:07,025 --> 00:07:07,245
+Um,
+
+167
+00:07:10,245 --> 00:07:12,195
+Ben: So we got a, we got a
+couple of questions about
+
+168
+00:07:12,195 --> 00:07:13,695
+audience and, um, mm-hmm.
+
+169
+00:07:14,115 --> 00:07:16,125
+I have a, I think I have
+a pretty interesting one.
+
+170
+00:07:16,155 --> 00:07:19,635
+Um, that is what, what makes a good
+audience, and do you think that you
+
+171
+00:07:19,635 --> 00:07:23,565
+should, like, do you think you, you
+have to be part of your audience?
+
+172
+00:07:23,570 --> 00:07:26,414
+Like, um, do, do you have to feel
+comfortable among the people?
+
+173
+00:07:27,195 --> 00:07:27,615
+Justin: Hmm.
+
+174
+00:07:28,305 --> 00:07:32,655
+So I'm ac I've actually changed
+my tune a little bit on this.
+
+175
+00:07:32,955 --> 00:07:33,224
+Hmm.
+
+176
+00:07:33,795 --> 00:07:40,965
+I think now if you're starting
+a business, Uh, the market
+
+177
+00:07:41,145 --> 00:07:43,965
+is the most important thing,
+the market you choose.
+
+178
+00:07:44,655 --> 00:07:48,585
+And when I say market, I
+don't mean market as in just a
+
+179
+00:07:48,854 --> 00:07:50,715
+identifiable group of people.
+
+180
+00:07:51,794 --> 00:07:57,854
+I'm talking about a group
+of people that, uh, buys X.
+
+181
+00:07:58,155 --> 00:08:00,645
+So the diamond market.
+
+182
+00:08:01,485 --> 00:08:04,545
+Last year was 4.5 billion
+or something like that.
+
+183
+00:08:04,815 --> 00:08:06,015
+To me, that's a market.
+
+184
+00:08:06,045 --> 00:08:11,175
+It's a market where you can
+see people in motion, uh,
+
+185
+00:08:12,045 --> 00:08:15,045
+preferably buying something,
+but sometimes it's just people
+
+186
+00:08:15,045 --> 00:08:20,356
+in motion doing something and
+everything kind of hinges on
+
+187
+00:08:20,595 --> 00:08:22,845
+that which market you are in.
+
+188
+00:08:24,075 --> 00:08:29,505
+So, as an example, Taylor Twell
+is the founder of Laravel,
+
+189
+00:08:29,685 --> 00:08:33,434
+which is the most popular p h p
+programming framework in the world.
+
+190
+00:08:34,845 --> 00:08:36,495
+Uh, he has a huge audience.
+
+191
+00:08:36,495 --> 00:08:39,944
+If you look at his audience,
+quote unquote on Twitter,
+
+192
+00:08:39,944 --> 00:08:43,125
+he's got, I dunno, hundreds of
+thousands of, yeah, that's a lot.
+
+193
+00:08:43,130 --> 00:08:43,635
+Followers.
+
+194
+00:08:43,635 --> 00:08:49,064
+Let's, let's just check, because
+I don't want people to be thought.
+
+195
+00:08:49,155 --> 00:08:52,725
+Well, uh, he has, okay.
+
+196
+00:08:52,725 --> 00:08:54,915
+He has 82,000 followers on Twitter.
+
+197
+00:08:55,365 --> 00:08:57,495
+So for a lot of people that
+would be a big audience.
+
+198
+00:08:57,495 --> 00:08:58,785
+Mm-hmm.
+
+199
+00:08:59,295 --> 00:09:01,545
+And if you go to Lar
+Con, you see he's got 800
+
+200
+00:09:01,545 --> 00:09:02,835
+people in the audience.
+
+201
+00:09:02,865 --> 00:09:03,195
+Right.
+
+202
+00:09:05,145 --> 00:09:07,665
+And he has, you know, tons
+of people buying his stuff.
+
+203
+00:09:07,670 --> 00:09:09,915
+He has millions of
+people using Laravel.
+
+204
+00:09:11,295 --> 00:09:15,765
+But all of that is in the
+context of a bigger market.
+
+205
+00:09:16,995 --> 00:09:20,505
+There's, it's hard to count the
+number of programmers in the world,
+
+206
+00:09:20,505 --> 00:09:24,375
+but let's just say a reasonable
+estimate is that there's 5 million.
+
+207
+00:09:24,735 --> 00:09:26,655
+P h p programmers in the world.
+
+208
+00:09:26,655 --> 00:09:27,285
+Mm-hmm.
+
+209
+00:09:28,095 --> 00:09:30,135
+Um, would you agree with that, Ben?
+
+210
+00:09:30,465 --> 00:09:30,765
+Yeah,
+
+211
+00:09:30,885 --> 00:09:31,305
+Ben: definitely.
+
+212
+00:09:31,485 --> 00:09:31,665
+Okay.
+
+213
+00:09:31,665 --> 00:09:33,735
+I've actually, you know,
+I've actually used for
+
+214
+00:09:33,735 --> 00:09:34,515
+a couple of projects.
+
+215
+00:09:35,025 --> 00:09:35,415
+Justin: Okay.
+
+216
+00:09:35,420 --> 00:09:35,925
+There you go.
+
+217
+00:09:36,675 --> 00:09:43,365
+And so, um, 5 million p h
+p programmers in the world.
+
+218
+00:09:44,355 --> 00:09:48,525
+And let's just say, let's just
+take one element of that market.
+
+219
+00:09:48,900 --> 00:09:51,990
+Not including all the tools
+they buy, not including, you
+
+220
+00:09:51,990 --> 00:09:54,449
+know, everything else that
+you need to be a programmer.
+
+221
+00:09:54,449 --> 00:09:56,310
+Let's just think about salary.
+
+222
+00:09:57,420 --> 00:10:01,439
+And these are, these are just
+guesses, but let's say on average,
+
+223
+00:10:02,310 --> 00:10:05,939
+an average P H P programmer in
+the world makes $25,000 a year.
+
+224
+00:10:07,680 --> 00:10:14,370
+Well, 25,000 times 5 million
+is 125 billion I think.
+
+225
+00:10:16,335 --> 00:10:20,445
+That's $125 billion being
+spent on salaries for
+
+226
+00:10:20,445 --> 00:10:22,185
+P H P developers alone.
+
+227
+00:10:23,235 --> 00:10:25,605
+That's a massive market.
+
+228
+00:10:25,725 --> 00:10:28,875
+It's not just a big group of
+people, but it's also a big
+
+229
+00:10:28,875 --> 00:10:32,175
+group of people who, where
+there's some sort of economic
+
+230
+00:10:32,180 --> 00:10:33,585
+activity being generated.
+
+231
+00:10:34,635 --> 00:10:41,745
+And, uh, I think it's why products
+in the Laravel community often
+
+232
+00:10:41,745 --> 00:10:48,150
+have a magnified, um, Impact
+compared to other things.
+
+233
+00:10:48,150 --> 00:10:50,790
+So, you know, I have a
+course called Marketing for
+
+234
+00:10:50,795 --> 00:10:52,560
+Developers that did pretty good.
+
+235
+00:10:53,069 --> 00:10:53,160
+Mm-hmm.
+
+236
+00:10:53,610 --> 00:10:56,370
+But that's like if you take all
+of the developers in the world
+
+237
+00:10:56,550 --> 00:10:59,189
+and then you ask how many of those
+developers wanna learn marketing,
+
+238
+00:11:00,000 --> 00:11:01,890
+it's a much s smaller slice.
+
+239
+00:11:01,890 --> 00:11:01,891
+Right.
+
+240
+00:11:02,490 --> 00:11:02,939
+Yeah.
+
+241
+00:11:03,180 --> 00:11:07,140
+How many developers in the world
+are p h P developers that want,
+
+242
+00:11:07,290 --> 00:11:09,180
+uh, to make their jobs better?
+
+243
+00:11:09,390 --> 00:11:11,429
+Well, that's probably 5 million.
+
+244
+00:11:12,060 --> 00:11:12,540
+Mm-hmm.
+
+245
+00:11:12,780 --> 00:11:18,270
+And so, You, you can compare
+results and you can see that
+
+246
+00:11:18,360 --> 00:11:22,020
+kind of everything hinges on the
+market, how big the market is,
+
+247
+00:11:22,199 --> 00:11:25,199
+uh, how big the, your audience
+can be within that market.
+
+248
+00:11:25,920 --> 00:11:30,390
+Uh, and then all the multiples
+all kind of depend on that.
+
+249
+00:11:30,395 --> 00:11:33,300
+So how much money is being
+spent in that market already,
+
+250
+00:11:33,329 --> 00:11:36,689
+and how much of that can
+you carve off for yourself?
+
+251
+00:11:37,410 --> 00:11:41,610
+Um, you know, Taylor presumably.
+
+252
+00:11:42,165 --> 00:11:45,135
+He's only carved off a little
+bit of the P H P market.
+
+253
+00:11:45,194 --> 00:11:48,314
+Like there's still other
+frameworks, there's still
+
+254
+00:11:48,314 --> 00:11:52,755
+programmers that don't know or
+use about, sorry, don't know about
+
+255
+00:11:52,760 --> 00:11:57,074
+or use Laravel, so he's still got
+plenty of room to grow as well.
+
+256
+00:11:57,915 --> 00:12:03,255
+But even then, like Taylor
+Twell as a solo person has sold
+
+257
+00:12:03,255 --> 00:12:05,145
+$10 million worth of software.
+
+258
+00:12:06,675 --> 00:12:08,145
+To P H P developers.
+
+259
+00:12:09,225 --> 00:12:09,314
+Yeah.
+
+260
+00:12:09,314 --> 00:12:10,035
+That's pretty crazy.
+
+261
+00:12:10,785 --> 00:12:11,655
+That's insane.
+
+262
+00:12:12,074 --> 00:12:14,235
+And he just recently
+took on employees.
+
+263
+00:12:14,235 --> 00:12:18,944
+So, um, you know, there's funded
+startups in San Francisco right
+
+264
+00:12:18,944 --> 00:12:23,805
+now that have millions of dollars
+in funding, uh, staff of 50
+
+265
+00:12:23,805 --> 00:12:27,045
+people, and they haven't sold
+$10 million worth of software.
+
+266
+00:12:28,454 --> 00:12:34,454
+I think the market that you're
+in determines everything and.
+
+267
+00:12:34,980 --> 00:12:40,350
+When you have, um, what Corey
+Gwynn calls demonstrated
+
+268
+00:12:40,350 --> 00:12:46,320
+demand, so you can actually
+see the demand, um, that's kind
+
+269
+00:12:46,320 --> 00:12:47,160
+of what you're looking for.
+
+270
+00:12:47,160 --> 00:12:51,720
+You're looking for people in
+motion, a large group of people
+
+271
+00:12:51,720 --> 00:12:55,890
+in motion who are, where there's
+economic activity being generated
+
+272
+00:12:55,890 --> 00:12:57,150
+from whatever they're doing.
+
+273
+00:12:58,740 --> 00:12:59,040
+Noah: So, yeah.
+
+274
+00:12:59,070 --> 00:13:02,940
+So you would basically say, start
+out with the market, try to find a
+
+275
+00:13:02,940 --> 00:13:06,810
+market that you wanna work in, and
+then start building your audience.
+
+276
+00:13:07,020 --> 00:13:10,770
+And around that, like, don't
+worry as much about, uh, do
+
+277
+00:13:10,770 --> 00:13:15,150
+you feel comfortable, uh,
+in that audience or Yeah.
+
+278
+00:13:15,150 --> 00:13:15,570
+Those kind of
+
+279
+00:13:15,575 --> 00:13:16,110
+Justin: things.
+
+280
+00:13:16,830 --> 00:13:18,450
+I mean, this is
+where it gets tricky.
+
+281
+00:13:19,260 --> 00:13:20,970
+This is why business
+is so hard because.
+
+282
+00:13:21,765 --> 00:13:25,425
+You have to, you apply all
+of these filters to get to
+
+283
+00:13:25,485 --> 00:13:26,685
+right where you wanna go.
+
+284
+00:13:26,685 --> 00:13:30,375
+So it's like, it's not, it
+can't, it's not enough to
+
+285
+00:13:30,375 --> 00:13:31,545
+just be in a good market.
+
+286
+00:13:31,935 --> 00:13:34,185
+You actually have to be
+interested in that market.
+
+287
+00:13:35,085 --> 00:13:40,185
+You have to, you have good
+founder market fit, you have
+
+288
+00:13:40,185 --> 00:13:46,875
+to, um, you know, you have to
+then be able to identify some
+
+289
+00:13:46,875 --> 00:13:49,425
+sort of need in that market.
+
+290
+00:13:50,730 --> 00:13:55,080
+You have to, uh, then you have
+to actually execute on some
+
+291
+00:13:55,080 --> 00:13:59,700
+things and, you know, make some,
+make some sort of connection.
+
+292
+00:13:59,700 --> 00:14:03,810
+I don't think you have to naturally
+necessarily build an audience, but
+
+293
+00:14:04,290 --> 00:14:12,090
+you get a lot of leverage from who
+you know and who knows you, who you
+
+294
+00:14:12,090 --> 00:14:13,950
+know is just making connections.
+
+295
+00:14:13,950 --> 00:14:15,840
+We've, we're making
+connections right now.
+
+296
+00:14:16,230 --> 00:14:18,780
+Now the three of
+us know each other.
+
+297
+00:14:19,305 --> 00:14:22,815
+And, uh, even the fact that
+we've been on a phone call makes
+
+298
+00:14:22,815 --> 00:14:26,655
+it a lot easier for me to ask
+a favor of you in the future or
+
+299
+00:14:26,655 --> 00:14:28,035
+for you to ask a favor of me.
+
+300
+00:14:28,275 --> 00:14:29,715
+That's networking.
+
+301
+00:14:29,715 --> 00:14:35,535
+That's who you know, who knows
+you, is the audience effect.
+
+302
+00:14:35,685 --> 00:14:40,095
+And, um, that, I mean,
+that could be very helpful.
+
+303
+00:14:40,185 --> 00:14:44,025
+Uh, but there are people who,
+who have built businesses
+
+304
+00:14:44,025 --> 00:14:45,045
+without doing that.
+
+305
+00:14:45,885 --> 00:14:47,805
+Uh, Ruben Gamma is a good example.
+
+306
+00:14:48,555 --> 00:14:52,365
+Of someone who's just built a
+software business almost purely
+
+307
+00:14:52,875 --> 00:14:56,865
+on search engine results and
+optimizing search engine results.
+
+308
+00:14:57,584 --> 00:15:00,704
+So I, I think it's one of
+the levers you can use.
+
+309
+00:15:01,155 --> 00:15:05,204
+Uh, I think without any
+sort of human connection,
+
+310
+00:15:05,204 --> 00:15:06,104
+it's very difficult.
+
+311
+00:15:06,104 --> 00:15:07,324
+So you have to, mm-hmm.
+
+312
+00:15:07,755 --> 00:15:11,234
+You do have to connect with
+other human beings, and I get,
+
+313
+00:15:11,234 --> 00:15:14,324
+this is why it's helpful to be
+interested in the market you're in.
+
+314
+00:15:15,854 --> 00:15:16,365
+Um.
+
+315
+00:15:17,895 --> 00:15:23,175
+And it's, sometimes it can
+even, that can be enough.
+
+316
+00:15:23,685 --> 00:15:26,775
+Like I'm really interested
+in the Laravel community.
+
+317
+00:15:26,984 --> 00:15:30,344
+I'm not really a Laravel
+developer, but I've spoken at
+
+318
+00:15:30,344 --> 00:15:32,055
+their conference three times.
+
+319
+00:15:32,115 --> 00:15:37,305
+I really like the people and,
+um, you know, uh, I would say
+
+320
+00:15:37,305 --> 00:15:41,954
+I'm part of the community even
+though I, I'm not like a power
+
+321
+00:15:41,954 --> 00:15:44,785
+user of Laravel and mm-hmm.
+
+322
+00:15:45,104 --> 00:15:50,610
+Um, But, so there has
+to be something that
+
+323
+00:15:50,610 --> 00:15:51,960
+draws you to that market.
+
+324
+00:15:52,020 --> 00:15:54,630
+There has to be something that
+keeps you there, and you're
+
+325
+00:15:54,870 --> 00:15:59,280
+probably going to need some sort
+of connection with some key people
+
+326
+00:15:59,280 --> 00:16:01,410
+in that market to make it work.
+
+327
+00:16:02,160 --> 00:16:07,590
+And it, you know, how you get there
+is kind of the individual journey.
+
+328
+00:16:07,860 --> 00:16:13,500
+I'm, I'm almost 40 now,
+and, you know, it's, it's
+
+329
+00:16:13,500 --> 00:16:14,520
+very difficult to say.
+
+330
+00:16:15,255 --> 00:16:20,265
+Um, you know, what are the 10 steps
+that brought you to transistor?
+
+331
+00:16:20,595 --> 00:16:24,345
+Because it's like layer on,
+layer on layer of my life
+
+332
+00:16:24,345 --> 00:16:26,865
+going back to when I was a kid.
+
+333
+00:16:27,795 --> 00:16:33,645
+And so all of those steps up till
+now lead me to where I'm at now.
+
+334
+00:16:34,245 --> 00:16:36,375
+I think you can optimize
+for some of those things.
+
+335
+00:16:36,375 --> 00:16:41,595
+Like where you point yourself
+in life has a big determination
+
+336
+00:16:41,595 --> 00:16:42,765
+of where you'll end up, right?
+
+337
+00:16:42,770 --> 00:16:42,835
+Mm-hmm.
+
+338
+00:16:43,555 --> 00:16:44,535
+Uh, I think.
+
+339
+00:16:45,465 --> 00:16:48,495
+The, the connections
+you make matter a lot.
+
+340
+00:16:49,305 --> 00:16:52,245
+I think what you put out
+into the world matters a lot.
+
+341
+00:16:52,245 --> 00:17:00,615
+So, uh, you know, podcasting,
+blogging, uh, public speaking, but
+
+342
+00:17:00,615 --> 00:17:05,745
+even just anything, uh, not, uh,
+open source projects, anything you
+
+343
+00:17:05,745 --> 00:17:08,204
+put out into the world can help.
+
+344
+00:17:09,645 --> 00:17:12,075
+But in terms of like adding
+all those up and going, okay,
+
+345
+00:17:12,075 --> 00:17:13,755
+what, what really matters.
+
+346
+00:17:14,565 --> 00:17:16,245
+A lot harder to to figure that out.
+
+347
+00:17:18,045 --> 00:17:18,615
+Yeah, I think
+
+348
+00:17:18,615 --> 00:17:20,655
+Ben: that's a pretty interesting
+point because when we started
+
+349
+00:17:20,655 --> 00:17:23,535
+out with a podcast, I think we
+were both like on the track of
+
+350
+00:17:23,535 --> 00:17:24,385
+we should build an audience.
+
+351
+00:17:25,245 --> 00:17:27,885
+And we just, it's kind of
+like we are shifting, shifting
+
+352
+00:17:27,885 --> 00:17:29,175
+away from that a little bit.
+
+353
+00:17:29,415 --> 00:17:29,505
+Mm-hmm.
+
+354
+00:17:29,745 --> 00:17:34,365
+Um, and just recently came across
+this tweet from Jane Portman and
+
+355
+00:17:34,365 --> 00:17:38,565
+I think Rob Walling, um, Jane
+Portman from User List, um, who
+
+356
+00:17:38,570 --> 00:17:41,595
+were also talking about that, like
+how they didn't really need an
+
+357
+00:17:41,595 --> 00:17:43,485
+audience and that basically just.
+
+358
+00:17:44,100 --> 00:17:46,560
+It, it just fits very well to
+what you just said, I guess.
+
+359
+00:17:46,889 --> 00:17:46,980
+Mm-hmm.
+
+360
+00:17:47,220 --> 00:17:50,730
+Um, and there's one more thing
+that I would like to like,
+
+361
+00:17:51,060 --> 00:17:54,899
+like get your opinion on, um,
+because you're probably familiar
+
+362
+00:17:54,899 --> 00:17:57,720
+with, uh, Derek Rimer and what
+happened with Level, right?
+
+363
+00:17:57,780 --> 00:17:57,899
+Mm-hmm.
+
+364
+00:17:58,290 --> 00:17:58,350
+Yeah.
+
+365
+00:17:58,355 --> 00:18:02,159
+It's kind of like, do you feel
+like having an audience might
+
+366
+00:18:02,165 --> 00:18:04,850
+not al might not always be,
+not necessary, but also maybe
+
+367
+00:18:05,100 --> 00:18:06,720
+like lead to false positives?
+
+368
+00:18:06,870 --> 00:18:06,990
+Justin: Mm-hmm.
+
+369
+00:18:07,409 --> 00:18:08,070
+Oh, definitely.
+
+370
+00:18:08,159 --> 00:18:08,520
+Yeah.
+
+371
+00:18:09,180 --> 00:18:11,730
+Uh, again, it can be
+really helpful too.
+
+372
+00:18:12,090 --> 00:18:17,760
+Uh, there's to say that, um,
+my audience didn't help in
+
+373
+00:18:17,760 --> 00:18:20,970
+launching transistor would
+be disingenuous like that.
+
+374
+00:18:20,970 --> 00:18:21,810
+It definitely helped.
+
+375
+00:18:21,815 --> 00:18:22,620
+It still helps.
+
+376
+00:18:23,460 --> 00:18:30,960
+Um, but there is a risk
+because what you're looking
+
+377
+00:18:30,960 --> 00:18:33,389
+for is you're looking for
+some sort of momentum, right?
+
+378
+00:18:34,260 --> 00:18:39,764
+What and when you launch something,
+You're trying to gauge what kind
+
+379
+00:18:39,764 --> 00:18:41,145
+of response is this getting?
+
+380
+00:18:41,445 --> 00:18:44,985
+So when Apple releases the
+new iPhone, how many people
+
+381
+00:18:44,990 --> 00:18:49,065
+are lined up outside of
+the Apple store right now?
+
+382
+00:18:49,544 --> 00:18:56,625
+Um, this Apple actually can fall
+prey to this because they've
+
+383
+00:18:56,625 --> 00:18:58,725
+got all these mega fans, right?
+
+384
+00:18:58,995 --> 00:19:01,754
+Right that are gonna line
+up day one no matter what.
+
+385
+00:19:01,754 --> 00:19:05,084
+So you could see these huge
+lineups and you could go, oh
+
+386
+00:19:05,084 --> 00:19:08,475
+wow, like the new iPhone's a
+big success, but unless the
+
+387
+00:19:08,475 --> 00:19:13,814
+rest of the world shows up, then
+it's not going to be a success.
+
+388
+00:19:13,844 --> 00:19:14,145
+Right.
+
+389
+00:19:14,834 --> 00:19:16,725
+So yeah, that's a
+pretty good analogy.
+
+390
+00:19:17,114 --> 00:19:17,324
+Yeah.
+
+391
+00:19:17,324 --> 00:19:18,645
+Lineups on day one.
+
+392
+00:19:18,945 --> 00:19:26,385
+I mean, they are helpful, but um,
+they can, they can also, uh, you
+
+393
+00:19:26,389 --> 00:19:27,584
+know, like I've launched things.
+
+394
+00:19:28,320 --> 00:19:33,360
+I think still to this day, my
+best launch ever was, uh, for
+
+395
+00:19:33,360 --> 00:19:38,639
+this, I was doing this online
+series on product marketing and
+
+396
+00:19:39,060 --> 00:19:42,419
+like the first couple weeks,
+tons of people showed up.
+
+397
+00:19:43,590 --> 00:19:47,370
+And when I started asking them,
+what were you, what are you
+
+398
+00:19:47,370 --> 00:19:49,800
+hoping to achieve, you know, out
+of this what brought you here?
+
+399
+00:19:50,250 --> 00:19:51,719
+They said, oh, I'm just a big fan.
+
+400
+00:19:51,719 --> 00:19:55,780
+I just get everything that you
+put out and that's nice, but.
+
+401
+00:19:56,879 --> 00:20:00,120
+Uh, it became really
+clear in the coming months
+
+402
+00:20:00,120 --> 00:20:01,770
+that no one else cared.
+
+403
+00:20:02,909 --> 00:20:02,969
+Hmm.
+
+404
+00:20:03,149 --> 00:20:06,810
+Uh, that's the disadvantage
+of having an audience.
+
+405
+00:20:06,810 --> 00:20:09,600
+When people are really
+kind of invested in your
+
+406
+00:20:09,600 --> 00:20:12,300
+journey, uh, they're gonna
+show up no matter what.
+
+407
+00:20:12,304 --> 00:20:13,860
+They're gonna show up
+just because they have a
+
+408
+00:20:13,860 --> 00:20:15,060
+personal connection to you.
+
+409
+00:20:16,399 --> 00:20:20,280
+But, uh, ultimately, if you're
+gonna run a business, you need
+
+410
+00:20:20,280 --> 00:20:21,330
+people who are gonna show up.
+
+411
+00:20:21,750 --> 00:20:23,580
+And then more people were
+gonna show up, and then more
+
+412
+00:20:23,580 --> 00:20:24,630
+people were gonna show up.
+
+413
+00:20:24,630 --> 00:20:24,930
+Right?
+
+414
+00:20:26,070 --> 00:20:29,490
+Uh, and, and this is actually
+why I, I think the market
+
+415
+00:20:29,495 --> 00:20:30,930
+you choose matters so much.
+
+416
+00:20:30,930 --> 00:20:34,410
+And what I've gotten into
+some public disagreements with
+
+417
+00:20:34,410 --> 00:20:35,820
+people who could be right.
+
+418
+00:20:35,850 --> 00:20:39,030
+I mean, they, these are my
+friends and people I respect,
+
+419
+00:20:39,030 --> 00:20:48,750
+but the, the idea of going
+after a small niche, I think.
+
+420
+00:20:50,145 --> 00:20:52,455
+And again, maybe people
+are, I don't know.
+
+421
+00:20:53,265 --> 00:20:57,375
+The idea of going after a small
+niche is just you're limiting
+
+422
+00:20:57,375 --> 00:21:00,615
+yourself to, let's say a
+pool of 5,000, 10,000 people.
+
+423
+00:21:01,965 --> 00:21:05,445
+Well, that's like going to a little
+tiny stream and trying to like
+
+424
+00:21:05,535 --> 00:21:06,975
+scoop up a little bit of water.
+
+425
+00:21:07,274 --> 00:21:10,995
+From a tiny stream as
+opposed to going after a big,
+
+426
+00:21:10,995 --> 00:21:12,794
+massive market in motion.
+
+427
+00:21:12,824 --> 00:21:15,105
+That's like going to a rushing
+river and just putting your
+
+428
+00:21:15,105 --> 00:21:17,985
+cup in the river and just
+like scooping out a, you know?
+
+429
+00:21:17,985 --> 00:21:18,195
+Yeah.
+
+430
+00:21:18,615 --> 00:21:22,334
+And it, sure, you might be able
+to fill up your cup just, you
+
+431
+00:21:22,334 --> 00:21:23,834
+know, at a small little stream.
+
+432
+00:21:23,840 --> 00:21:29,594
+But the rushing river has so
+much water that it's, it's,
+
+433
+00:21:29,594 --> 00:21:32,625
+it's a lot easier for a solo
+bootstrapper to just, you know,
+
+434
+00:21:32,655 --> 00:21:35,205
+put their cup in the river and
+then scoop up a bunch of water.
+
+435
+00:21:35,940 --> 00:21:41,610
+And I think sometimes this
+idea of niche is, uh, leads
+
+436
+00:21:41,610 --> 00:21:43,260
+people to the wrong places.
+
+437
+00:21:43,679 --> 00:21:46,080
+They're just looking for these
+tiny streams that no one else
+
+438
+00:21:46,080 --> 00:21:47,310
+has ever discovered before.
+
+439
+00:21:47,970 --> 00:21:51,570
+Uh, where, you know, and
+they say, well, we gotta
+
+440
+00:21:51,570 --> 00:21:54,240
+avoid the big rivers, because
+everyone knows about those.
+
+441
+00:21:54,570 --> 00:21:54,810
+Yeah.
+
+442
+00:21:54,810 --> 00:21:57,480
+But it's a lot easier to get
+your cup in a big river and,
+
+443
+00:21:57,720 --> 00:22:00,510
+and scoop out some water than
+to find this tiny little thing
+
+444
+00:22:00,510 --> 00:22:01,889
+that nobody knows exists.
+
+445
+00:22:02,235 --> 00:22:02,535
+Yeah.
+
+446
+00:22:02,535 --> 00:22:04,274
+Ben: And the end, your cup
+is bigger than the river.
+
+447
+00:22:05,595 --> 00:22:06,285
+Justin: Exactly.
+
+448
+00:22:06,885 --> 00:22:07,185
+Noah: Yeah.
+
+449
+00:22:08,175 --> 00:22:11,895
+I think, I wonder if where the
+kind of disagreement that you
+
+450
+00:22:11,895 --> 00:22:16,695
+have with people about that
+idea really just comes from like
+
+451
+00:22:16,725 --> 00:22:20,475
+the end goal with what people
+want to do with their business.
+
+452
+00:22:20,480 --> 00:22:23,475
+Because basically where
+I hear kinda what you're
+
+453
+00:22:23,475 --> 00:22:26,085
+saying, um, well, I guess
+the opposite of what you say.
+
+454
+00:22:26,489 --> 00:22:30,120
+And that, you know, find a niche
+market, the i'd, the advice
+
+455
+00:22:30,120 --> 00:22:35,850
+that I've typically seen that
+from is places like Y Combinator
+
+456
+00:22:35,854 --> 00:22:38,909
+or, or startups that are really
+trying to do like a go big
+
+457
+00:22:38,909 --> 00:22:40,409
+or go home kind of business.
+
+458
+00:22:40,439 --> 00:22:40,530
+Mm-hmm.
+
+459
+00:22:40,860 --> 00:22:45,750
+Um, like I think a good
+example is, uh, Peter Thiel,
+
+460
+00:22:45,810 --> 00:22:47,820
+the, the co-founder PayPal.
+
+461
+00:22:47,850 --> 00:22:49,199
+His book Zero to One.
+
+462
+00:22:49,229 --> 00:22:50,640
+I don't know if you've
+heard of that or mm-hmm.
+
+463
+00:22:50,641 --> 00:22:50,643
+Or, mm-hmm.
+
+464
+00:22:50,955 --> 00:22:51,585
+Or read it.
+
+465
+00:22:51,855 --> 00:22:54,945
+But I mean, that's almost
+his whole thing is basically
+
+466
+00:22:54,945 --> 00:22:56,865
+go for the new markets.
+
+467
+00:22:56,865 --> 00:22:59,655
+Like that's where you
+can make really, you can,
+
+468
+00:22:59,655 --> 00:23:01,845
+there's a lot of opportunity
+to make a huge business.
+
+469
+00:23:01,845 --> 00:23:04,635
+And you know, that's kind of
+like what, you know, PayPal,
+
+470
+00:23:04,635 --> 00:23:07,335
+Facebook, some of those
+giant companies now did.
+
+471
+00:23:07,395 --> 00:23:07,575
+Mm-hmm.
+
+472
+00:23:08,205 --> 00:23:10,785
+Well, so yeah, if you're, if
+people that are saying that
+
+473
+00:23:10,785 --> 00:23:14,145
+kind of advice are venture
+capitalists or you know,
+
+474
+00:23:14,145 --> 00:23:15,764
+people that, that's their goal.
+
+475
+00:23:16,050 --> 00:23:18,510
+Then I, I could see that making
+sense, but like, you know,
+
+476
+00:23:18,515 --> 00:23:22,320
+for bootstrappers, I think
+that is then very dangerous.
+
+477
+00:23:22,470 --> 00:23:22,680
+Mm-hmm.
+
+478
+00:23:22,920 --> 00:23:25,020
+Um, and so maybe, I don't
+know, I'm just wondering maybe
+
+479
+00:23:25,020 --> 00:23:27,780
+that's where the disconnect
+is between those different
+
+480
+00:23:27,780 --> 00:23:28,440
+Justin: ideas.
+
+481
+00:23:28,680 --> 00:23:31,500
+Yeah, I think, I mean, part
+of it is probably semantics.
+
+482
+00:23:31,770 --> 00:23:36,570
+Um, and part of it is this
+is all really emotional stuff
+
+483
+00:23:37,140 --> 00:23:41,445
+because the way that you are
+currently doing your thing, Kind
+
+484
+00:23:41,445 --> 00:23:44,985
+of informs your bias, the way
+that you've achieved success
+
+485
+00:23:44,985 --> 00:23:47,145
+in the past informs your bias.
+
+486
+00:23:47,865 --> 00:23:51,765
+I mean, I said things at 20 years
+old that I don't believe anymore.
+
+487
+00:23:52,215 --> 00:23:54,855
+I said things at 30 years old
+that I don't believe anymore.
+
+488
+00:23:55,395 --> 00:23:58,365
+And so a lot of this is
+just, you know, what, where
+
+489
+00:23:58,365 --> 00:24:03,345
+we're at and what's working
+for us right now and mm-hmm.
+
+490
+00:24:04,725 --> 00:24:08,595
+I mean, I was on Twitter, this
+guy Evan Golden was saying,
+
+491
+00:24:09,075 --> 00:24:16,890
+um, Uh, you can stretch
+the definition pretty wide.
+
+492
+00:24:16,950 --> 00:24:20,580
+It's always easy to justify, you
+know, people are spending money.
+
+493
+00:24:21,060 --> 00:24:23,310
+Um, oh, what did he say?
+
+494
+00:24:23,550 --> 00:24:26,310
+He said, people are spending
+money on tacos everywhere,
+
+495
+00:24:26,315 --> 00:24:27,510
+so this could justify.
+
+496
+00:24:27,510 --> 00:24:30,990
+Mean opening attacker, stunt
+featuring dirt flavored tacos.
+
+497
+00:24:31,860 --> 00:24:32,880
+There's lots of evidence.
+
+498
+00:24:32,880 --> 00:24:36,540
+People wanted tacos And Evan's
+a friend of mine, but these
+
+499
+00:24:36,540 --> 00:24:38,460
+are the kind of arguments
+I get into on Twitter.
+
+500
+00:24:40,574 --> 00:24:44,985
+Yeah, but I think that,
+unfortunately, that's exactly
+
+501
+00:24:44,985 --> 00:24:49,365
+what I do wanna do, is I want
+to say, is there any evidence
+
+502
+00:24:50,534 --> 00:24:56,054
+in this market of prior of
+demonstrated demand, that's just
+
+503
+00:24:56,054 --> 00:24:58,215
+a great word, from Corey Gwynn.
+
+504
+00:24:58,754 --> 00:25:02,215
+Uh, and so PayPal, let's
+take PayPal as an example.
+
+505
+00:25:02,925 --> 00:25:05,264
+What was, what was the market?
+
+506
+00:25:05,895 --> 00:25:08,625
+For what PayPal was doing
+before PayPal existed?
+
+507
+00:25:09,705 --> 00:25:13,935
+Well, it was massive that the,
+the, the Western Union, like
+
+508
+00:25:13,965 --> 00:25:17,565
+bank transfer, like, you know,
+money transfer market, uh, people
+
+509
+00:25:17,565 --> 00:25:20,745
+trying to pay for things with
+credit cards online, but having
+
+510
+00:25:20,745 --> 00:25:24,525
+to go through their credit card
+processors and there's all sorts
+
+511
+00:25:24,525 --> 00:25:28,575
+of friction, but there's tons of
+evidence that there's billions
+
+512
+00:25:28,575 --> 00:25:30,945
+of dollars being spent in that.
+
+513
+00:25:31,679 --> 00:25:32,730
+Market already.
+
+514
+00:25:33,210 --> 00:25:35,730
+And so it's not like
+PayPal invented anything.
+
+515
+00:25:36,210 --> 00:25:39,090
+I mean, sure, they, they created
+a new way of doing those things,
+
+516
+00:25:39,179 --> 00:25:41,129
+but they didn't create the market.
+
+517
+00:25:41,280 --> 00:25:43,710
+They were riding a wave
+that already existed.
+
+518
+00:25:44,100 --> 00:25:46,830
+Uh, they just saw the wave
+coming and they built a better
+
+519
+00:25:46,830 --> 00:25:50,490
+surfboard that, you know,
+enabled them to ride further
+
+520
+00:25:50,760 --> 00:25:52,260
+than anyone else had at the time.
+
+521
+00:25:53,040 --> 00:25:58,290
+Uh, and, and this is what I'm
+talking about, is really, and in
+
+522
+00:25:58,290 --> 00:26:02,205
+some ways, uh, What Evan is saying
+is like, I am, I'm stretching
+
+523
+00:26:02,210 --> 00:26:07,575
+the definition to say, is there
+any sort of prior or existing
+
+524
+00:26:07,635 --> 00:26:11,145
+demonstrated demand for this thing?
+
+525
+00:26:14,534 --> 00:26:18,945
+And I think you could see that in
+almost every major product launch
+
+526
+00:26:20,085 --> 00:26:24,705
+like the iPhone, before the iPhone
+was the Blackberry and the palm.
+
+527
+00:26:25,095 --> 00:26:27,945
+And you know, you can keep
+going back and back and back.
+
+528
+00:26:27,945 --> 00:26:28,304
+Right.
+
+529
+00:26:28,845 --> 00:26:29,635
+There's, mm-hmm.
+
+530
+00:26:29,715 --> 00:26:33,525
+There's demonstrated
+demand for these things.
+
+531
+00:26:33,885 --> 00:26:39,315
+Even if you look at, um, I
+can remember as a kid looking
+
+532
+00:26:39,315 --> 00:26:45,315
+in catalogs, wanting to buy
+a portable television right
+
+533
+00:26:45,315 --> 00:26:46,905
+from Radio Shack or whatever.
+
+534
+00:26:47,745 --> 00:26:50,055
+There was demand for portable.
+
+535
+00:26:50,385 --> 00:26:52,575
+Televisions that were
+battery operated.
+
+536
+00:26:52,575 --> 00:26:56,655
+They never worked very well,
+but there was demonstrated
+
+537
+00:26:56,655 --> 00:26:58,125
+demand for that thing.
+
+538
+00:26:58,365 --> 00:27:01,905
+Well, a big part of the iPhone
+is just a portable television.
+
+539
+00:27:02,595 --> 00:27:02,955
+Right.
+
+540
+00:27:03,015 --> 00:27:05,115
+That's, at least that's how
+my kids use it, that it's
+
+541
+00:27:05,120 --> 00:27:06,555
+like Netflix all day long.
+
+542
+00:27:06,645 --> 00:27:07,215
+Yeah, definitely.
+
+543
+00:27:07,215 --> 00:27:14,115
+Now, so I, I think the point
+is to look for, Some sort of
+
+544
+00:27:14,115 --> 00:27:20,145
+demonstrated demand and, and to
+think, is this a market in motion?
+
+545
+00:27:20,175 --> 00:27:22,754
+Is there evidence that
+people are doing something
+
+546
+00:27:22,754 --> 00:27:24,044
+about this right now?
+
+547
+00:27:25,215 --> 00:27:26,955
+Um, so yeah.
+
+548
+00:27:28,665 --> 00:27:28,814
+Noah: Yeah.
+
+549
+00:27:28,820 --> 00:27:32,415
+So the, the market is
+kind of being defined as.
+
+550
+00:27:33,165 --> 00:27:36,915
+Like a problem to be solved or
+like a job to be done rather
+
+551
+00:27:36,915 --> 00:27:40,965
+than, I don't know, maybe how like
+marketers sometimes think about
+
+552
+00:27:40,965 --> 00:27:44,054
+markets as almost, I feel like
+they can kind of put it into a box
+
+553
+00:27:44,054 --> 00:27:49,125
+of like a specific solution or a
+specific, uh, area in that way.
+
+554
+00:27:49,995 --> 00:27:52,514
+So yeah, really focusing
+from what you're saying,
+
+555
+00:27:52,514 --> 00:27:53,085
+it sounds like, yeah.
+
+556
+00:27:53,085 --> 00:27:56,625
+Really focusing on the problem
+that needs to be solved, is
+
+557
+00:27:56,625 --> 00:28:00,165
+that a big market of people,
+you know, want that, you know?
+
+558
+00:28:00,165 --> 00:28:00,615
+Justin: Mm-hmm.
+
+559
+00:28:01,835 --> 00:28:02,125
+Yeah.
+
+560
+00:28:03,180 --> 00:28:03,570
+Yeah.
+
+561
+00:28:03,930 --> 00:28:04,140
+Yeah.
+
+562
+00:28:04,140 --> 00:28:06,630
+You, yes, exactly that.
+
+563
+00:28:06,630 --> 00:28:08,310
+That's, that's exactly
+what I'm talking about.
+
+564
+00:28:08,610 --> 00:28:15,270
+The, the, there's lots, you,
+you can see this with, uh,
+
+565
+00:28:15,510 --> 00:28:18,780
+if you go into Product Hunt
+and you find, I run into this
+
+566
+00:28:18,780 --> 00:28:21,540
+all the time, products that
+are no longer around, there's
+
+567
+00:28:21,540 --> 00:28:23,880
+all these like dead startups.
+
+568
+00:28:24,930 --> 00:28:25,440
+Oh yeah.
+
+569
+00:28:25,920 --> 00:28:31,800
+And in almost every case,
+there just wasn't enough.
+
+570
+00:28:32,610 --> 00:28:34,800
+Demonstrated demand for that thing.
+
+571
+00:28:34,800 --> 00:28:36,000
+They were good ideas.
+
+572
+00:28:36,510 --> 00:28:42,630
+They, they kind of made sense
+logically, but if you looked at
+
+573
+00:28:42,630 --> 00:28:45,360
+it and go, okay, but who's doing
+something about this right now?
+
+574
+00:28:45,750 --> 00:28:48,840
+That's really what's most
+interesting about Derek Reimer's
+
+575
+00:28:48,840 --> 00:28:53,070
+story is that once he started
+talking to the people on his
+
+576
+00:28:53,070 --> 00:28:56,610
+waiting list, And asking,
+okay, well what are you doing
+
+577
+00:28:56,610 --> 00:28:58,050
+about this problem right now?
+
+578
+00:28:58,320 --> 00:28:58,740
+Yeah.
+
+579
+00:28:59,130 --> 00:29:01,920
+And often their response
+was, well, nothing.
+
+580
+00:29:01,920 --> 00:29:02,670
+We haven't done anything.
+
+581
+00:29:03,150 --> 00:29:03,360
+What?
+
+582
+00:29:03,360 --> 00:29:05,490
+You haven't searched on
+Google for an answer.
+
+583
+00:29:05,700 --> 00:29:06,120
+No.
+
+584
+00:29:06,450 --> 00:29:09,270
+You haven't searched the
+Slack extension store?
+
+585
+00:29:09,720 --> 00:29:10,080
+No.
+
+586
+00:29:10,650 --> 00:29:16,140
+Well that, that, that's a bad
+sign if people aren't even willing
+
+587
+00:29:16,140 --> 00:29:19,470
+to do something free, which
+is just search for a solution.
+
+588
+00:29:20,985 --> 00:29:23,505
+How are you gonna convince
+them to jump over all of these
+
+589
+00:29:23,505 --> 00:29:25,785
+hurdles and actually take out
+their credit card outta their
+
+590
+00:29:25,785 --> 00:29:28,125
+wallet and pay you for something?
+
+591
+00:29:28,875 --> 00:29:33,885
+Um, and this is another thing
+I've maybe had a hard time to
+
+592
+00:29:33,885 --> 00:29:41,415
+articulate, is it it takes so
+much momentum to get someone
+
+593
+00:29:41,415 --> 00:29:46,125
+to take out their credit card,
+that you've gotta be sure
+
+594
+00:29:46,275 --> 00:29:48,255
+that what you're proposing.
+
+595
+00:29:49,140 --> 00:29:51,030
+Is something that they
+really, really want.
+
+596
+00:29:51,570 --> 00:29:54,900
+And really the only way to, to
+figure that out, the only way
+
+597
+00:29:54,900 --> 00:29:58,170
+to see that clearly is are they
+doing something about it right
+
+598
+00:29:58,170 --> 00:30:03,270
+now, and is there enough of these
+people on mass doing this, doing
+
+599
+00:30:03,270 --> 00:30:04,110
+something about it right now?
+
+600
+00:30:05,445 --> 00:30:06,675
+Ben: Yeah, I love
+that piece of advice.
+
+601
+00:30:06,675 --> 00:30:09,615
+I actually thought that it's,
+I, I think it was actually you
+
+602
+00:30:09,615 --> 00:30:13,665
+said that like, you should go to
+Twitter and just search, search if
+
+603
+00:30:13,665 --> 00:30:17,655
+people are typing something like,
+um, I don't know, like maybe even
+
+604
+00:30:17,775 --> 00:30:19,515
+using the, their grammar example.
+
+605
+00:30:19,545 --> 00:30:23,445
+Um, like search in Twitter
+for switching away from Slack
+
+606
+00:30:23,445 --> 00:30:24,315
+or switch away from Slack.
+
+607
+00:30:24,315 --> 00:30:24,405
+Mm-hmm.
+
+608
+00:30:24,945 --> 00:30:26,955
+And see how many results
+you actually find.
+
+609
+00:30:26,955 --> 00:30:28,515
+And there are a couple,
+I did that for fun.
+
+610
+00:30:28,545 --> 00:30:29,015
+Um mm-hmm.
+
+611
+00:30:29,195 --> 00:30:29,615
+Mm-hmm.
+
+612
+00:30:29,915 --> 00:30:32,445
+Justin: But yeah, and I mean,
+that's just step one, right?
+
+613
+00:30:32,445 --> 00:30:32,865
+Because it's.
+
+614
+00:30:33,085 --> 00:30:37,045
+It's pretty low friction to
+tweet, um, your disappointment
+
+615
+00:30:37,045 --> 00:30:39,235
+with something, but at
+least that's something.
+
+616
+00:30:39,565 --> 00:30:43,915
+And then, you know, you would
+actually want to talk with folks
+
+617
+00:30:43,975 --> 00:30:49,705
+and ask them questions like, okay,
+well, what caused you to switch?
+
+618
+00:30:50,515 --> 00:30:53,275
+How long did you think about
+switching before it happened?
+
+619
+00:30:53,845 --> 00:30:57,445
+Uh, what, what did you have
+to do internally in your team
+
+620
+00:30:57,745 --> 00:30:59,065
+to make that switch happen?
+
+621
+00:31:00,000 --> 00:31:01,889
+And that's where you're
+gonna get a lot of answers.
+
+622
+00:31:01,889 --> 00:31:05,250
+It's one reasons I, I worked for
+a, a project management software
+
+623
+00:31:05,250 --> 00:31:10,139
+startup, and what I didn't know
+before I joined is how hard
+
+624
+00:31:10,145 --> 00:31:13,139
+it is to get people to switch
+project management software.
+
+625
+00:31:13,709 --> 00:31:18,345
+And it's remarkably difficult
+because, Everybody has an
+
+626
+00:31:18,345 --> 00:31:19,815
+opinion on the team, right?
+
+627
+00:31:19,815 --> 00:31:19,875
+Yeah.
+
+628
+00:31:19,935 --> 00:31:22,905
+The developers want one thing,
+the marketing folks want one.
+
+629
+00:31:23,145 --> 00:31:26,085
+Another thing, the c t o
+wants one thing, like it
+
+630
+00:31:26,085 --> 00:31:27,435
+goes around and around.
+
+631
+00:31:27,435 --> 00:31:31,754
+And so you have to convince
+not just one person, but 10, 20
+
+632
+00:31:31,754 --> 00:31:35,085
+people to, to make this decision.
+
+633
+00:31:35,955 --> 00:31:39,764
+Uh, and then the, the
+other kind of bad sign.
+
+634
+00:31:40,245 --> 00:31:42,885
+So despite how difficult it
+is to get people to switch,
+
+635
+00:31:43,004 --> 00:31:44,804
+people do switch all the time.
+
+636
+00:31:45,570 --> 00:31:48,210
+And that's also a bad sign
+because they don't just switch
+
+637
+00:31:48,210 --> 00:31:49,620
+once and then they're satisfied.
+
+638
+00:31:49,620 --> 00:31:49,679
+Yeah.
+
+639
+00:31:49,679 --> 00:31:52,020
+They switch, they try Trello,
+and then they're like,
+
+640
+00:31:52,020 --> 00:31:52,980
+Nope, this didn't work.
+
+641
+00:31:53,280 --> 00:31:55,439
+And then they try Basecamp
+and then they're like,
+
+642
+00:31:55,439 --> 00:31:56,370
+oh, that doesn't work.
+
+643
+00:31:56,580 --> 00:31:57,659
+And then they try Jira.
+
+644
+00:31:57,689 --> 00:31:59,100
+Like they all end up in Jira.
+
+645
+00:31:59,159 --> 00:31:59,490
+Right.
+
+646
+00:31:59,490 --> 00:32:00,330
+That's how it works.
+
+647
+00:32:01,470 --> 00:32:01,649
+Yeah.
+
+648
+00:32:01,889 --> 00:32:08,100
+Um, and so the, the, you know, when
+you actually get into those real
+
+649
+00:32:08,100 --> 00:32:11,760
+discussions with people about what
+does the actual process look like?
+
+650
+00:32:12,480 --> 00:32:15,555
+Um, Even, you know, a market
+like project management,
+
+651
+00:32:16,305 --> 00:32:23,955
+it has its own, um, uh, it
+its own minefield, right?
+
+652
+00:32:24,014 --> 00:32:28,425
+Like there's you, there's pros
+and cons and, uh, I think for
+
+653
+00:32:28,430 --> 00:32:29,895
+Bootstrappers it's a lot harder.
+
+654
+00:32:29,895 --> 00:32:33,885
+It's why we've seen, you know,
+Basecamp got in early and so
+
+655
+00:32:33,885 --> 00:32:37,274
+they've done okay, but really,
+besides Basecamp, everybody else is
+
+656
+00:32:37,274 --> 00:32:40,095
+venture funded because you mm-hmm.
+
+657
+00:32:40,335 --> 00:32:41,565
+It just costs so much money.
+
+658
+00:32:42,090 --> 00:32:44,070
+Uh, and if you get on their
+list, like people, they
+
+659
+00:32:44,070 --> 00:32:45,870
+will, JIRA will call you.
+
+660
+00:32:46,170 --> 00:32:48,090
+They will, like, they've
+got salespeople that
+
+661
+00:32:48,090 --> 00:32:49,590
+wanna onboard you, right?
+
+662
+00:32:49,980 --> 00:32:53,250
+Because they know the only way
+to push this through the whole
+
+663
+00:32:53,430 --> 00:32:57,240
+funnel is to have a lot of kind
+of concerted effort doing it.
+
+664
+00:32:58,500 --> 00:33:05,129
+So a lot of these things, a lot of
+these decisions depend on whether
+
+665
+00:33:05,129 --> 00:33:07,110
+or not you're bootstrapping,
+whether or not you're
+
+666
+00:33:07,110 --> 00:33:08,790
+bootstrapping as a solo founder.
+
+667
+00:33:09,135 --> 00:33:13,695
+Because some of these ideas and
+markets are just harder to reach as
+
+668
+00:33:13,695 --> 00:33:15,615
+a bootstrapper or a solo founder.
+
+669
+00:33:17,415 --> 00:33:18,045
+Noah: Right.
+
+670
+00:33:18,045 --> 00:33:22,485
+So with that like in mind and
+you know, starting with the
+
+671
+00:33:22,490 --> 00:33:26,145
+market, I guess, and maybe
+some ways what sounds like
+
+672
+00:33:26,175 --> 00:33:28,935
+what you'd say is basically
+start with the market filter.
+
+673
+00:33:28,940 --> 00:33:29,075
+Mm-hmm.
+
+674
+00:33:29,160 --> 00:33:31,455
+Like that's the first filter
+that you want to put on Yes.
+
+675
+00:33:31,875 --> 00:33:32,955
+Of how to, yes.
+
+676
+00:33:33,240 --> 00:33:35,940
+Uh, basically choose what
+problem you're gonna solve,
+
+677
+00:33:35,940 --> 00:33:37,050
+how you're gonna do it.
+
+678
+00:33:37,470 --> 00:33:37,620
+Mm-hmm.
+
+679
+00:33:37,860 --> 00:33:44,130
+Um, how do you, like, it
+seems like, you know, you
+
+680
+00:33:44,135 --> 00:33:46,230
+start talking to customers,
+you start talking to users.
+
+681
+00:33:46,230 --> 00:33:49,800
+It takes a while before you can
+really know what's the right
+
+682
+00:33:49,805 --> 00:33:53,940
+approach, what's the right solution
+to actually build, what do you
+
+683
+00:33:53,940 --> 00:33:58,920
+do if that solution ends up being
+something that isn't something
+
+684
+00:33:58,920 --> 00:34:00,210
+that a bootstrapper can do?
+
+685
+00:34:00,215 --> 00:34:00,270
+Mm-hmm.
+
+686
+00:34:00,350 --> 00:34:00,710
+Or it's.
+
+687
+00:34:01,215 --> 00:34:03,615
+Or it's, or, or maybe it's
+a solution that doesn't
+
+688
+00:34:03,615 --> 00:34:04,965
+use your strengths.
+
+689
+00:34:04,965 --> 00:34:05,054
+Mm-hmm.
+
+690
+00:34:05,294 --> 00:34:07,814
+You know, as a, as a
+founder, it doesn't use
+
+691
+00:34:07,814 --> 00:34:09,315
+your skills, your abilities.
+
+692
+00:34:10,094 --> 00:34:15,074
+Um, so how do you handle that when,
+I guess, starting with a market?
+
+693
+00:34:15,134 --> 00:34:15,225
+Mm-hmm.
+
+694
+00:34:15,645 --> 00:34:18,764
+Because, yeah, I mean, I guess
+it, in some ways it kind of
+
+695
+00:34:18,764 --> 00:34:21,465
+goes back to there's just all
+these filters and in some ways
+
+696
+00:34:21,465 --> 00:34:24,014
+all these things have to align,
+which is obviously very hard.
+
+697
+00:34:24,045 --> 00:34:24,375
+Justin: Yeah.
+
+698
+00:34:24,554 --> 00:34:27,344
+I mean, I think that's
+just the, this is.
+
+699
+00:34:29,024 --> 00:34:31,964
+Another unpopular tweet of mine.
+
+700
+00:34:31,964 --> 00:34:37,034
+But my, it is just, and I had to, I
+had to admit this before I had any
+
+701
+00:34:37,034 --> 00:34:41,625
+success, but what you kind of have
+to admit in some way on one side
+
+702
+00:34:41,625 --> 00:34:43,935
+is we're not all gonna make it.
+
+703
+00:34:46,694 --> 00:34:48,944
+And a lot of people
+don't like hearing that.
+
+704
+00:34:49,335 --> 00:34:50,444
+Um, but mm-hmm.
+
+705
+00:34:50,714 --> 00:34:52,125
+We're not all gonna make it there.
+
+706
+00:34:52,364 --> 00:34:57,435
+There's no way that every single
+aspiring entrepreneur in the world,
+
+707
+00:34:57,960 --> 00:35:01,470
+Can apply all of these filters
+and come out on the other side.
+
+708
+00:35:02,460 --> 00:35:06,899
+And by the way, even you come
+out on the other side and you
+
+709
+00:35:06,899 --> 00:35:09,419
+know, like, I have a business
+now that's doing pretty well.
+
+710
+00:35:10,350 --> 00:35:12,089
+It could disappear tomorrow.
+
+711
+00:35:12,899 --> 00:35:16,049
+Every day I wake up
+going, well, maybe today's
+
+712
+00:35:16,080 --> 00:35:17,310
+the day it disappears.
+
+713
+00:35:17,370 --> 00:35:17,730
+Right?
+
+714
+00:35:18,480 --> 00:35:19,680
+Because markets change.
+
+715
+00:35:19,680 --> 00:35:19,770
+Mm-hmm.
+
+716
+00:35:20,700 --> 00:35:22,109
+And they can change really fast.
+
+717
+00:35:23,069 --> 00:35:25,770
+And so there's, there's no.
+
+718
+00:35:26,670 --> 00:35:29,820
+There's nothing really romantic
+about starting a business.
+
+719
+00:35:29,850 --> 00:35:34,110
+It's just there's all sorts
+of things that have to align
+
+720
+00:35:34,110 --> 00:35:40,020
+for it to work, and, um, a lot
+of us aren't gonna make it.
+
+721
+00:35:42,290 --> 00:35:45,600
+So, so you have to hold, you
+have to hold that on one side.
+
+722
+00:35:45,900 --> 00:35:47,730
+Well, at the same time,
+on the other side, these
+
+723
+00:35:47,730 --> 00:35:49,020
+things are intention.
+
+724
+00:35:50,220 --> 00:35:52,410
+On the other side, you have
+to be super optimistic that
+
+725
+00:35:52,415 --> 00:35:53,250
+you're going to make it.
+
+726
+00:35:53,865 --> 00:35:57,465
+And that you're just gonna
+keep trying because, uh, the,
+
+727
+00:35:57,585 --> 00:35:59,865
+the other thing I've seen
+anecdotally, I don't know if this
+
+728
+00:35:59,865 --> 00:36:04,185
+is scientific, but the people who
+keep trying, who keep working at
+
+729
+00:36:04,185 --> 00:36:08,535
+it, who keep pushing that ball
+forward, many of them do make it.
+
+730
+00:36:09,105 --> 00:36:13,395
+And so there's a, there's a little
+bit of how long can you last?
+
+731
+00:36:13,395 --> 00:36:14,565
+How long can you try?
+
+732
+00:36:15,015 --> 00:36:15,255
+Mm-hmm.
+
+733
+00:36:15,615 --> 00:36:18,855
+Um, it's why a lot of successful
+entrepreneurs actually tend
+
+734
+00:36:18,855 --> 00:36:20,745
+to be statistically older.
+
+735
+00:36:21,585 --> 00:36:24,525
+Because by that point in
+your life, you've had a
+
+736
+00:36:24,525 --> 00:36:26,265
+bunch of industry experience.
+
+737
+00:36:26,295 --> 00:36:29,355
+So you know what an industry is.
+
+738
+00:36:29,355 --> 00:36:31,815
+You know, you've got connections
+in that industry, you've
+
+739
+00:36:31,820 --> 00:36:34,725
+seen the pain points, you've
+seen how they spend money.
+
+740
+00:36:35,535 --> 00:36:38,925
+You, you know, there's all of this
+accrued experience that ends up
+
+741
+00:36:38,925 --> 00:36:48,045
+being helpful and um, you know,
+it time is kind of what allows
+
+742
+00:36:48,045 --> 00:36:49,305
+you to keep pushing, right.
+
+743
+00:36:49,495 --> 00:36:49,615
+I.
+
+744
+00:36:49,615 --> 00:36:52,335
+So it's not saying you
+shouldn't try in your twenties,
+
+745
+00:36:53,115 --> 00:36:55,995
+but because you could, it
+could all align, right?
+
+746
+00:36:55,995 --> 00:36:59,265
+My friend Nathan Barry is
+not even 30 yet and has
+
+747
+00:36:59,265 --> 00:37:02,475
+already achieved more as a
+founder than a lot of folks.
+
+748
+00:37:03,075 --> 00:37:08,415
+Um, but I think you have to have
+this idea of, well, it might not
+
+749
+00:37:08,415 --> 00:37:11,865
+happen, but I'm gonna try and
+this might be a 10 year project or
+
+750
+00:37:11,865 --> 00:37:13,455
+this might be a 20 year project.
+
+751
+00:37:13,964 --> 00:37:18,075
+And, uh, you almost have
+to be okay with that.
+
+752
+00:37:18,105 --> 00:37:22,500
+Like, This just might take time
+for everything to align and
+
+753
+00:37:22,740 --> 00:37:26,310
+the whole time I'm going to
+have to be working as if this
+
+754
+00:37:26,310 --> 00:37:31,319
+will eventually work out and
+not just doing the same thing.
+
+755
+00:37:31,350 --> 00:37:34,049
+Putting yourself in new
+circles, getting outside
+
+756
+00:37:34,049 --> 00:37:35,160
+of your comfort zone.
+
+757
+00:37:36,089 --> 00:37:40,710
+I've described this before as,
+uh, is it, uh, command and conquer
+
+758
+00:37:40,714 --> 00:37:43,620
+that uses fog of war where you're
+just on a map and everything's
+
+759
+00:37:43,620 --> 00:37:44,850
+dark and you're exploring it?
+
+760
+00:37:44,879 --> 00:37:45,270
+Yeah.
+
+761
+00:37:45,270 --> 00:37:45,330
+Yeah.
+
+762
+00:37:45,900 --> 00:37:49,950
+So if you think about that as a
+metaphor, like when you start out,
+
+763
+00:37:49,950 --> 00:37:53,160
+you're just in that map and all
+you can see is around you, right?
+
+764
+00:37:53,730 --> 00:37:55,770
+And as you explore more
+of the map, more and more
+
+765
+00:37:55,770 --> 00:37:57,750
+parts become illuminated.
+
+766
+00:37:58,770 --> 00:38:01,590
+And every once in a while you'll
+end up in a spot of the map
+
+767
+00:38:01,595 --> 00:38:04,049
+where things just happen, right?
+
+768
+00:38:04,080 --> 00:38:07,710
+Like you get a bunch of
+bounty or you run into a
+
+769
+00:38:07,710 --> 00:38:09,240
+bunch of enemies or whatever.
+
+770
+00:38:09,870 --> 00:38:12,180
+And it's kind of like that.
+
+771
+00:38:12,210 --> 00:38:14,819
+Like you're, you're walking around.
+
+772
+00:38:15,750 --> 00:38:21,030
+For me, for example, I was walking
+around and I just happened to run
+
+773
+00:38:21,030 --> 00:38:27,450
+into Adam Wain, who I had no idea
+who he was or anything about him,
+
+774
+00:38:27,780 --> 00:38:31,290
+but he ended up being quite an
+influential person in the Laravel
+
+775
+00:38:31,290 --> 00:38:36,390
+community, and that was just me
+wandering around the map and hit
+
+776
+00:38:36,395 --> 00:38:37,890
+him wandering around the map too.
+
+777
+00:38:37,895 --> 00:38:38,940
+And then us.
+
+778
+00:38:39,615 --> 00:38:44,384
+Uh, meeting each other and once,
+once I could see, like I've learned
+
+779
+00:38:44,384 --> 00:38:50,115
+tons about, a lot of my thoughts
+about like choosing a market first
+
+780
+00:38:50,174 --> 00:38:56,265
+have been because of the influence
+of the Laravel community and
+
+781
+00:38:56,325 --> 00:39:01,605
+looking at Taylor and Adam Wain,
+and Steve Stroger and Jeffrey
+
+782
+00:39:01,605 --> 00:39:06,045
+Way build these crazy businesses
+because in my little world
+
+783
+00:39:06,045 --> 00:39:08,565
+before I met them, you know, I.
+
+784
+00:39:08,940 --> 00:39:10,380
+This is the way things were done.
+
+785
+00:39:10,410 --> 00:39:12,090
+People like us do things like this.
+
+786
+00:39:12,690 --> 00:39:15,900
+And then I got over into that
+area of the map and it was like
+
+787
+00:39:15,900 --> 00:39:19,470
+this whole new world opened
+up that I'd never seen before.
+
+788
+00:39:20,040 --> 00:39:23,190
+And without that world opening
+up, I don't think I would've,
+
+789
+00:39:23,950 --> 00:39:28,140
+um, well, I, I don't think a
+lot of things would've happened.
+
+790
+00:39:28,950 --> 00:39:35,009
+And so there's clearly you
+have to kind of be always
+
+791
+00:39:35,015 --> 00:39:37,920
+doing things, trying things,
+getting outta your comfort zone.
+
+792
+00:39:38,384 --> 00:39:39,525
+Meeting new people.
+
+793
+00:39:39,975 --> 00:39:44,835
+And I think the advice I
+would give my kids is just to
+
+794
+00:39:44,835 --> 00:39:48,615
+explore as much of the map as
+you can, as early as you can.
+
+795
+00:39:49,935 --> 00:39:50,085
+Yeah.
+
+796
+00:39:50,475 --> 00:39:52,515
+'cause the, the more
+exploration you do.
+
+797
+00:39:52,515 --> 00:39:55,335
+I, I think I stayed
+too local too long.
+
+798
+00:39:55,875 --> 00:39:59,325
+You know, I grew up in this small
+little farming town in Alberta and
+
+799
+00:39:59,325 --> 00:40:03,435
+then the big city was Edmonton and
+I just spent too much time there.
+
+800
+00:40:04,005 --> 00:40:06,825
+And then, you know, like the
+first time I flew into New
+
+801
+00:40:06,825 --> 00:40:09,465
+York, I was like, holy shit.
+
+802
+00:40:09,465 --> 00:40:12,375
+Like there's a lot of people here.
+
+803
+00:40:12,375 --> 00:40:13,635
+There's a lot of money here.
+
+804
+00:40:13,635 --> 00:40:13,636
+Yeah.
+
+805
+00:40:13,641 --> 00:40:16,455
+There's a lot of businesses
+here that I've never even
+
+806
+00:40:16,755 --> 00:40:21,225
+imagined before and it kind of
+expanded my whole worldview.
+
+807
+00:40:22,155 --> 00:40:25,305
+And unless you're doing that work
+to kind of walk around the map
+
+808
+00:40:25,310 --> 00:40:30,405
+and discover new, new areas, um,
+yeah, I think I, I think it'll be
+
+809
+00:40:30,405 --> 00:40:36,375
+harder to, you know, to, to find
+those markets, to find those ideas.
+
+810
+00:40:36,435 --> 00:40:36,825
+Yeah.
+
+811
+00:40:38,805 --> 00:40:41,535
+Noah: So, uh, I want to go back
+a little bit to something you
+
+812
+00:40:41,535 --> 00:40:46,335
+said, you know, kind of talking
+about how, um, basically this,
+
+813
+00:40:46,335 --> 00:40:48,015
+this might not work for all of us.
+
+814
+00:40:48,015 --> 00:40:48,105
+Mm-hmm.
+
+815
+00:40:48,350 --> 00:40:50,025
+And it's very hard and.
+
+816
+00:40:50,520 --> 00:40:53,460
+Um, yeah, we all might not make
+it through, and that's just
+
+817
+00:40:53,460 --> 00:40:55,740
+kind of the, the truth of it.
+
+818
+00:40:55,740 --> 00:40:55,800
+Yeah.
+
+819
+00:40:56,130 --> 00:40:59,340
+So like how do you, and I'm just
+curious about your situation,
+
+820
+00:40:59,340 --> 00:41:04,530
+like how do you go to your wife
+with that and get her on board
+
+821
+00:41:04,530 --> 00:41:08,270
+for this whole journey of what
+we're trying to do, because.
+
+822
+00:41:09,540 --> 00:41:11,040
+So that's, I'm just curious
+'cause that's definitely
+
+823
+00:41:11,040 --> 00:41:14,550
+something I know me and my
+wife struggle with, um, a lot.
+
+824
+00:41:14,550 --> 00:41:14,830
+Mm-hmm.
+
+825
+00:41:14,910 --> 00:41:17,670
+Just with, with my last
+thing and like, it is hard.
+
+826
+00:41:17,670 --> 00:41:20,490
+So it's like it's, you know,
+you're, it's not just you going
+
+827
+00:41:20,490 --> 00:41:22,860
+on this journey, you're bringing
+your whole family with you.
+
+828
+00:41:22,980 --> 00:41:23,340
+Yeah.
+
+829
+00:41:23,730 --> 00:41:28,230
+Justin: I mean, again, you probably
+don't wanna look at the statistics.
+
+830
+00:41:28,515 --> 00:41:30,855
+The, the statistics are pretty bad.
+
+831
+00:41:31,065 --> 00:41:31,904
+Ben: Just don't look.
+
+832
+00:41:31,964 --> 00:41:34,665
+So this podcast has to be
+titled Unpopular Opinions.
+
+833
+00:41:34,665 --> 00:41:36,015
+Justin: Unpopular
+Opinions and Jokes.
+
+834
+00:41:37,004 --> 00:41:40,035
+I mean, it's just like, if
+you want the reality, the
+
+835
+00:41:40,035 --> 00:41:42,045
+reality's not good statistically.
+
+836
+00:41:42,825 --> 00:41:49,185
+Um, I mean, clearly I think,
+I think all entrepreneurs have
+
+837
+00:41:49,185 --> 00:41:52,725
+this feeling that maybe they can
+do it better than the next guy.
+
+838
+00:41:53,775 --> 00:41:57,225
+And because statistically,
+you know, millions of people
+
+839
+00:41:57,225 --> 00:41:58,075
+start businesses, but.
+
+840
+00:41:59,055 --> 00:42:02,415
+Uh, those people are in all sorts
+of different places, have all
+
+841
+00:42:02,415 --> 00:42:06,165
+sorts of different leverage, have
+all sorts of different privilege.
+
+842
+00:42:06,885 --> 00:42:12,195
+You know, there's, there's all
+these factors that go into, you
+
+843
+00:42:12,195 --> 00:42:15,095
+know, why a person becomes a
+successor, not, and I think every
+
+844
+00:42:15,095 --> 00:42:19,575
+entrepreneur feels like they've
+got some secret sauce that'll make
+
+845
+00:42:19,575 --> 00:42:21,655
+them better than the next guy.
+
+846
+00:42:22,275 --> 00:42:22,655
+Oh, yeah.
+
+847
+00:42:22,875 --> 00:42:28,890
+But I mean, In my early twenties,
+I started a couple retail shops
+
+848
+00:42:28,950 --> 00:42:32,730
+that ended up losing a lot
+of money, and that was hard
+
+849
+00:42:33,030 --> 00:42:35,670
+to recover from as a family.
+
+850
+00:42:36,720 --> 00:42:37,490
+And so mm-hmm.
+
+851
+00:42:38,490 --> 00:42:41,850
+That, that is just part of it,
+like if you're gonna be on that.
+
+852
+00:42:42,360 --> 00:42:44,850
+So that was almost 20 years ago.
+
+853
+00:42:45,900 --> 00:42:52,080
+And, uh, So now I'm at a place
+where, you know, maybe I've
+
+854
+00:42:52,080 --> 00:42:54,210
+learned enough lessons and
+I've made enough connections
+
+855
+00:42:54,210 --> 00:42:57,930
+that things are happening,
+but that's a long journey.
+
+856
+00:42:57,960 --> 00:43:02,760
+That's 10, 20 years
+of, of, uh, work.
+
+857
+00:43:03,810 --> 00:43:09,300
+And so, yeah, I mean, I think
+that's something you gotta consider
+
+858
+00:43:09,480 --> 00:43:11,190
+with kind of, with everything.
+
+859
+00:43:12,030 --> 00:43:15,330
+Um, I, I don't think you should
+kill yourself in the process.
+
+860
+00:43:15,570 --> 00:43:15,930
+I think.
+
+861
+00:43:16,545 --> 00:43:19,515
+I think I worked probably
+too hard a lot of those
+
+862
+00:43:19,515 --> 00:43:20,505
+years when I didn't need to.
+
+863
+00:43:20,510 --> 00:43:24,225
+It was just wasted cycles
+trying to make something happen.
+
+864
+00:43:24,255 --> 00:43:28,155
+You know, you're, you're, it's
+far better for you to book a
+
+865
+00:43:28,155 --> 00:43:31,065
+ticket to a conference that
+you've never been to than to
+
+866
+00:43:31,065 --> 00:43:33,615
+work 60, 70, 80 hours a week.
+
+867
+00:43:34,605 --> 00:43:35,185
+Um mm-hmm.
+
+868
+00:43:35,685 --> 00:43:40,035
+Because at least for me, the,
+the biggest jumps forward
+
+869
+00:43:40,035 --> 00:43:43,575
+have been because I met
+somebody outside of my circle.
+
+870
+00:43:44,100 --> 00:43:49,950
+I met John Buddha, the, my
+co-founder in 2014 at this kind
+
+871
+00:43:49,950 --> 00:43:54,900
+of experimental technology art
+design festival called xo xo.
+
+872
+00:43:55,620 --> 00:43:59,910
+And you know, I wasn't gonna
+go initially, I had to kind of
+
+873
+00:43:59,910 --> 00:44:02,820
+push myself to get outta the
+house and, and actually go.
+
+874
+00:44:03,960 --> 00:44:08,040
+So yeah, I, I don't think
+there's any easy answers there.
+
+875
+00:44:08,460 --> 00:44:11,280
+I think you can stair
+step your way up.
+
+876
+00:44:11,460 --> 00:44:11,710
+You can.
+
+877
+00:44:12,765 --> 00:44:17,385
+Um, do something small on the side
+and then see if that evolves into
+
+878
+00:44:17,385 --> 00:44:19,905
+something bigger and then something
+bigger and then something bigger.
+
+879
+00:44:21,435 --> 00:44:24,555
+Nathan Barry just wrote a piece
+on this that I don't fully
+
+880
+00:44:24,795 --> 00:44:28,665
+like or agree with, but, um,
+maybe I don't like it just
+
+881
+00:44:28,665 --> 00:44:30,135
+because it's the hard truth.
+
+882
+00:44:30,225 --> 00:44:35,625
+Uh, he talks about a series
+of ladders and you know,
+
+883
+00:44:35,625 --> 00:44:38,355
+the first ladder is just
+like trading time for money.
+
+884
+00:44:38,940 --> 00:44:41,339
+And then you kind of work
+up that ladder, right?
+
+885
+00:44:41,339 --> 00:44:44,490
+You can work yourself up from
+making minimum wage up to
+
+886
+00:44:44,520 --> 00:44:47,700
+making more money per hour,
+but then you go to the next
+
+887
+00:44:47,700 --> 00:44:52,620
+ladder, which has higher earning
+potential, but it's harder.
+
+888
+00:44:52,770 --> 00:44:55,410
+It's just like, okay, now you've
+got to, you're trading time
+
+889
+00:44:55,415 --> 00:44:59,250
+for money, but it's, it's more
+on your terms like consulting.
+
+890
+00:44:59,250 --> 00:45:04,380
+And so then you work your way
+up that that level, uh, and
+
+891
+00:45:04,380 --> 00:45:05,549
+then there's another ladder.
+
+892
+00:45:05,835 --> 00:45:08,685
+And, you know, these keep
+going and the difficulty with
+
+893
+00:45:08,685 --> 00:45:15,915
+each ladder goes up and, but
+your, your potential, in his
+
+894
+00:45:15,915 --> 00:45:18,105
+case, he, he's just talking
+about income earning potential.
+
+895
+00:45:18,105 --> 00:45:19,045
+Your income earning mm-hmm.
+
+896
+00:45:19,130 --> 00:45:20,145
+Potential goes up as well.
+
+897
+00:45:20,985 --> 00:45:24,525
+Um, and it is a little bit
+of a stair step, right?
+
+898
+00:45:24,525 --> 00:45:27,105
+Like your moving your way up here
+and then you're like, oh, well
+
+899
+00:45:27,435 --> 00:45:28,695
+there's opportunity over here.
+
+900
+00:45:28,695 --> 00:45:32,025
+So then you might take a few
+steps back to start here and
+
+901
+00:45:32,025 --> 00:45:33,015
+then build yourself up here.
+
+902
+00:45:33,705 --> 00:45:35,625
+And then you look at the
+next slide, you go, there's
+
+903
+00:45:35,625 --> 00:45:36,705
+more opportunity over there.
+
+904
+00:45:36,705 --> 00:45:39,194
+So then you go back down
+and then work your way up.
+
+905
+00:45:39,495 --> 00:45:44,535
+Um, it, yeah, that's all possible.
+
+906
+00:45:46,365 --> 00:45:52,275
+Definitely helps if you have, uh,
+in terms of like, uh, having a,
+
+907
+00:45:52,485 --> 00:45:55,815
+a decent life, it helps if you
+have a lot more cash saved up.
+
+908
+00:45:56,345 --> 00:45:56,765
+Mm-hmm.
+
+909
+00:45:56,895 --> 00:46:00,165
+The more cash you have saved
+up, the less stress you have.
+
+910
+00:46:01,095 --> 00:46:03,825
+Um, but that's not always
+possible either, right?
+
+911
+00:46:03,884 --> 00:46:10,154
+So the, the, uh, the only way I can
+think of to alleviate the stress
+
+912
+00:46:11,265 --> 00:46:16,875
+is to have very low cost of living
+and, or a lot of money saved up.
+
+913
+00:46:19,634 --> 00:46:19,755
+Yeah.
+
+914
+00:46:19,759 --> 00:46:23,325
+Money that you can risk that you
+wouldn't feel bad about losing.
+
+915
+00:46:25,815 --> 00:46:28,845
+So, and you can even hear
+this in John and I's podcast.
+
+916
+00:46:29,370 --> 00:46:34,980
+You know, um, he was working for
+Cards Against Humanity when we
+
+917
+00:46:34,980 --> 00:46:39,029
+started this, and he also had
+more money saved up than I I did.
+
+918
+00:46:39,509 --> 00:46:43,020
+And so my stress level
+when we weren't quite yet
+
+919
+00:46:43,020 --> 00:46:45,090
+full-time yet was a lot higher.
+
+920
+00:46:45,660 --> 00:46:46,890
+I'm just like, oh God.
+
+921
+00:46:46,895 --> 00:46:48,240
+Like do we gotta take investment?
+
+922
+00:46:48,270 --> 00:46:52,470
+Do we gotta try to add three
+or four more things on top
+
+923
+00:46:52,470 --> 00:46:53,640
+of this to make this work?
+
+924
+00:46:53,940 --> 00:46:59,070
+You can see how like desperation,
+um, Affects your actions.
+
+925
+00:46:59,070 --> 00:47:01,620
+And a lot of businesses you'll
+see do this, like one thing's
+
+926
+00:47:01,620 --> 00:47:02,850
+not working quite enough.
+
+927
+00:47:02,850 --> 00:47:05,610
+So then they add another
+thing to hopefully bring up
+
+928
+00:47:05,610 --> 00:47:07,680
+in more income, and that's
+not quite bringing enough.
+
+929
+00:47:07,685 --> 00:47:09,600
+So they add another thing and
+they just keep adding more
+
+930
+00:47:09,605 --> 00:47:12,210
+and more stuff and more and
+more stress to their lives.
+
+931
+00:47:13,050 --> 00:47:16,590
+Uh, but yeah, for, for
+John, yeah, it's easy.
+
+932
+00:47:16,590 --> 00:47:23,160
+He's got no dependence and uh,
+his cost of living's low and he
+
+933
+00:47:23,400 --> 00:47:24,630
+had a bunch of money saved up.
+
+934
+00:47:25,065 --> 00:47:26,805
+It's like for him.
+
+935
+00:47:26,835 --> 00:47:27,135
+Yeah.
+
+936
+00:47:27,140 --> 00:47:28,065
+This isn't, that's easier.
+
+937
+00:47:28,095 --> 00:47:29,355
+This isn't make it or break it.
+
+938
+00:47:29,355 --> 00:47:33,285
+It's like, no, I can just, if
+this doesn't work, yeah, I'm fine.
+
+939
+00:47:34,155 --> 00:47:37,905
+So that if you wanna make it
+easier, I think lower your
+
+940
+00:47:37,905 --> 00:47:43,185
+expenses and save a bunch of
+money or, Get someone to give
+
+941
+00:47:43,185 --> 00:47:47,355
+you a bunch of money or rob a
+bank, a rob a bank, or whatever.
+
+942
+00:47:49,035 --> 00:47:49,425
+Noah: That goes
+
+943
+00:47:49,425 --> 00:47:50,145
+Justin: easy route.
+
+944
+00:47:50,565 --> 00:47:54,015
+I mean, this is why privilege
+plays such a big part in business.
+
+945
+00:47:54,135 --> 00:47:55,095
+Like some people do.
+
+946
+00:47:55,155 --> 00:47:57,165
+They, they get a, they
+have a big trust fund and
+
+947
+00:47:57,165 --> 00:47:58,125
+they get a bunch of money.
+
+948
+00:47:58,755 --> 00:47:58,785
+I.
+
+949
+00:47:59,009 --> 00:47:59,940
+It does help.
+
+950
+00:48:00,600 --> 00:48:00,930
+Yeah.
+
+951
+00:48:00,960 --> 00:48:01,080
+I
+
+952
+00:48:01,080 --> 00:48:01,290
+Ben: agree.
+
+953
+00:48:01,680 --> 00:48:02,279
+Noah: Yeah.
+
+954
+00:48:02,670 --> 00:48:03,660
+Yeah, that makes sense.
+
+955
+00:48:04,710 --> 00:48:08,339
+So maybe as a last question,
+we could end with maybe you've
+
+956
+00:48:08,339 --> 00:48:11,700
+heard, uh, the, how I built
+this podcast, they always end
+
+957
+00:48:11,705 --> 00:48:12,839
+with an interesting question.
+
+958
+00:48:12,839 --> 00:48:12,930
+Mm-hmm.
+
+959
+00:48:13,230 --> 00:48:16,140
+Which is, so for you, I'm just
+interested in hearing as well,
+
+960
+00:48:16,140 --> 00:48:19,690
+like, With transistor, like
+where you guys gotten so far,
+
+961
+00:48:19,690 --> 00:48:23,140
+how much do you think of that
+was luck and how much of it
+
+962
+00:48:23,140 --> 00:48:27,670
+was, you know, you and John's
+skill and talents and hard work?
+
+963
+00:48:27,730 --> 00:48:32,680
+Justin: It's definitely the
+accumulation of a lifetime
+
+964
+00:48:33,070 --> 00:48:39,010
+of experience and I think, I
+think your attitude matters
+
+965
+00:48:39,010 --> 00:48:40,810
+a lot in that, right?
+
+966
+00:48:40,840 --> 00:48:42,880
+Like are you gonna
+keep going out and.
+
+967
+00:48:43,980 --> 00:48:44,879
+Trying things.
+
+968
+00:48:44,879 --> 00:48:47,669
+Are you gonna keep going out
+and trying to push the envelope?
+
+969
+00:48:47,700 --> 00:48:51,120
+Are you gonna keep going out
+and put things out in public?
+
+970
+00:48:52,049 --> 00:48:54,509
+Are you going to go
+out and meet people?
+
+971
+00:48:54,509 --> 00:48:58,740
+Like if, if, if you were gonna
+split test my life and he put
+
+972
+00:48:58,745 --> 00:49:01,740
+one Justin in his room and he
+never leaves and all he does is
+
+973
+00:49:01,740 --> 00:49:03,450
+play Sonic the Hedgehog forever.
+
+974
+00:49:05,100 --> 00:49:08,009
+And then you have another
+version where he's like, always.
+
+975
+00:49:10,200 --> 00:49:13,050
+Going out and trying to figure
+things out and trying to build
+
+976
+00:49:13,050 --> 00:49:15,720
+things and trying to write and
+trying to meet this person.
+
+977
+00:49:15,720 --> 00:49:22,740
+And for sure in that AB test,
+you know, Justin b uh, wins.
+
+978
+00:49:22,860 --> 00:49:25,920
+There's, I don't think
+it's, that's a, it's not
+
+979
+00:49:25,920 --> 00:49:27,030
+too difficult to see that.
+
+980
+00:49:27,030 --> 00:49:36,734
+So yeah, there's a lot of luck
+in where I was born and, um, But
+
+981
+00:49:36,734 --> 00:49:42,194
+you're the, the, the, the influence
+of luck starts to go down a lot.
+
+982
+00:49:43,035 --> 00:49:46,545
+Like the, the, the, the
+influence of blind luck.
+
+983
+00:49:46,815 --> 00:49:51,345
+Like just like where you were
+born, like what, what year
+
+984
+00:49:51,345 --> 00:49:54,345
+and country and location and
+parents you were born to.
+
+985
+00:49:54,884 --> 00:49:59,325
+After that part, you make your
+most of your luck just by whatever
+
+986
+00:49:59,330 --> 00:50:01,005
+attitude you have every day.
+
+987
+00:50:02,990 --> 00:50:03,410
+Mm-hmm.
+
+988
+00:50:03,750 --> 00:50:06,450
+There's still some privilege
+that comes with where you were
+
+989
+00:50:06,450 --> 00:50:11,040
+born, but most of that kind of
+built in luck is already happened
+
+990
+00:50:11,040 --> 00:50:12,030
+by the time you were born.
+
+991
+00:50:14,190 --> 00:50:14,640
+Noah: Yeah.
+
+992
+00:50:15,810 --> 00:50:16,200
+Cool.
+
+993
+00:50:16,200 --> 00:50:18,330
+Well, thanks Justin for coming on.
+
+994
+00:50:18,335 --> 00:50:20,040
+That was a good conversation.
+
+995
+00:50:20,040 --> 00:50:22,320
+Very helpful for both of
+us and hopefully, I'm sure
+
+996
+00:50:22,320 --> 00:50:23,190
+for our listeners as well.
+
+997
+00:50:23,190 --> 00:50:23,730
+Hopefully I didn't bum
+
+998
+00:50:23,730 --> 00:50:24,510
+Justin: you out too much.
+
+999
+00:50:26,015 --> 00:50:26,235
+No,
+
+1000
+00:50:26,655 --> 00:50:28,755
+Noah: I mean, sometimes you
+need a little of that, get
+
+1001
+00:50:28,755 --> 00:50:30,765
+you back, back to the truth.
+
+1002
+00:50:32,175 --> 00:50:34,215
+Um, so yeah, thanks Justin.
+
+1003
+00:50:34,220 --> 00:50:37,695
+And we will, uh, see you
+guys in another episode
+
+1004
+00:50:38,655 --> 00:50:40,215
+Ben: and we'll put
+everything in the show notes.
+
+1005
+00:50:41,685 --> 00:50:42,285
+All right.
+
+1006
+00:50:42,675 --> 00:50:43,035
+Bye.
+
+1007
+00:50:43,155 --> 00:50:43,425
+See you.
+

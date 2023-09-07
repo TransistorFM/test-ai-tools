@@ -1,0 +1,107 @@
+## Titles
+
+"Exploring the Challenges of Podcasting and Finding New Ideas"
+"The Importance of Taking Breaks and Finding Inspiration"
+"From Building an Audience to Shifting Perspectives: A Podcasting Journey"
+"Optimizing Life Choices and Making Connections"
+"Connecting with Listeners and Bringing the Podcasting Community Together"
+
+## Summary 1
+
+In this episode of Product Journey, hosts Noah and Ben are joined by Justin Jackson, co-founder of Transistor and founder of Megamaker. They discuss the excitement of finally connecting with someone they've only heard on the podcast, and the surprises that can come with meeting people in person. They also touch on the expectations we form based on someone's voice, and how it may not always match reality. Tune in to hear more about their conversation and insights.
+
+## Summary 2
+
+In this episode of Product Journey, Noah and Ben are joined by Justin Jackson, co-founder of Transistor and founder of Megamaker. They discuss their excitement about finally connecting and talking after being avid listeners of each other's podcasts. They also touch on the surprise of meeting someone in person after hearing their voice on a podcast. Justin shares his experience of being shorter than expected when meeting people in real life. Overall, it's a fun and insightful conversation between podcast enthusiasts.
+
+## Summary 2
+
+In this episode of Product Journey, Noah and Ben are joined by Justin Jackson, co-founder of Transistor and founder of Megamaker. They discuss the excitement of finally connecting with someone you only hear on a podcast and the surprises that come with meeting people in person. Justin also shares his experience as a podcaster since 2012 and the common misconception people have about his height. Tune in to hear this engaging conversation about the world of podcasting and the human connections it creates.
+
+## Timestamps
+
+[00:03:22] Starting with a market.
+
+[00:07:16] What makes a good audience?
+
+[00:10:28] Laravel's impact on developers.
+
+[00:17:20] Shifting away from building an audience.
+
+[00:21:03] Niche vs. big market.
+
+[00:25:03] Prior market for PayPal.
+
+[00:29:01] People not searching for solutions.
+
+[00:34:23] Not all entrepreneurs will make it.
+
+[00:37:09] Long-term commitment and persistence.
+
+[00:44:21] Stair-stepping your way to success.
+
+[00:45:46] Alleviating financial stress.
+
+[00:50:21] The truth.
+
+## Detailed Synopsis
+
+In this episode, the speaker discusses the importance of expanding one's network and the potential for personal and professional growth that comes from meeting new people outside of our immediate circle. They share a personal example of how attending a technology art design festival called XOXO led to a life-changing encounter with their future co-founder, John Buddha. Initially hesitant to attend, the speaker took a leap of faith and it turned out to be a pivotal moment that significantly impacted their career.
+
+The speaker emphasizes the need to step out of our comfort zones and connect with individuals who are not part of our immediate circle. They highlight that while working long hours and putting in excessive effort may have its merits, it is often more effective to make connections with new people. The speaker suggests that booking a ticket to a conference or event outside of our usual circle can bring fresh perspectives, opportunities, and collaborations that can propel our careers or businesses forward.
+
+Furthermore, the speaker stresses the importance of being open-minded and receptive to new experiences. They acknowledge that breaking out of our routine or familiar surroundings can be challenging, but it is necessary for personal and professional growth. By attending conferences, festivals, or events related to our field or interests, we expose ourselves to a broader network of individuals who may offer different experiences, skills, and perspectives. These new connections can provide valuable insights, advice, and opportunities that we may not encounter within our existing circle.
+
+Overall, this episode emphasizes that meeting new people outside of our circle can lead to significant opportunities and growth. It encourages listeners to step out of their comfort zones, attend events, and make connections with individuals who can bring fresh perspectives and collaborations to their lives and careers.
+
+In this episode, the host and guests delve into the importance of the connections we make and the impact we have on the world in relation to our success. They emphasize that networking and building relationships with others are crucial for achieving our goals. By connecting with others, we establish a support network and open doors to potential collaborations or assistance in the future. The host highlights that knowing people and being known by others can make it easier to ask for favors or seek help when needed.
+
+Additionally, the episode underscores the significance of the content we produce and share with the world. The guests discuss various ways to make an impact, such as podcasting, blogging, public speaking, and engaging in open-source projects. They suggest that by sharing our knowledge, experiences, and expertise, we can attract attention and gain recognition. The quality and value of what we put out into the world can help establish our credibility and reputation, ultimately contributing to our success.
+
+However, the episode also acknowledges that having an audience or followers does not guarantee business success. The host shares an example of someone with a dedicated fan base who struggled to convert it into a sustainable business. It is important not to solely rely on personal connections or audience engagement, but also to focus on attracting and retaining customers or clients who genuinely value our offerings.
+
+Overall, the episode emphasizes the importance of both the connections we make and the content we produce. Building relationships and networking provide valuable support and opportunities, while sharing valuable content helps establish credibility and attract the right audience. However, it is crucial to strike a balance and ensure that our efforts align with our goals and target market.
+
+According to the podcast episode, luck and privilege may have some influence on the opportunities that come our way. Factors such as our place of birth, the year and country, and our parents can contribute to the initial luck we have. However, as the episode suggests, the influence of blind luck diminishes after these initial circumstances. Instead, our attitude and actions on a daily basis play a significant role in determining our luck.
+
+The episode emphasizes that most of our luck is shaped by the attitude we carry every day. While there may still be some privilege associated with our place of birth, the majority of the built-in luck has already occurred by the time we were born. Therefore, it is suggested that we make the most of our luck by cultivating a positive and proactive attitude.
+
+The podcast guest, Justin, also highlights the impact of our attitude in accumulating a lifetime of experience. He suggests that the direction we choose in life has a significant influence on where we end up. Additionally, the connections we make and the content we put out into the world, such as through podcasting, blogging, public speaking, or open-source projects, can contribute to our overall luck.
+
+Overall, the episode emphasizes the idea that while luck and privilege may play a role in the opportunities we encounter, our attitude and actions have a greater influence on our luck. By maintaining a positive mindset and actively pursuing our goals, we can increase our chances of success and create our own luck.
+
+## Quotes
+
+00:01:28 - "usually I'm the disappointment when people meet me in person. They go, I thought you would be a lot taller."
+
+00:04:29 - "I treat Twitter kind of like the local comedy club, where you go and test out material."
+
+00:10:09 - "That's $125 billion being spent on salaries for PHP developers alone."
+
+00:11:56 - "Taylor Ottwell as a solo person has sold $10 million worth of software to PHP developers. That's pretty crazy. That's insane."
+
+00:14:16 - "That's networking. That's who you know. Who knows you is the audience effect and that, I mean, that could be very helpful."
+
+00:20:26 - "But ultimately, if you're going to run a business, you need people who are going to show up, and then more people are going to show up, and then more people are going to show up."
+
+00:21:41 - "They're just looking for these tiny streams that no one else has ever discovered before."
+
+00:25:37 - "They were riding a wave that already existed. They just saw the wave coming and they built a better surfboard that enabled them to ride further than anyone else had at the time."
+
+00:29:21 - "If people aren't even willing to do something free, which is just search for a solution, how are you going to convince them to jump over all of these hurdles and actually take out their credit card out of their wallet and pay you for something?"
+
+00:34:23 - "Yeah, I mean, I think that's just the, this is another unpopular tweet of mine, but it is just, and I had to admit this before I had any success, but what you kind of have to admit in some way, on one side is we're not all going to make it. And a lot of people don't like hearing that,"
+
+00:35:26 - "there's nothing really romantic about starting a business."
+
+00:39:12 - "And then I got over into that area of the map and it was like this whole new world opened up that I'd never seen before."
+
+00:43:35 - "It's far better for you to book a ticket to a conference that you've never been to than to work 60, 70, 80 hours a week."
+
+00:46:58 - "You can see how desperation affects your actions."
+
+00:49:24 - "So yeah, there's a lot of luck in where I was born."
+
+## Keywords
+
+transcript, podcast episode, Noah, Ben, Product Journey,building an audience, new things to say, online community, processing thinking, fatigue,pressure, audience, market, PHP programmers, Laravel,market, developers, PHP, software, audience,know, networking, audience effect, software business, search engine results, human connection, market, Laravel community, key people, individual journey, optimize, connections, put out into the world, audience, Derek Reimer, Level,false positives, audience, launching, momentum, success,leads, people, wrong places, tiny streams, big rivers,PayPal, market, Western Union, bank transfer, money transfer,demonstrated demand, ideas, talking, waiting list, problem,difficult, switch, Trello, Basecamp, Jira,entrepreneur, filters, business, markets, optimistic,map, bounty, enemies, influential person, Laravel community,hard, journey, family, statistics, entrepreneurs,ladder, trading time for money, earning potential, income, cash saved up, stress level, desperation, investment, dependence, cost of living, money saved up, expenses, save money,money, privilege, business, luck, hard work
